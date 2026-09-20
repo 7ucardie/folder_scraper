@@ -22,7 +22,12 @@ jobs:
         id: scrape
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}   # used only when the Anthropic secret is not set
         run: node src/run.js ${{ inputs.force && '--force' || '' }}
+        continue-on-error: true
+      - name: Normal prices
+        id: prices
+        run: node src/prices.js
         continue-on-error: true
       - name: Publish data
         run: |
@@ -31,6 +36,6 @@ jobs:
           git add data
           git diff --cached --quiet || git commit -m "Offers $(date -u +%F)"
           git push
-      - name: Fail the run when a shop failed (GitHub then emails you)
-        if: steps.scrape.outcome == 'failure'
+      - name: Fail the run when a shop or the price list failed (GitHub then emails you)
+        if: steps.scrape.outcome == 'failure' || steps.prices.outcome == 'failure'
         run: exit 1

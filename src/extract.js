@@ -1,7 +1,24 @@
 'use strict';
 // Step 2: a vision model reads each picture and writes down the offers it sees.
-const API = (process.env.ANTHROPIC_BASE_URL || 'https://api.anthropic.com') + '/v1/messages';
-const MODEL = process.env.FOLDER_MODEL || 'claude-haiku-4-5-20251001';
+// ANTHROPIC_API_KEY wins when both keys are set; OPENAI_API_KEY is the fallback. FOLDER_MODEL overrides the model of whichever is used.
+const PROVIDERS = {
+  anthropic: { key: 'ANTHROPIC_API_KEY', model: 'claude-haiku-4-5-20251001',
+    url: () => (process.env.ANTHROPIC_BASE_URL || 'https://api.anthropic.com') + '/v1/messages',
+    headers: key => ({ 'x-api-key': key, 'anthropic-version': '2023-06-01' }),
+    body: (model, b64, text) => ({ model, max_tokens: 4000, messages: [{ role: 'user', content: [{ type: 'image', source: { type: 'base64', media_type: 'image/jpeg', data: b64 } }, { type: 'text', text }] }] }),
+    text: j => (j.content || []).filter(c => c.type === 'text').map(c => c.text).join('\n') },
+  openai: { key: 'OPENAI_API_KEY', model: 'gpt-4o-mini',
+    url: () => (process.env.OPENAI_BASE_URL || 'https://api.openai.com') + '/v1/chat/completions',
+    headers: key => ({ authorization: 'Bearer ' + key }),
+    body: (model, b64, text) => ({ model, max_completion_tokens: 4000, response_format: { type: 'json_object' }, messages: [{ role: 'user', content: [{ type: 'image_url', image_url: { url: 'data:image/jpeg;base64,' + b64 } }, { type: 'text', text }] }] }),
+    text: j => (j.choices && j.choices[0] && j.choices[0].message && j.choices[0].message.content) || '' },
+};
+/** The provider whose key is set, Anthropic first. Throws when neither key is set. */
+function provider() {
+  const name = ['anthropic', 'openai'].find(n => process.env[PROVIDERS[n].key]);
+  if (!name) throw new Error('Set ANTHROPIC_API_KEY or OPENAI_API_KEY first.');
+  return { name, ...PROVIDERS[name], apiKey: process.env[PROVIDERS[name].key], model: process.env.FOLDER_MODEL || PROVIDERS[name].model };
+}
 const sleep = ms => new Promise(r => setTimeout(r, ms));
 
 const PROMPT = shop => `This is part of this week's offers from the Dutch supermarket ${shop}. List every offer you can read in the picture.
@@ -12,12 +29,11 @@ Rules: copy what is printed and never guess a price. A price printed as "1 49" o
 function looseJson(text) { const a = text.indexOf('{'), b = text.lastIndexOf('}'); return JSON.parse(a >= 0 && b > a ? text.slice(a, b + 1) : text); }
 
 async function readImage(shopName, jpeg, attempt = 1) {
-  const body = { model: MODEL, max_tokens: 4000, messages: [{ role: 'user', content: [
-    { type: 'image', source: { type: 'base64', media_type: 'image/jpeg', data: jpeg.toString('base64') } }, { type: 'text', text: PROMPT(shopName) }] }] };
-  const r = await fetch(API, { method: 'POST', headers: { 'content-type': 'application/json', 'x-api-key': process.env.ANTHROPIC_API_KEY || '', 'anthropic-version': '2023-06-01' }, body: JSON.stringify(body) });
+  const p = provider();
+  const r = await fetch(p.url(), { method: 'POST', headers: { 'content-type': 'application/json', ...p.headers(p.apiKey) }, body: JSON.stringify(p.body(p.model, jpeg.toString('base64'), PROMPT(shopName))) });
   if ((r.status === 429 || r.status >= 500) && attempt < 4) { await sleep(2000 * attempt * attempt); return readImage(shopName, jpeg, attempt + 1); }
   const j = await r.json(); if (!r.ok) throw new Error('vision API: ' + (j.error && j.error.message || r.status));
-  const text = (j.content || []).filter(c => c.type === 'text').map(c => c.text).join('\n');
+  const text = p.text(j);
   try { const o = looseJson(text); return { validFrom: o.validFrom || null, validUntil: o.validUntil || null, offers: Array.isArray(o.offers) ? o.offers : [] }; }
   catch { return { validFrom: null, validUntil: null, offers: [], unreadable: true }; }
 }
@@ -30,4 +46,4 @@ async function extract(shopName, shots, { concurrency = 3, log = () => {} } = {}
   }));
   return out;
 }
-module.exports = { extract };
+module.exports = { extract, provider };
