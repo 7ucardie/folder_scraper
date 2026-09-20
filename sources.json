@@ -1,0 +1,38 @@
+{
+  "_readme": "One entry per shop. mode: 'scroll' for a long offers page, 'flipbook' for a page-turning folder viewer, 'pdf' for a page that links to a PDF folder. Check each url in a browser first: shops move these pages around.",
+  "shops": {
+    "jumbo": {
+      "name": "Jumbo",
+      "url": "https://www.jumbo.com/aanbiedingen",
+      "mode": "scroll",
+      "minOffers": 25
+    },
+    "ah": {
+      "name": "Albert Heijn",
+      "url": "https://www.ah.nl/bonus",
+      "mode": "scroll",
+      "minOffers": 40
+    },
+    "hoogvliet": {
+      "name": "Hoogvliet",
+      "url": "https://www.hoogvliet.com/aanbiedingen",
+      "mode": "scroll",
+      "minOffers": 20
+    },
+    "aldi": {
+      "name": "Aldi",
+      "url": "https://www.aldi.nl/aanbiedingen.html",
+      "mode": "scroll",
+      "minOffers": 15
+    },
+    "nettorama": {
+      "name": "Nettorama",
+      "url": "https://www.nettorama.nl/actiefolder",
+      "follow": "view\\.publitas\\.com",
+      "mode": "flipbook",
+      "minOffers": 25,
+      "maxPages": 45,
+      "_checked": "2026-09-20: this page names the folder dates and embeds a Publitas viewer (view.publitas.com/bv-nettorama-verbruikersmarkten/actiefolder-<week>-<year>/). Next week's folder appears on /actiefolder-volgende-week every Friday from 17:00."
+    }
+  }
+}

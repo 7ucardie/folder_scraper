@@ -1,0 +1,13 @@
+{
+  "name": "supermarkt-folders",
+  "version": "0.1.0",
+  "description": "Downloads the weekly folders and offer pages of Dutch supermarkets, reads the offers with a vision model, and publishes them as one JSON file.",
+  "license": "MIT",
+  "type": "commonjs",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "scrape": "node src/run.js",
+    "test": "node test/run-test.js"
+  },
+  "dependencies": { "playwright": "^1.47.0" }
+}

@@ -1,0 +1,36 @@
+name: Scrape folders
+on:
+  schedule:
+    - cron: "30 4 * * *"      # every day 04:30 UTC; shops whose folder is still valid are skipped, so most days cost nothing
+  workflow_dispatch:
+    inputs:
+      force: { description: "Scrape every shop again", type: boolean, default: false }
+permissions:
+  contents: write
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - run: npm install --no-audit --no-fund
+      - run: npx playwright install --with-deps chromium
+      - run: sudo apt-get install -y poppler-utils
+      - name: Scrape
+        id: scrape
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node src/run.js ${{ inputs.force && '--force' || '' }}
+        continue-on-error: true
+      - name: Publish data
+        run: |
+          git config user.name "folder-bot"
+          git config user.email "folder-bot@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "Offers $(date -u +%F)"
+          git push
+      - name: Fail the run when a shop failed (GitHub then emails you)
+        if: steps.scrape.outcome == 'failure'
+        run: exit 1
