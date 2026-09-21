@@ -32,7 +32,7 @@ async function loadWholePage(page, shop) {
 /** A long page: scroll one screen at a time and photograph each screen. */
 async function captureScroll(page, shop, max) {
   await loadWholePage(page, shop);
-  const shots = [], seen = new Set(); const step = 1400; let asked = false;
+  const shots = [], seen = new Set(); const step = 1200; let asked = false;   // less than the 1500 screen: a sticky header (Jumbo: 190) must not hide a strip of offers between two pictures
   for (let i = 0; i < max; i++) {
     await page.evaluate(y => window.scrollTo(0, y), i * step); await sleep(shop.waitMs || 900);   // let lazy images load
     // Jumbo's cookie question only appears after a while, and answering it loads the page again: start over
