@@ -69,11 +69,15 @@ async function capturePdf(page, shop, max) {
 }
 
 const MONTHS = { januari: 1, februari: 2, maart: 3, april: 4, mei: 5, juni: 6, juli: 7, augustus: 8, september: 9, oktober: 10, november: 11, december: 12 };
-/** "geldig van 14 september t/m 20 september" on the page, turned into dates near today. */
-function validity(text) {
-  const m = String(text).toLowerCase().match(/geldig[^.\n]{0,40}?(\d{1,2})\s+([a-z]+)\s+(?:t\/m|tot en met|-)\s+(\d{1,2})\s+([a-z]+)/); if (!m || !MONTHS[m[2]] || !MONTHS[m[4]]) return {};
-  const now = new Date(), near = (d, mo) => { let best = null; for (const y of [now.getFullYear() - 1, now.getFullYear(), now.getFullYear() + 1]) { const t = new Date(Date.UTC(y, mo - 1, d)); if (!best || Math.abs(t - now) < Math.abs(best - now)) best = t; } return best.toISOString().slice(0, 10); };
-  return { validFrom: near(+m[1], MONTHS[m[2]]), validUntil: near(+m[3], MONTHS[m[4]]) };
+const month = w => MONTHS[w] || (w === 'mrt' ? 3 : +(Object.entries(MONTHS).find(([name]) => w.length === 3 && name.startsWith(w)) || [])[1] || 0);   // "sep", "okt"
+/** "geldig van 14 september t/m 20 september" or "Tot en met dinsdag 22 sep" (Jumbo) on the page, turned into dates near today. */
+function validity(text, now = new Date()) {
+  const near = (d, mo) => { let best = null; for (const y of [now.getFullYear() - 1, now.getFullYear(), now.getFullYear() + 1]) { const t = new Date(Date.UTC(y, mo - 1, d)); if (!best || Math.abs(t - now) < Math.abs(best - now)) best = t; } return best.toISOString().slice(0, 10); };
+  const t = String(text).toLowerCase(), m = t.match(/geldig[^.\n]{0,40}?(\d{1,2})\s+([a-z]+)\s+(?:t\/m|tot en met|-)\s+(\d{1,2})\s+([a-z]+)/);
+  if (m && month(m[2]) && month(m[4])) return { validFrom: near(+m[1], month(m[2])), validUntil: near(+m[3], month(m[4])) };
+  const u = t.match(/(?:^|\n)\s*tot en met\s+(?:[a-z]+\s+)?(\d{1,2})\s+([a-z]+)/); if (!u || !month(u[2])) return {};   // a line of its own, not a sentence in the small print
+  const until = near(+u[1], month(u[2])), days = (Date.parse(until) - Date.parse(now.toISOString().slice(0, 10))) / 864e5;
+  return days >= 0 && days <= 14 ? { validUntil: until } : {};   // an end date alone is only believed when it is about this week's offers
 }
 /** "{week}" and "{year}" in a url: the ISO week of today, for folders that get a new address every week (folder.ah.nl/bonus-week-39-2026). */
 function weekUrl(url, now = new Date()) {
@@ -90,7 +94,8 @@ async function capture(shop, { maxPages = 40, debugDir } = {}) {
     const resp = await page.goto(shop.url, { waitUntil: 'domcontentloaded', timeout: 45000 });
     if (resp && resp.status() >= 400) throw new Error('page answered ' + resp.status() + ' (blocked or moved?)');
     await sleep(2500); await dismissCookies(page);
-    const hint = await page.evaluate(() => document.body ? document.body.innerText.slice(0, 20000) : '').then(validity).catch(() => ({}));
+    const readDates = () => page.evaluate(() => document.body ? document.body.innerText.slice(0, 20000) : '').then(t => validity(t)).catch(() => ({}));
+    const hint = await readDates();
     if (shop.follow) {   // the shop's page only embeds the real folder (for example a Publitas viewer): go to the folder itself
       const target = await page.evaluate(re => { const rx = new RegExp(re, 'i'); for (const el of document.querySelectorAll('iframe[src], a[href]')) { const u = el.src || el.href; if (rx.test(u)) return u; } return null; }, shop.follow);
       if (!target) throw new Error('no embedded folder matching "' + shop.follow + '" on ' + shop.url);
@@ -98,6 +103,7 @@ async function capture(shop, { maxPages = 40, debugDir } = {}) {
     }
     const max = Math.min(shop.maxPages || maxPages, 80);
     const shots = shop.mode === 'flipbook' ? await captureFlipbook(page, shop, max) : shop.mode === 'pdf' ? await capturePdf(page, shop, max) : await captureScroll(page, shop, max);
+    if (!hint.validUntil && !shop.follow) Object.assign(hint, await readDates());   // a page that draws itself slowly (Jumbo) had no text yet the first time
     if (debugDir) { fs.mkdirSync(debugDir, { recursive: true }); shots.forEach((b, i) => fs.writeFileSync(path.join(debugDir, String(i + 1).padStart(2, '0') + '.jpg'), b)); }
     return { shots, hint };
   } finally { await browser.close(); }

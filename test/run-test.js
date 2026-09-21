@@ -40,6 +40,9 @@ const site = http.createServer((q, r) => {
   if (pdf && (!s.pdfshop.ok || s.pdfshop.pages < 1)) problems.push('pdf folder not read');
   const in2 = new Date(Date.now() + 2 * 864e5).toISOString().slice(0, 10);
   if (!s.embedshop.ok || s.embedshop.pages !== 5 || s.embedshop.validUntil !== in2 || s.embedshop.validUntilGuessed) problems.push('embedded folder or printed dates: ' + JSON.stringify({ ok: s.embedshop.ok, pages: s.embedshop.pages, until: s.embedshop.validUntil }));
+  const { validity } = require('../src/capture'), at = new Date('2026-09-21T12:00:00Z'), dates = t => JSON.stringify(validity(t, at));
+  if (dates('Nu in de aanbieding\nTot en met dinsdag 22 sep\n') !== '{"validUntil":"2026-09-22"}') problems.push('"Tot en met dinsdag 22 sep" not read: ' + dates('Nu in de aanbieding\nTot en met dinsdag 22 sep\n'));
+  if (dates('wo 16 t/m di 22 sep') !== '{}' || dates('de actie loopt tot en met 25 sep') !== '{}' || dates('\nTot en met zondag 31 dec') !== '{}') problems.push('an end date read from the wrong text');
   if (s.blocked.ok !== false || a.status !== 1) problems.push('a blocked shop must fail the run');
   const before = calls, b = await run([]); if (calls !== before || !/skipped/.test(b.stdout)) problems.push('valid folders should be skipped on the next run');
   // without an Anthropic key the OpenAI key is used; without either the run stops before opening anything

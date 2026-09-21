@@ -28,7 +28,7 @@ const previous = fs.existsSync(OUT) ? JSON.parse(fs.readFileSync(OUT, 'utf8')) :
       console.log(`  ${shots.length} pictures taken`);
       if (!shots.length) throw new Error('nothing captured');
       const m = merge(await extract(shop.name, shots, { log: console.log }), today);
-      if (hint.validUntil) { m.validFrom = hint.validFrom; m.validUntil = hint.validUntil; }   // dates printed on the shop's own page beat dates read from a picture
+      if (hint.validUntil) { m.validFrom = hint.validFrom || m.validFrom; m.validUntil = hint.validUntil; }   // dates printed on the shop's own page beat dates read from a picture
       const min = shop.minOffers || 10;
       if (m.offers.length < min) throw new Error(`only ${m.offers.length} offers read, expected at least ${min}: the page probably changed or blocked us`);
       if (m.unreadable > shots.length / 3) throw new Error(`${m.unreadable} of ${shots.length} pictures could not be read`);
