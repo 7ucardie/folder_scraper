@@ -12,16 +12,31 @@ const hash = buf => crypto.createHash('md5').update(buf).digest('hex');
 
 async function dismissCookies(page) {
   for (const label of COOKIE_BUTTONS) {
-    const btn = page.getByRole('button', { name: label, exact: false }).first();
-    try { if (await btn.isVisible({ timeout: 400 })) { await btn.click({ timeout: 1500 }); await sleep(600); return; } } catch {}
+    const btn = page.getByRole('button', { name: label, exact: label.length < 4 }).first();   // "OK" must be the whole label: it is also inside "Cookie voorkeuren"
+    try { if (await btn.isVisible({ timeout: 400 })) { await btn.click({ timeout: 1500 }); await sleep(600); return true; } } catch (e) { if (process.env.DEBUG_COOKIES) console.log("cookie", label, e.message.split("\n").slice(0, 12).join(" / ")); }
   }
+  return false;
+}
+
+/** Some pages add their sections bit by bit, with seconds of nothing in between (Jumbo): go down until the page has not grown for ten seconds, then back to the top. */
+async function loadWholePage(page, shop) {
+  const quiet = shop.settleMs || 10000, t0 = Date.now(); let last = 0, since = Date.now();
+  while (Date.now() - since < quiet && Date.now() - t0 < 120000) {
+    await page.mouse.wheel(0, 1400); await sleep(500);
+    const [h, screen] = await page.evaluate(() => [document.documentElement.scrollHeight, window.innerHeight]);
+    if (h !== last || (h <= screen && Date.now() - t0 < 30000)) { last = h; since = Date.now(); }   // one screen high: probably nothing has been drawn yet
+  }
+  await page.evaluate(() => window.scrollTo(0, 0)); await sleep(500);
 }
 
 /** A long page: scroll one screen at a time and photograph each screen. */
 async function captureScroll(page, shop, max) {
-  const shots = [], seen = new Set(); const step = 1400;
+  await loadWholePage(page, shop);
+  const shots = [], seen = new Set(); const step = 1400; let asked = false;
   for (let i = 0; i < max; i++) {
     await page.evaluate(y => window.scrollTo(0, y), i * step); await sleep(shop.waitMs || 900);   // let lazy images load
+    // Jumbo's cookie question only appears after a while, and answering it loads the page again: start over
+    if (!asked && await dismissCookies(page)) { asked = true; await sleep(3000); await loadWholePage(page, shop); shots.length = 0; seen.clear(); i = -1; continue; }
     const buf = await page.screenshot({ type: 'jpeg', quality: 72 }), h = hash(buf);
     if (seen.has(h)) break; seen.add(h); shots.push(buf);
     const done = await page.evaluate(() => window.scrollY + window.innerHeight >= document.documentElement.scrollHeight - 4);
@@ -60,6 +75,12 @@ function validity(text) {
   const now = new Date(), near = (d, mo) => { let best = null; for (const y of [now.getFullYear() - 1, now.getFullYear(), now.getFullYear() + 1]) { const t = new Date(Date.UTC(y, mo - 1, d)); if (!best || Math.abs(t - now) < Math.abs(best - now)) best = t; } return best.toISOString().slice(0, 10); };
   return { validFrom: near(+m[1], MONTHS[m[2]]), validUntil: near(+m[3], MONTHS[m[4]]) };
 }
+/** "{week}" and "{year}" in a url: the ISO week of today, for folders that get a new address every week (folder.ah.nl/bonus-week-39-2026). */
+function weekUrl(url, now = new Date()) {
+  const d = new Date(Date.UTC(now.getFullYear(), now.getMonth(), now.getDate())); d.setUTCDate(d.getUTCDate() + 4 - (d.getUTCDay() || 7));   // the Thursday of this week decides the year
+  const week = Math.ceil(((d - Date.UTC(d.getUTCFullYear(), 0, 1)) / 864e5 + 1) / 7);
+  return url.replace('{week}', week).replace('{year}', d.getUTCFullYear());
+}
 async function capture(shop, { maxPages = 40, debugDir } = {}) {
   const browser = await chromium.launch({ executablePath: process.env.CHROME_PATH || undefined, args: ['--disable-blink-features=AutomationControlled'] });
   try {
@@ -81,4 +102,4 @@ async function capture(shop, { maxPages = 40, debugDir } = {}) {
     return { shots, hint };
   } finally { await browser.close(); }
 }
-module.exports = { capture, validity };
+module.exports = { capture, validity, weekUrl };

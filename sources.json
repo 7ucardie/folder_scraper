@@ -9,9 +9,11 @@
     },
     "ah": {
       "name": "Albert Heijn",
-      "url": "https://www.ah.nl/bonus",
-      "mode": "scroll",
-      "minOffers": 40
+      "url": "https://folder.ah.nl/bonus-week-{week}-{year}/",
+      "mode": "flipbook",
+      "minOffers": 40,
+      "maxPages": 60,
+      "_checked": "2026-09-21: www.ah.nl/bonus answers 403 to a headless browser. The printed folder is public at folder.ah.nl (a Publitas viewer) and gets a new address every Monday; {week} and {year} are filled in with today's ISO week."
     },
     "hoogvliet": {
       "name": "Hoogvliet",

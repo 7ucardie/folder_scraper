@@ -4,7 +4,7 @@
    Writes data/offers.json (the file other projects read) and data/history/<date>/<shop>.json.
    Exit code 1 when any shop failed its health check, so a scheduled run shows up red and sends an email. */
 const fs = require('fs'), path = require('path');
-const { capture } = require('./capture'), { extract, provider } = require('./extract'), { merge } = require('./merge');
+const { capture, weekUrl } = require('./capture'), { extract, provider } = require('./extract'), { merge } = require('./merge');
 const args = process.argv.slice(2), flag = n => args.includes('--' + n), opt = n => { const i = args.indexOf('--' + n); return i >= 0 ? args[i + 1] : null; };
 const ROOT = path.join(__dirname, '..'), OUT = path.join(ROOT, 'data', 'offers.json');
 const sources = JSON.parse(fs.readFileSync(process.env.SOURCES || path.join(ROOT, 'sources.json'), 'utf8')).shops;
@@ -14,7 +14,8 @@ const previous = fs.existsSync(OUT) ? JSON.parse(fs.readFileSync(OUT, 'utf8')) :
 (async () => {
   try { const p = provider(); console.log(`Vision model: ${p.model} (${p.name})`); } catch (e) { console.error(e.message); process.exit(2); }
   const result = { format: 1, generated: new Date().toISOString(), shops: { ...previous.shops } }; let failed = 0;
-  for (const [id, shop] of Object.entries(sources)) {
+  for (const [id, source] of Object.entries(sources)) {
+    const shop = { ...source, url: weekUrl(source.url) };
     if (opt('shop') && opt('shop') !== id) continue;
     const old = previous.shops[id];
     // A folder we already read is not read (and paid for) again. When the end date was a guess, look again after two days.

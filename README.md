@@ -21,10 +21,11 @@ Look at the pictures in `debug/` first. If they show the offers, the rest works.
 
 | field | meaning |
 |---|---|
-| `url` | the page a customer opens to see this week's offers or folder |
+| `url` | the page a customer opens to see this week's offers or folder. `{week}` and `{year}` become today's ISO week, for folders with a new address every week |
 | `mode` | `scroll`: a long page. `flipbook`: a page-turning viewer (arrow-right turns the page; set `nextSelector` if it needs a click). `pdf`: the page links to a PDF (`pdfLinkPattern` picks the right link, or give `pdfUrl`) |
 | `minOffers` | fewer offers than this means the run failed |
 | `maxPages`, `waitMs` | how many pictures at most, and how long to wait for images to load |
+| `settleMs` | `scroll` only: the page counts as fully loaded when it has not grown for this long (default 10000) |
 
 The five addresses in the file are starting points that were **not checked from a live run**. Open each in a browser, and swap in the folder viewer's own address if the shop has one: those are usually the most complete.
 
