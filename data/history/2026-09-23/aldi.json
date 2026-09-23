@@ -1,0 +1,2116 @@
+{
+ "name": "Aldi",
+ "ok": true,
+ "source": "https://www.aldi.nl/aanbiedingen.html",
+ "scraped": "2026-09-23",
+ "validFrom": null,
+ "validUntil": "2026-09-29",
+ "validUntilGuessed": true,
+ "pages": 37,
+ "offers": [
+  {
+   "product": "MOLENLAND Goudse kaas jong belegen 48+ stuk",
+   "size": "950 g",
+   "deal": null,
+   "price": 5.49,
+   "normalPrice": 8.46,
+   "note": null
+  },
+  {
+   "product": "Geraspte kaas mild 30+",
+   "size": "200 g",
+   "deal": null,
+   "price": 1.49,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Cervelaatworst",
+   "size": "200 g",
+   "deal": null,
+   "price": 1.79,
+   "normalPrice": 2.29,
+   "note": null
+  },
+  {
+   "product": "Paté met boschampignons,...",
+   "size": "125-150 g",
+   "deal": null,
+   "price": 1.29,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "LEKKER & SNEL Ovenwraps",
+   "size": "2 stuks, 300 g",
+   "deal": null,
+   "price": 2.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "ASIA GREEN GARDEN Pokébowl kip, zalm of tonijn",
+   "size": "330-350 g",
+   "deal": null,
+   "price": 3.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Mini volkoren-rozijnenboltjes",
+   "size": "9 stuks",
+   "deal": null,
+   "price": 1.79,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "BIO Biologisch roggebrood",
+   "size": "400 g",
+   "deal": null,
+   "price": 0.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "GOUD GEBARKEN Low carb crackers",
+   "size": "2 x 3 stuks",
+   "deal": "-10%",
+   "price": 1.79,
+   "normalPrice": 1.99,
+   "note": null
+  },
+  {
+   "product": "MELONIA Honing",
+   "size": "1 kg",
+   "deal": null,
+   "price": 4.19,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "GOUD GEBAKKEN Low carb crackers",
+   "size": "2 x 3 stuks",
+   "deal": "-10%",
+   "price": 1.79,
+   "normalPrice": 1.99,
+   "note": null
+  },
+  {
+   "product": "ALL SEASONS Halve abrikozen",
+   "size": "850 g",
+   "deal": null,
+   "price": 2.29,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "ALBONA Mix voor kwartkaart limoensmaak",
+   "size": "400 g",
+   "deal": "-13%",
+   "price": 1.99,
+   "normalPrice": 2.29,
+   "note": null
+  },
+  {
+   "product": "CUCINA Tapenade",
+   "size": "130 - 140 g",
+   "deal": "2 VOOR",
+   "price": 2,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "ASIA GREEN GARDEN Sambal oelek",
+   "size": "200 g",
+   "deal": null,
+   "price": 1.39,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "LANDBECK Salami",
+   "size": "500 g",
+   "deal": null,
+   "price": 4.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "ASIA GREEN GARDEN Babi pangang",
+   "size": "800 g",
+   "deal": null,
+   "price": 5.29,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "DE KRUIDEN COMPANY Gehaktmix",
+   "size": "40 g",
+   "deal": "2 VOOR",
+   "price": 1,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "HEERLIJCK BANKET Kano's",
+   "size": "14 stuks, 650 g",
+   "deal": "OP=OP",
+   "price": 2.49,
+   "normalPrice": 3.3,
+   "note": null
+  },
+  {
+   "product": "HEERLIJCK BANKET Crème brûlée rondo's",
+   "size": "6 stuks, 420 g",
+   "deal": "OP=OP",
+   "price": 2.79,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "TRADER JOE'S Geroosterde noten",
+   "size": "200 g",
+   "deal": "OP=OP",
+   "price": 1.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "TRADER JOE'S Pinda-maismix",
+   "size": "150 g",
+   "deal": "2 VOOR",
+   "price": 1.5,
+   "normalPrice": null,
+   "note": "kg = 10.00"
+  },
+  {
+   "product": "SUN SNACKS Roasted Kettle Chips",
+   "size": "150 g",
+   "deal": "-17%",
+   "price": 1.39,
+   "normalPrice": 1.69,
+   "note": null
+  },
+  {
+   "product": "SUN SNACKS Chips",
+   "size": "130-170 g",
+   "deal": "OP=OP",
+   "price": 1.49,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "SUN SNACKS Hummus-chips",
+   "size": "90 g",
+   "deal": "OP=OP",
+   "price": 0.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "SUN SNACKS Maïschips",
+   "size": "150 g",
+   "deal": "OP=OP",
+   "price": 0.79,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "WESTMINSTER Groene thee",
+   "size": "20 zakjes",
+   "deal": null,
+   "price": 0.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "BARISSIMO Barista koffiebonen",
+   "size": "1 kg",
+   "deal": null,
+   "price": 9.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "MILKIS Frisdrank",
+   "size": "250 ml",
+   "deal": null,
+   "price": 0.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "GOLDEN POWER Energydrink*",
+   "size": "0.5 l",
+   "deal": null,
+   "price": 0.89,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "GOLDEN POWER Energydrink tropical, mango of white peach...",
+   "size": "25 cl",
+   "deal": null,
+   "price": 0.69,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Forest Hill Chardonnay of Shiraz",
+   "size": "0.75 l",
+   "deal": "TOT -22%",
+   "price": 2.79,
+   "normalPrice": 3.59,
+   "note": null
+  },
+  {
+   "product": "SCHULTENBRAU DF DEL RIO Strong 8% of lemon-agave flavoured bier",
+   "size": "0.5 l",
+   "deal": "TOT -23%",
+   "price": 0.99,
+   "normalPrice": 1.29,
+   "note": null
+  },
+  {
+   "product": "SCHULTENBRAU Hefe weizen",
+   "size": "50 cl",
+   "deal": "-22%",
+   "price": 0.85,
+   "normalPrice": 1.09,
+   "note": null
+  },
+  {
+   "product": "Onbekend product",
+   "size": "0.75 l",
+   "deal": "TOT -22%",
+   "price": 2.79,
+   "normalPrice": 3.59,
+   "note": null
+  },
+  {
+   "product": "Onbekend product",
+   "size": "0.5 l",
+   "deal": "TOT -23%",
+   "price": 0.99,
+   "normalPrice": 1.29,
+   "note": null
+  },
+  {
+   "product": "Onbekend product",
+   "size": "50 cl",
+   "deal": null,
+   "price": 0.85,
+   "normalPrice": 1.09,
+   "note": null
+  },
+  {
+   "product": "SOLO Keukenrol XXL extra lang",
+   "size": "700 vel/len",
+   "deal": "OP=OP",
+   "price": 4.49,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "TANDIL Vloeibaar wasmiddel universeel",
+   "size": "62 wasbeurten",
+   "deal": "Niet verkrijgbaar",
+   "price": null,
+   "normalPrice": null,
+   "note": "XXL"
+  },
+  {
+   "product": "VITALIS Spier- en gewrichtsgel",
+   "size": "100 ml",
+   "deal": "OP=OP",
+   "price": 1.99,
+   "normalPrice": 19.9,
+   "note": null
+  },
+  {
+   "product": "MULTINORM Medicinale pijnegel",
+   "size": "100 ml",
+   "deal": "OP=OP",
+   "price": 1.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "LACURA Krulset",
+   "size": "Per set",
+   "deal": "OP=OP",
+   "price": 2.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Pitloze rode druiven",
+   "size": "500 g",
+   "deal": "-44%",
+   "price": 1.39,
+   "normalPrice": 2.99,
+   "note": null
+  },
+  {
+   "product": "Pitloze rode druiven",
+   "size": "500 g",
+   "deal": null,
+   "price": 1.39,
+   "normalPrice": 2.39,
+   "note": "-44%"
+  },
+  {
+   "product": "Conference peren",
+   "size": "1 kg",
+   "deal": null,
+   "price": 1.39,
+   "normalPrice": 1.79,
+   "note": "-22%"
+  },
+  {
+   "product": "GALA Zoete kinderappeltjes",
+   "size": "1 kg",
+   "deal": null,
+   "price": 1.69,
+   "normalPrice": 1.99,
+   "note": "-15%"
+  },
+  {
+   "product": "Handsinaasappels",
+   "size": "2 kg",
+   "deal": null,
+   "price": 2.59,
+   "normalPrice": 2.89,
+   "note": "-10%"
+  },
+  {
+   "product": "Eertripe avocado's",
+   "size": "2-pack",
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": 2.49,
+   "note": "-20%"
+  },
+  {
+   "product": "Komkommer",
+   "size": null,
+   "deal": null,
+   "price": 0.59,
+   "normalPrice": null,
+   "note": "Per stuk"
+  },
+  {
+   "product": "Prei",
+   "size": null,
+   "deal": "2 VOOR",
+   "price": 0.79,
+   "normalPrice": 1.18,
+   "note": "Per stuk"
+  },
+  {
+   "product": "2-pack",
+   "size": null,
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": 2.49,
+   "note": null
+  },
+  {
+   "product": "Per stuk",
+   "size": null,
+   "deal": null,
+   "price": 0.59,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Per stuk",
+   "size": null,
+   "deal": null,
+   "price": 0.79,
+   "normalPrice": 1.18,
+   "note": null
+  },
+  {
+   "product": "SWEET PALERMO Rode punttpaprika's",
+   "size": "500 g",
+   "deal": "OP=OP",
+   "price": 1.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Wortels",
+   "size": "1 kg",
+   "deal": "-31%",
+   "price": 0.89,
+   "normalPrice": 1.29,
+   "note": null
+  },
+  {
+   "product": "Sperziebonen",
+   "size": "500 g",
+   "deal": "-33%",
+   "price": 0.99,
+   "normalPrice": 1.49,
+   "note": null
+  },
+  {
+   "product": "Trio sla op kluit",
+   "size": null,
+   "deal": "-25%",
+   "price": 0.89,
+   "normalPrice": 1.19,
+   "note": null
+  },
+  {
+   "product": "DAYLICIOUS Bloemkoolroosjes",
+   "size": "400 g",
+   "deal": "-13%",
+   "price": 1.99,
+   "normalPrice": 2.29,
+   "note": null
+  },
+  {
+   "product": "DAYLICIOUS Chinese roerbakmix",
+   "size": "400 g",
+   "deal": "-12%",
+   "price": 1.75,
+   "normalPrice": 1.99,
+   "note": null
+  },
+  {
+   "product": "Extra grote kruimige aardappelen",
+   "size": "1 kg",
+   "deal": "-28%",
+   "price": 2.49,
+   "normalPrice": 3.49,
+   "note": null
+  },
+  {
+   "product": "Speklappen",
+   "size": "800 g",
+   "deal": null,
+   "price": 5.99,
+   "normalPrice": null,
+   "note": "30% GOEDKOPER"
+  },
+  {
+   "product": "Spekburgers",
+   "size": "2 stuks, 252 g",
+   "deal": "-20 CENT",
+   "price": 2.49,
+   "normalPrice": 2.69,
+   "note": null
+  },
+  {
+   "product": "Casselerrib",
+   "size": "400 g",
+   "deal": null,
+   "price": 3.89,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Kipgehakt",
+   "size": "400 g",
+   "deal": "-26%",
+   "price": 3.69,
+   "normalPrice": 4.99,
+   "note": null
+  },
+  {
+   "product": "Rundgehakt",
+   "size": "750 g",
+   "deal": null,
+   "price": 6.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Kipsatéschnitels",
+   "size": "4 stuks, 500 g",
+   "deal": null,
+   "price": 4.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Hollandse Nieuwe haring",
+   "size": "4 stuks, 240 g",
+   "deal": "27% GOEDKOPER",
+   "price": 3.19,
+   "normalPrice": 4.39,
+   "note": null
+  },
+  {
+   "product": "ERU Smeerkaas",
+   "size": "200 g",
+   "deal": "NU VOOR",
+   "price": 1.89,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "UNOX Rookworst",
+   "size": "275-285 g",
+   "deal": "-16%",
+   "price": 2.49,
+   "normalPrice": 2.99,
+   "note": "kg = 8.7€"
+  },
+  {
+   "product": "UNOX Knakworsten",
+   "size": "400 g",
+   "deal": "-21%",
+   "price": 1.99,
+   "normalPrice": 2.55,
+   "note": "kg = 4.98"
+  },
+  {
+   "product": "BLUE BAND Halvarine of goede start",
+   "size": "500 g",
+   "deal": "-25%",
+   "price": 1.49,
+   "normalPrice": 1.99,
+   "note": null
+  },
+  {
+   "product": "BLUE BAND Vloeibaar of wikkel voor koken, bakken en braden",
+   "size": "700 ml/500 g",
+   "deal": "TOT -28%",
+   "price": 2.49,
+   "normalPrice": 3.49,
+   "note": null
+  },
+  {
+   "product": "HONIG Mix of drooge soep",
+   "size": "65-87 g",
+   "deal": "OP=OP",
+   "price": 0.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "NUTELLA Hazelnootpasta",
+   "size": "825 g",
+   "deal": "OP=OP",
+   "price": 5.99,
+   "normalPrice": null,
+   "note": "kg = 7.26"
+  },
+  {
+   "product": "IGLO Roerbak sensatie",
+   "size": "450 g",
+   "deal": "OP=OP",
+   "price": 3.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "HERTOG IJssalon",
+   "size": "825 ml",
+   "deal": "OP=OP",
+   "price": 2.69,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "OLDTIMERS Suikervrije drop",
+   "size": "100 g",
+   "deal": "OP=OP",
+   "price": 1.69,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "WRIGLEY'S EXTRA 5-pack kauwgom",
+   "size": "5x10 stuks",
+   "deal": "OP=OP",
+   "price": 1.49,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "NESCAFÉ Koffiecups lungo, espresso of ristretto",
+   "size": "20 cups",
+   "deal": "OP=OP",
+   "price": 4.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Suikervijé drop",
+   "size": "100 g",
+   "deal": null,
+   "price": 1.69,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "5-pack Kauwgum",
+   "size": "5x10 stuks",
+   "deal": null,
+   "price": 1.49,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Koffiecups lungo, espresso of ristretto",
+   "size": "20 cups",
+   "deal": null,
+   "price": 4.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "A.A. DRINK Energydrink",
+   "size": "250 ml",
+   "deal": "25% korting",
+   "price": 0.59,
+   "normalPrice": null,
+   "note": "l = 2.36"
+  },
+  {
+   "product": "HERTOG JAN Bier",
+   "size": "0.5 l",
+   "deal": "23% korting",
+   "price": 1.15,
+   "normalPrice": 1.5,
+   "note": "l = 2.30"
+  },
+  {
+   "product": "ROBIJM Wasparfum",
+   "size": "342 ml",
+   "deal": null,
+   "price": 2.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "LENOR Wasmiddel, -verzachter of -pods",
+   "size": "35-126 wassoorten",
+   "deal": null,
+   "price": 8.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "DREFT Quickwash afwasmiddel",
+   "size": "350 ml",
+   "deal": "2 VOOR",
+   "price": 3,
+   "normalPrice": 5.98,
+   "note": "l = 8.57"
+  },
+  {
+   "product": "Deslon turbo",
+   "size": "500 ml",
+   "deal": null,
+   "price": 2.49,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "DETTOL Allesreiniger",
+   "size": "1 l",
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "DEPEND Incontinentie-ondergoед",
+   "size": "9-10 stuks",
+   "deal": null,
+   "price": 4.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "DEPEND Incontinentie-ondergoed",
+   "size": "9-10 stuks",
+   "deal": null,
+   "price": 4.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "TESOROS DEL SUR Flan caramel",
+   "size": "4x100 g",
+   "deal": null,
+   "price": 0.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "TESOROS DEL SUR Flan de huevo",
+   "size": "4x100 g",
+   "deal": null,
+   "price": 1.89,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "TESOROS DEL SUR Crema Catalana",
+   "size": "140 g",
+   "deal": null,
+   "price": 1.49,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "TESOROS DEL SUR Jamón serrano",
+   "size": "875 g",
+   "deal": null,
+   "price": 14.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "Tesoros del Sur Jamón Serrano",
+   "size": "240 g",
+   "deal": null,
+   "price": 4.49,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Tesoros del Sur Salamisticks",
+   "size": "100 g",
+   "deal": null,
+   "price": 2.39,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Tesoros del Sur Salami",
+   "size": "170 g",
+   "deal": null,
+   "price": 2.19,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Tesoros del Sur Longaniza de Payés",
+   "size": "250 g",
+   "deal": null,
+   "price": 3.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Tesoros del Sur Ansjovisfilets",
+   "size": "80 g",
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Tesoros del Sur Pittge sardines",
+   "size": "120 g",
+   "deal": null,
+   "price": 1.69,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Tesoros del Sur Chileense mosselen",
+   "size": "115 g",
+   "deal": null,
+   "price": 1.69,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Tesoros del Sur Spaanse olijfolie extra vierge",
+   "size": "500 ml",
+   "deal": null,
+   "price": 3.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Tesoros del Sur Spaanse olijfolie extra vierge",
+   "size": "3 l",
+   "deal": null,
+   "price": 19.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "TESOROS DEL SUR Knoflookteentjes",
+   "size": "314 ml",
+   "deal": null,
+   "price": 2.49,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "DAYLICIOUS Olijven met kruiden of knoflook",
+   "size": "300 g",
+   "deal": null,
+   "price": 2.49,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "TESOROS DEL SUR Artisjokiharten",
+   "size": "5-7 stuks, 400 g",
+   "deal": null,
+   "price": 2.49,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "ALL SEASONS 3-pack tomaten frito",
+   "size": "3x200 g",
+   "deal": null,
+   "price": 1.29,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "TESOROS DEL SUR Mini-tortilla's",
+   "size": "8 stuks, 220 g",
+   "deal": null,
+   "price": 0.89,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "ALL SEASONS Partjes mandarijn op lichte siroop",
+   "size": "560 g",
+   "deal": null,
+   "price": 2.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "TESOROS DEL SUR Amandelen",
+   "size": null,
+   "deal": null,
+   "price": 1.79,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "TESOROS DEL SUR Crema Catalana of Flan",
+   "size": null,
+   "deal": null,
+   "price": 0.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "GOLDEN BRIDGE Churros ontbijtgranen",
+   "size": null,
+   "deal": null,
+   "price": 2.29,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "GOLDEN BRIDGE Churros bijjligranen",
+   "size": "500 g",
+   "deal": null,
+   "price": 2.29,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "TESOROS DEL SUR Inktvisringen",
+   "size": "500 g",
+   "deal": null,
+   "price": 2.49,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "TESOROS DEL SUR Churros",
+   "size": "16 stuks, 290 g",
+   "deal": null,
+   "price": 2.49,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "TESOROS DEL SUR Magdalena's",
+   "size": "350-380 g",
+   "deal": null,
+   "price": 1.79,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "TESOROS DEL SUR Almendrados",
+   "size": "12 stuks, 325 g",
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "RIO D'ORO Mandarijnsap",
+   "size": "1 l",
+   "deal": null,
+   "price": 2.49,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Gran Reserva Cariñena",
+   "size": "0.75 l",
+   "deal": null,
+   "price": 4.49,
+   "normalPrice": 5.99,
+   "note": null
+  },
+  {
+   "product": "Bodegas Paniza Appassionado",
+   "size": "0.75 l",
+   "deal": null,
+   "price": 4.99,
+   "normalPrice": 6.65,
+   "note": null
+  },
+  {
+   "product": "Finca del Tuerto Parcela 11",
+   "size": "0.75 l",
+   "deal": null,
+   "price": 5.99,
+   "normalPrice": 7.99,
+   "note": null
+  },
+  {
+   "product": "Biologische Tempranillo Merlot of Verdejo",
+   "size": "0.75 l",
+   "deal": null,
+   "price": 3.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Organic Tempranillo Bobal Dry",
+   "size": "0.75 l",
+   "deal": null,
+   "price": 4.49,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "MILSANI Protein melk drink",
+   "size": "1 l",
+   "deal": "2 VOOR",
+   "price": 2.5,
+   "normalPrice": 2.98,
+   "note": null
+  },
+  {
+   "product": "BRAZZY Whey protëinepoeder",
+   "size": "300 g",
+   "deal": "-15%",
+   "price": 5.79,
+   "normalPrice": 6.89,
+   "note": null
+  },
+  {
+   "product": "BRAZZY Clear protein powder",
+   "size": "200 g",
+   "deal": "-15%",
+   "price": 5.69,
+   "normalPrice": 6.69,
+   "note": null
+  },
+  {
+   "product": "BRAZZY Whey proteïnepoeder",
+   "size": "300 g",
+   "deal": "-15%",
+   "price": 5.79,
+   "normalPrice": 6.89,
+   "note": null
+  },
+  {
+   "product": "BRAZZY Creatinepoeder",
+   "size": "300 g",
+   "deal": "-20%",
+   "price": 3.99,
+   "normalPrice": 4.99,
+   "note": null
+  },
+  {
+   "product": "GOLDEN BRIDGE High protein crunchy muesli",
+   "size": "350 g",
+   "deal": "-16%",
+   "price": 2.49,
+   "normalPrice": 2.99,
+   "note": null
+  },
+  {
+   "product": "BRAZZY High protein reep",
+   "size": "60 g",
+   "deal": "-28%",
+   "price": 0.99,
+   "normalPrice": 1.39,
+   "note": null
+  },
+  {
+   "product": "ALDI SPORTS Proteïnekoeken",
+   "size": "80 g",
+   "deal": "-20%",
+   "price": 1.19,
+   "normalPrice": 1.49,
+   "note": null
+  },
+  {
+   "product": "POWER FORCE Glasreiniger",
+   "size": "1 l",
+   "deal": "-15%",
+   "price": 1.35,
+   "normalPrice": 1.59,
+   "note": null
+  },
+  {
+   "product": "POWER FORCE Badkamer- of keukenreiniger",
+   "size": "750 ml",
+   "deal": "-15%",
+   "price": 0.95,
+   "normalPrice": 1.19,
+   "note": null
+  },
+  {
+   "product": "POWER FORCE Schoonmaakazijn",
+   "size": "5 l",
+   "deal": "-20%",
+   "price": 2.39,
+   "normalPrice": 2.99,
+   "note": null
+  },
+  {
+   "product": "POWER FORCE Dikke bleek",
+   "size": "1 l",
+   "deal": "-20%",
+   "price": 0.59,
+   "normalPrice": 0.74,
+   "note": null
+  },
+  {
+   "product": "POWER FORCE Glanspoelmiddel",
+   "size": "1 l",
+   "deal": "-14%",
+   "price": 1.65,
+   "normalPrice": 1.94,
+   "note": null
+  },
+  {
+   "product": "POWER FORCE Vaatwastabletten classic",
+   "size": "60 tabs",
+   "deal": "-14%",
+   "price": 3.15,
+   "normalPrice": 3.69,
+   "note": null
+  },
+  {
+   "product": "POWER FORCE Afwasmiddel eco",
+   "size": null,
+   "deal": "-15%",
+   "price": 0.75,
+   "normalPrice": 0.88,
+   "note": null
+  },
+  {
+   "product": "POWER FORCE Afvoerreinigergel",
+   "size": "1 l",
+   "deal": "NUVOOR",
+   "price": 1.49,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "POWER FORCE Active gel discs 3-in-1",
+   "size": null,
+   "deal": "-14%",
+   "price": 2.29,
+   "normalPrice": 2.69,
+   "note": null
+  },
+  {
+   "product": "POWER FORCE 5-in-1 wc-blokken 2-pack",
+   "size": "2-pack",
+   "deal": "-25%",
+   "price": 1.19,
+   "normalPrice": 1.59,
+   "note": null
+  },
+  {
+   "product": "POWER FORCE Reinigingsdoekjes",
+   "size": "80 doekjes",
+   "deal": "-14%",
+   "price": 0.85,
+   "normalPrice": 0.99,
+   "note": null
+  },
+  {
+   "product": "POWER FORCE Huishouddoekjes",
+   "size": "6 stuks",
+   "deal": "-14%",
+   "price": 0.85,
+   "normalPrice": 0.99,
+   "note": null
+  },
+  {
+   "product": "POWER FORCE Pedaalsemmerzakken",
+   "size": "50 stuks",
+   "deal": "-28%",
+   "price": 0.99,
+   "normalPrice": 1.38,
+   "note": null
+  },
+  {
+   "product": "POWER FORCE Recycling afvalzakken",
+   "size": "20 stuks",
+   "deal": "-13%",
+   "price": 1.29,
+   "normalPrice": 1.49,
+   "note": null
+  },
+  {
+   "product": "POWER FORCE Trekbandzakken",
+   "size": "15 stuks",
+   "deal": "NU VOOR",
+   "price": 0.75,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "POWER FORCE Schuursponzen 6-pack",
+   "size": "6-pack",
+   "deal": "-16%",
+   "price": 0.65,
+   "normalPrice": 0.79,
+   "note": null
+  },
+  {
+   "product": "POWER FORCE Bakvellen",
+   "size": "30 vellen",
+   "deal": "-13%",
+   "price": 0.99,
+   "normalPrice": 1.15,
+   "note": null
+  },
+  {
+   "product": "POWER FORCE Aluminiumfolie",
+   "size": "Per rol",
+   "deal": "-14%",
+   "price": 1.49,
+   "normalPrice": 1.75,
+   "note": null
+  },
+  {
+   "product": "Chrysant",
+   "size": "Per stuk",
+   "deal": "OP=OP",
+   "price": 3.29,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Najaarsviolen 10-pack",
+   "size": "10-pack",
+   "deal": "OP=OP",
+   "price": 2.39,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Groene kamerplant",
+   "size": "Per stuk",
+   "deal": "OP=OP",
+   "price": 2.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Saintpaulia",
+   "size": null,
+   "deal": "OP=OP",
+   "price": null,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Sierkalebassen",
+   "size": null,
+   "deal": "OP=OP",
+   "price": null,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Potroos",
+   "size": null,
+   "deal": "OP=OP",
+   "price": null,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Saintpaulia",
+   "size": "12 cm",
+   "deal": null,
+   "price": 2.29,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "Sierkalebassen",
+   "size": null,
+   "deal": null,
+   "price": 3.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "Potroos",
+   "size": null,
+   "deal": null,
+   "price": 2.49,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "NOVITESSE Dekbedovertrek soft touch",
+   "size": null,
+   "deal": null,
+   "price": 12.99,
+   "normalPrice": null,
+   "note": "VANAF"
+  },
+  {
+   "product": "EMMA ESSENTIALS Dekbed, hoofdkussen of neksteunkussen",
+   "size": null,
+   "deal": null,
+   "price": 14.99,
+   "normalPrice": null,
+   "note": "VANAF"
+  },
+  {
+   "product": "NOVITESSE Hoeslaken soft touch",
+   "size": null,
+   "deal": null,
+   "price": 7.99,
+   "normalPrice": null,
+   "note": "VANAF"
+  },
+  {
+   "product": "NOVITESSE Kussensloop",
+   "size": null,
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "Kussensloop",
+   "size": null,
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "Vloerkleed faux fur",
+   "size": null,
+   "deal": null,
+   "price": 17.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "Geurkaars met deksel",
+   "size": null,
+   "deal": null,
+   "price": 3.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "Geurtheelichtjes",
+   "size": null,
+   "deal": null,
+   "price": 2.49,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "GeurKaas of geurstokjes",
+   "size": null,
+   "deal": null,
+   "price": 3.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "HOME CREATION Geurkaars met deksel",
+   "size": null,
+   "deal": null,
+   "price": 3.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "HOME CREATION Geurtheelichtjes",
+   "size": null,
+   "deal": null,
+   "price": 2.49,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "HOME CREATION Geurkaas of geurstokjes",
+   "size": null,
+   "deal": null,
+   "price": 3.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "HOME CREATION Geurstokjes",
+   "size": null,
+   "deal": null,
+   "price": 1.59,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "UP2FASHION Trui",
+   "size": null,
+   "deal": null,
+   "price": 8.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "UP2FASHION Trui",
+   "size": null,
+   "deal": null,
+   "price": 9.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "UP2FASHION Loungewear trui",
+   "size": null,
+   "deal": null,
+   "price": 4.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "UP2FASHION Stretch jeans",
+   "size": null,
+   "deal": null,
+   "price": 9.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "UP2FASHION Broek met wijde pijpen",
+   "size": null,
+   "deal": null,
+   "price": 7.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "UP2FASHION Broek chino",
+   "size": null,
+   "deal": null,
+   "price": 9.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "UP2FASHION Loungewear broek",
+   "size": null,
+   "deal": null,
+   "price": 4.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "UP2FASHION Legging lederlook",
+   "size": null,
+   "deal": null,
+   "price": 4.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "UP2FASHION Pyjama",
+   "size": null,
+   "deal": null,
+   "price": 7.99,
+   "normalPrice": null,
+   "note": "OP=OP Per set"
+  },
+  {
+   "product": "UP2FASHION Lichtgewicht bodywarmer",
+   "size": null,
+   "deal": null,
+   "price": 9.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "HOME CREATION Plaid Poncho",
+   "size": null,
+   "deal": null,
+   "price": 5.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "KAPPA Sokken 3-pack",
+   "size": "3-pack",
+   "deal": null,
+   "price": 3.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "Bodywarmer",
+   "size": null,
+   "deal": null,
+   "price": 9.99,
+   "normalPrice": null,
+   "note": "Per stuk"
+  },
+  {
+   "product": "UP2FASHION Pantoffels",
+   "size": null,
+   "deal": null,
+   "price": 6.99,
+   "normalPrice": null,
+   "note": "Per paar"
+  },
+  {
+   "product": "UP2FASHION Sandalen gevoerd",
+   "size": null,
+   "deal": null,
+   "price": 8.99,
+   "normalPrice": null,
+   "note": "Per paar"
+  },
+  {
+   "product": "UP2FASHION Chelsea boots",
+   "size": null,
+   "deal": null,
+   "price": 19.99,
+   "normalPrice": null,
+   "note": "Per set"
+  },
+  {
+   "product": "DAYLICIOUS Spruiten",
+   "size": "750 g",
+   "deal": "-35%",
+   "price": 1.29,
+   "normalPrice": 2.19,
+   "note": "kg = 1.72"
+  },
+  {
+   "product": "DAYLICIOUS Aardappelschijfjes spek & ui",
+   "size": "500 g",
+   "deal": "-40%",
+   "price": 1.19,
+   "normalPrice": 1.99,
+   "note": "kg = 2.38"
+  },
+  {
+   "product": "Hele gegaarde kip",
+   "size": "1.25 kg",
+   "deal": null,
+   "price": 8.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Bacon",
+   "size": "150 g",
+   "deal": "-20%",
+   "price": 1.59,
+   "normalPrice": 1.99,
+   "note": null
+  },
+  {
+   "product": "GOLDEN SEAFOOD Gebakken kibbeling",
+   "size": "250 g",
+   "deal": "-23%",
+   "price": 2.99,
+   "normalPrice": 3.89,
+   "note": null
+  },
+  {
+   "product": "Tzatziki of aioli",
+   "size": "150-200 g",
+   "deal": "-23%",
+   "price": 0.99,
+   "normalPrice": 1.29,
+   "note": null
+  },
+  {
+   "product": "UNOX Good noodles of pasta",
+   "size": "65-71 g",
+   "deal": null,
+   "price": 0.89,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "CHICKEN TONIGHT Roerbaksaus",
+   "size": "515-535 g",
+   "deal": null,
+   "price": 1.59,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "PEPPADEW Pepers",
+   "size": "400 g",
+   "deal": null,
+   "price": 2.49,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "STORCK Knoppers minis",
+   "size": "200 g",
+   "deal": null,
+   "price": 2.49,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "KANJERS Stroopwafels",
+   "size": "180-220 g",
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "KELLOGG'S Frosties of coco pops repen",
+   "size": "6 stuks, 120-150 g",
+   "deal": null,
+   "price": 1.59,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "RED BAN OF VENCO Snoep of drop",
+   "size": "100 g",
+   "deal": null,
+   "price": 0.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "LAY'S MAX chips",
+   "size": "185 g",
+   "deal": null,
+   "price": 1.49,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "TUC Mini-bites",
+   "size": "100 g",
+   "deal": null,
+   "price": 0.89,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "CLIPPER Thee",
+   "size": "20 zakjes",
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "TEXELS OF AFFLIGEM Bier 6-pack",
+   "size": "6x0.33 l",
+   "deal": null,
+   "price": 7.19,
+   "normalPrice": null,
+   "note": "VANAF"
+  },
+  {
+   "product": "LEFFE 6-pack blond 0.0%",
+   "size": "6x330 ml",
+   "deal": null,
+   "price": 4.19,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "LEFFE 4-pack blond",
+   "size": "4x0.5 l",
+   "deal": null,
+   "price": 6.19,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "KARVAN CÉVITAM Limonadesiroop",
+   "size": "600 ml",
+   "deal": null,
+   "price": 2.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "LIPTON Ice tea",
+   "size": "1.5 l",
+   "deal": null,
+   "price": 1.79,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "PAGÉ, HUGGIES EN KLEENEX Vochtig toiletpapier, babydoekjes of...",
+   "size": "38/56/80 stuks",
+   "deal": "2 VOOR",
+   "price": 2,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "AXE Deodorant",
+   "size": "150 ml",
+   "deal": null,
+   "price": 2.49,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "AXE Douchegel",
+   "size": "250 ml",
+   "deal": null,
+   "price": 1.89,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "HOME CREATION Babykruipmat of vloerkussens",
+   "size": null,
+   "deal": null,
+   "price": 9.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "Baby deken",
+   "size": null,
+   "deal": null,
+   "price": 4.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "Pyjama",
+   "size": null,
+   "deal": null,
+   "price": 9.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "Rompertjes 2-pack",
+   "size": "2-pack",
+   "deal": null,
+   "price": 7.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "NOVITESSE Handdoek of badponcho",
+   "size": null,
+   "deal": null,
+   "price": 5.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "LILY & DAN Pluchen pantoffels",
+   "size": null,
+   "deal": null,
+   "price": 3.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "Disney knuffel",
+   "size": null,
+   "deal": null,
+   "price": 7.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "HOME CREATION Led nachtlampje",
+   "size": null,
+   "deal": null,
+   "price": 6.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "HOME CREATION Opbergboxen",
+   "size": null,
+   "deal": null,
+   "price": 3.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "Baby verschoon assortiment HOME CREATION",
+   "size": null,
+   "deal": null,
+   "price": 2.99,
+   "normalPrice": null,
+   "note": "Per stuk"
+  },
+  {
+   "product": "Siliconen slab of placemat CROFTON",
+   "size": null,
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": null,
+   "note": "Per stuk"
+  },
+  {
+   "product": "Siliconen servies kids CROFTON",
+   "size": null,
+   "deal": null,
+   "price": 2.99,
+   "normalPrice": null,
+   "note": "Per stuk/set"
+  },
+  {
+   "product": "Ledlampen 3-pack CASALUX",
+   "size": "3-pack",
+   "deal": null,
+   "price": 7.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Lichtbalken 2-pack CASALUX",
+   "size": "2-pack",
+   "deal": null,
+   "price": 7.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Ledlamp CASALUX",
+   "size": null,
+   "deal": null,
+   "price": 1.49,
+   "normalPrice": null,
+   "note": "Per stuk"
+  },
+  {
+   "product": "CASALUX Ledlampen 3-pack",
+   "size": "3-pack",
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "CASALUX Ledlampen",
+   "size": null,
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": null,
+   "note": "Per stuk/3-pack"
+  },
+  {
+   "product": "AMRIANO Slimme beveiligingscamera",
+   "size": "Per stuk",
+   "deal": null,
+   "price": 12.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "CASALUX Sfeervloerlamp",
+   "size": "Per stuk",
+   "deal": null,
+   "price": 14.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "CASALUX Nachtlamp",
+   "size": "Per stuk",
+   "deal": null,
+   "price": 3.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "WORKZONE Energiebesparend assortiment",
+   "size": "Per stuk",
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "CASALUX Ledspots met bewegingssensor",
+   "size": "4-pack",
+   "deal": null,
+   "price": 12.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Vogelvoer",
+   "size": null,
+   "deal": null,
+   "price": 2.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "Vogelvoer",
+   "size": "140-250 g",
+   "deal": null,
+   "price": 1.49,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "Vogelvetbollen 30-pack",
+   "size": "30-pack",
+   "deal": null,
+   "price": 6.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "Gepelde zonnebloemitten",
+   "size": "1 kg",
+   "deal": null,
+   "price": 2.49,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "Vogelvoer of voederautomaat",
+   "size": null,
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "Vogelvoerketting",
+   "size": null,
+   "deal": null,
+   "price": 2.79,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "Wintervoedsel pakket",
+   "size": "600 g - 1 kg",
+   "deal": null,
+   "price": 2.99,
+   "normalPrice": null,
+   "note": "kg = 2.99"
+  },
+  {
+   "product": "Vogelvoeders chijf",
+   "size": "450 g",
+   "deal": null,
+   "price": 3.49,
+   "normalPrice": 7.76,
+   "note": "kg = 7.76"
+  },
+  {
+   "product": "FERREX Multiblower",
+   "size": null,
+   "deal": null,
+   "price": 39.99,
+   "normalPrice": null,
+   "note": "Per stuk"
+  },
+  {
+   "product": "FERREX Heggenschaar",
+   "size": null,
+   "deal": null,
+   "price": 44.99,
+   "normalPrice": null,
+   "note": "Per stuk"
+  },
+  {
+   "product": "FERREX Compacte accu-multizaag",
+   "size": null,
+   "deal": null,
+   "price": 49.99,
+   "normalPrice": null,
+   "note": "Per stuk"
+  },
+  {
+   "product": "GARDENLINE Telescopische takkenschaar",
+   "size": null,
+   "deal": null,
+   "price": 19.99,
+   "normalPrice": null,
+   "note": "Per stuk"
+  },
+  {
+   "product": "GARDENLINE Bezem",
+   "size": null,
+   "deal": null,
+   "price": 5.99,
+   "normalPrice": null,
+   "note": "Per stuk"
+  },
+  {
+   "product": "GARDENLINE Schep of spade",
+   "size": null,
+   "deal": null,
+   "price": 14.99,
+   "normalPrice": null,
+   "note": "Per stuk"
+  },
+  {
+   "product": "GARDENLINE Opvouwbare tuinafvalzak",
+   "size": null,
+   "deal": null,
+   "price": 2.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "GARDENLINE Gereedschapshouder",
+   "size": "Per set",
+   "deal": null,
+   "price": 2.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "GARDENLINE Tuinhandschoenen 2-pack",
+   "size": "2-pack",
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "GARDENLINE Kniekussen",
+   "size": null,
+   "deal": null,
+   "price": 2.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "CASALUX Led-buitenstraler",
+   "size": "Per stuk",
+   "deal": null,
+   "price": 14.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "BELAVI Ledprikspots op zonne-energie 2-pack",
+   "size": "Per set",
+   "deal": null,
+   "price": 4.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "UP2FASHION Clogs gevoerd",
+   "size": null,
+   "deal": null,
+   "price": 5.99,
+   "normalPrice": null,
+   "note": "Per paar"
+  },
+  {
+   "product": "CAT Werksokken 3-pack",
+   "size": null,
+   "deal": null,
+   "price": 5.99,
+   "normalPrice": null,
+   "note": "3-pack"
+  },
+  {
+   "product": "GARDENLINE Pijnboomschors",
+   "size": "45 l",
+   "deal": null,
+   "price": 5.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "HOME CREATION Wand- of passpiegel",
+   "size": null,
+   "deal": null,
+   "price": 14.99,
+   "normalPrice": null,
+   "note": "Per stuk"
+  },
+  {
+   "product": "AMBIANO Waterkoker, broodrooster of blender",
+   "size": null,
+   "deal": null,
+   "price": 8.99,
+   "normalPrice": null,
+   "note": "Per stuk"
+  },
+  {
+   "product": "GARDENLINE Flexibele mand",
+   "size": null,
+   "deal": null,
+   "price": 2.99,
+   "normalPrice": null,
+   "note": "Per stuk"
+  },
+  {
+   "product": "HOME CREATION Wand- of passpiegel",
+   "size": null,
+   "deal": "OP=OP",
+   "price": 14.99,
+   "normalPrice": null,
+   "note": "Per stuk"
+  },
+  {
+   "product": "AMBIANO Waterkoker, broodrooster of blender",
+   "size": null,
+   "deal": "OP=OP",
+   "price": 8.99,
+   "normalPrice": null,
+   "note": "Per stuk"
+  },
+  {
+   "product": "GARDENLINE Flexibele mand",
+   "size": null,
+   "deal": "OP=OP",
+   "price": 2.99,
+   "normalPrice": null,
+   "note": "Per stuk"
+  }
+ ]
+}
