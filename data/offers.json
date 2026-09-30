@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-09-29T10:51:26.702Z",
+ "generated": "2026-09-30T10:40:49.596Z",
  "shops": {
   "hoogvliet": {
    "name": "Hoogvliet",
@@ -2382,337 +2382,397 @@
    "name": "Jumbo",
    "ok": true,
    "source": "https://www.jumbo.com/aanbiedingen",
-   "scraped": "2026-09-23",
+   "scraped": "2026-09-30",
    "validFrom": null,
-   "validUntil": "2026-09-29",
+   "validUntil": "2026-10-06",
    "validUntilGuessed": false,
-   "pages": 10,
+   "pages": 11,
    "offers": [
     {
-     "product": "Verse vijven",
+     "product": "Bospeen",
      "size": null,
-     "deal": "50% korting",
-     "price": null,
+     "deal": "Alleen in de winkel voor 0.99",
+     "price": 0.99,
      "normalPrice": null,
-     "note": "Alleen in de winkel"
-    },
-    {
-     "product": "Slagergehakt",
-     "size": null,
-     "deal": "25% korting",
-     "price": null,
-     "normalPrice": null,
-     "note": "Alleen in de winkel"
-    },
-    {
-     "product": "Alle donuts pindakaas",
-     "size": null,
-     "deal": "50% korting",
-     "price": null,
-     "normalPrice": null,
-     "note": "Alleen in de winkel"
-    },
-    {
-     "product": "Alle Whole Earth pindakaas",
-     "size": null,
-     "deal": "50% korting",
-     "price": null,
-     "normalPrice": null,
-     "note": "Alleen in de winkel",
+     "note": "t/m di 6 okt",
      "products": [
-      "whole-earth-crunchy-pindakaas-340-g-730861POT",
-      "whole-earth-crunchy-pindakaas-600-g-737614POT",
-      "whole-earth-smooth-pindakaas-340-g-730860POT",
-      "whole-earth-smooth-pindakaas-600-g-730862POT"
+      "jumbo-bospeen-2-3-personen-285592STK"
      ]
     },
     {
-     "product": "Alle Herman's",
+     "product": "Ijsbergsla",
      "size": null,
-     "deal": "1+1 gratis",
-     "price": null,
+     "deal": "Alleen in de winkel voor 0.79",
+     "price": 0.79,
      "normalPrice": null,
-     "note": "Alleen in de winkel"
-    },
-    {
-     "product": "Unox of Conimex soep in zak",
-     "size": null,
-     "deal": "1+1 gratis",
-     "price": null,
-     "normalPrice": null,
-     "note": null,
+     "note": "t/m di 6 okt",
      "products": [
-      "conimex-soep-in-zak-tom-kha-kai-570-ml-164990ZK",
-      "unox-extra-rijkgevuld-soep-in-zak-bruine-bonen-570-ml-575266ZK",
-      "unox-extra-rijkgevuld-soep-in-zak-hollandse-erwten-5-x-570-ml-575254DSL",
-      "unox-extra-rijkgevuld-soep-in-zak-hollandse-erwten-570-ml-575254ZK",
-      "unox-extra-rijkgevuld-soep-in-zak-hongaarse-goulash-570-ml-575253DSL",
-      "unox-extra-rijkgevuld-soep-in-zak-hongaarse-goulash-570-ml-575253ZK",
-      "unox-extra-rijkgevuld-soep-in-zak-indiase-curry-570-ml-575265ZK",
-      "unox-extra-rijkgevuld-soep-in-zak-paprika-tomaten-570-ml-583112ZK",
-      "unox-extra-rijkgevuld-soep-in-zak-pittige-erwten-570-ml-575431ZK",
-      "unox-extra-rijkgevuld-soep-in-zak-pompoen-rode-linzen-570-ml-575263ZK",
-      "unox-extra-rijkgevuld-soep-in-zak-tomaten-pasta-570-ml-575264ZK",
-      "unox-smaakfavoriet-soep-in-zak-chinese-tomaten-5-x-570-ml-358680DSL",
-      "unox-smaakfavoriet-soep-in-zak-chinese-tomaten-570-ml-358680ZK",
-      "unox-smaakfavoriet-soep-in-zak-franse-uien-570-ml-300829ZK",
-      "unox-smaakfavoriet-soep-in-zak-heldere-groente-570-ml-300856STK",
-      "unox-smaakfavoriet-soep-in-zak-hollandse-asperge-570-ml-300810ZK",
-      "unox-smaakfavoriet-soep-in-zak-klassieke-ossenstaart-570-ml-202152STK",
-      "unox-smaakfavoriet-soep-in-zak-klassieke-tomaten-5-x-570-ml-300752DS",
-      "unox-smaakfavoriet-soep-in-zak-klassieke-tomaten-570-ml-300752ZK",
-      "unox-smaakfavoriet-soep-in-zak-kruidige-tomaten-570-ml-358682ZK",
-      "unox-smaakfavoriet-soep-in-zak-romige-kip-champignon-5-x-570-ml-300833DS",
-      "unox-smaakfavoriet-soep-in-zak-romige-kip-champignon-570-ml-300833STK",
-      "unox-smaakfavoriet-soep-in-zak-romige-kippen-570-ml-300832STK",
-      "unox-smaakfavoriet-soep-in-zak-romige-mosterd-5-x-570-ml-300836DSL",
-      "unox-smaakfavoriet-soep-in-zak-romige-mosterd-570-ml-300836ZK",
-      "unox-smaakfavoriet-soep-in-zak-tomaat-groente-570-ml-358684ZK",
-      "unox-smaakfavoriet-soep-in-zak-vegetarische-groente-570-ml-213175ZK",
-      "unox-smaakfavoriet-soep-in-zak-vegetarische-tomaten-570-ml-358683ZK",
-      "unox-soep-in-zak-heldere-kippensoep-300813STK"
+      "jumbo-ijsbergsla-1-stuk-129391STK",
+      "jumbo-ijsbergsla-melange-100-g-736463ZK"
      ]
     },
     {
-     "product": "Alle Ehrmann Grand Dessert",
+     "product": "Jumbo salmblokjes, -flakes of -snippers",
      "size": null,
      "deal": "1+1 gratis",
      "price": null,
      "normalPrice": null,
-     "note": null,
+     "note": "t/m di 6 okt",
      "products": [
-      "ehrmann-grand-dessert-cafe-au-lait-190-g-577187BAK",
-      "ehrmann-grand-dessert-chocolate-190-g-577184BAK",
-      "ehrmann-grand-dessert-double-choc-190-g-577188BAK",
-      "ehrmann-grand-dessert-double-toffee-190-g-577549BAK",
-      "ehrmann-grand-dessert-vanilla-190-g-577185BAK"
+      "jumbo-flakes-parmigiano-reggiano-80-g-632376STK"
      ]
     },
     {
-     "product": "Alle iglo maaltijden",
+     "product": "Old el Paso tortilla",
      "size": null,
-     "deal": "1+1 gratis",
+     "deal": "Alleen in de winkel 50% korting",
      "price": null,
      "normalPrice": null,
-     "note": null
-    },
-    {
-     "product": "Conimex",
-     "size": null,
-     "deal": "1+1 gratis",
-     "price": null,
-     "normalPrice": null,
-     "note": null
-    },
-    {
-     "product": "Jumbo's filterkoffie",
-     "size": null,
-     "deal": "1+1 gratis",
-     "price": null,
-     "normalPrice": null,
-     "note": null,
+     "note": "t/m di 6 okt",
      "products": [
-      "jumbo-s-roodmerk-filterkoffie-6-x-2-x-500g-638307DSL"
+      "old-el-paso-large-tortillas-extra-thin-192-g-736533ZK",
+      "old-el-paso-original-gluten-free-tortillas-216g-703579ZK",
+      "old-el-paso-tortilla-pocket-wrap-223g-703578TRA",
+      "old-el-paso-volkoren-tortilla-350-g-755988ZK",
+      "old-el-paso-wrap-tortilla-medium-8-stuks-703294ZK",
+      "old-el-paso-wrap-tortillas-large-350g-703447ZK"
      ]
     },
     {
-     "product": "Cotton candy, rode of blauwe druiven",
+     "product": "Page Compleet Schoon 24-pak, Kussenzacht 18-pak of...",
      "size": null,
      "deal": null,
-     "price": 2.19,
+     "price": 9.99,
      "normalPrice": null,
-     "note": null
+     "note": "wo 30 sep t/m di 6 okt"
     },
     {
-     "product": "Wortelen",
+     "product": "Lipton",
      "size": null,
+     "deal": "2 voor 4.99",
+     "price": 4.99,
+     "normalPrice": null,
+     "note": "wo 30 sep t/m di 6 okt"
+    },
+    {
+     "product": "Valess vleesvervangers",
+     "size": null,
+     "deal": "2 voor 4.99",
+     "price": 4.99,
+     "normalPrice": null,
+     "note": "wo 30 sep t/m di 6 okt"
+    },
+    {
+     "product": "Alle Jumbo's kaffiebonen",
+     "size": null,
+     "deal": "2e halve prijs",
+     "price": null,
+     "normalPrice": null,
+     "note": "wo 30 sep t/m di 6 okt"
+    },
+    {
+     "product": "Cheetos of Lay's",
+     "size": null,
+     "deal": "2 voor 2.99",
+     "price": 2.99,
+     "normalPrice": null,
+     "note": "wo 30 sep t/m di 6 okt"
+    },
+    {
+     "product": "Witlof",
+     "size": "wo 30 sep t/m di 6 okt",
      "deal": null,
      "price": 0.99,
      "normalPrice": null,
      "note": null,
      "products": [
-      "jumbo-wortel-erwt-met-kipfilet-500-g-580927TRA",
-      "jumbo-wortelen-1-kg-196113ZK",
-      "jumbo-wortelen-180-g-302290POT",
-      "jumbo-wortelen-340-g-302283POT",
-      "jumbo-wortelen-500-g-622763ZK",
-      "jumbo-wortelen-680-g-656960POT",
-      "olvarit-wortel-4-maanden-125-g-171472POT",
-      "olvarit-wortel-kalfsvlees-aardappel-15-maanden-250-g-172304POT",
-      "olvarit-wortel-kip-aardappel-8-maanden-200-g-172266POT"
+      "jumbo-witlof-2-3-personen-500g-169209STK",
+      "maggi-witlof-creme-61-g-686617ZK"
      ]
     },
     {
-     "product": "Sperziebonen",
-     "size": null,
+     "product": "Blauwe bessen",
+     "size": "wo 30 sep t/m di 6 okt",
      "deal": null,
-     "price": 1.49,
+     "price": 2.99,
      "normalPrice": null,
      "note": null,
      "products": [
-      "hak-sperziebonen-bio-185-g-80623POT",
-      "hak-sperziebonen-bio-675-g-84276POT",
-      "jumbo-sperziebonen-500-g-302252ZK",
-      "jumbo-sperziebonen-biologisch-400-g-398279ZK",
-      "maggi-sperziebonen-jachtsaus-54g-390236ZK",
-      "maggi-sperziebonen-sate-70g-390223ZK"
+      "ella-s-kitchen-blauwe-bessen-appels-bananen-4-biologisch-120-g-577106STK",
+      "hero-jam-blauwe-bessen-zero-300g-672538POT",
+      "jumbo-biologisch-blauwe-bessen-200-g-670325DS",
+      "jumbo-biologisch-blauwe-bessen-250-g-209939DS",
+      "jumbo-blauwe-bessen-125-g-622579DS",
+      "jumbo-blauwe-bessen-300-g-774264DS",
+      "jumbo-blauwe-bessen-500-g-330479BAK",
+      "jumbo-fijnproevers-blauwe-bessen-200-g-510306BAK",
+      "jumbo-vriesverse-blauwe-bessen-250-g-605589DS",
+      "jumbo-vriesverse-blauwe-bessen-voordeelverpakking-750-g-605584ZK",
+      "jumbo-vriesverse-frambozen-blauwe-bessen-250-g-605586DS",
+      "st-dalfour-cranberry-en-blauwe-bessen-vruchtenspread-496029POT"
      ]
     },
     {
-     "product": "Grote mandarijnen",
-     "size": null,
-     "deal": null,
-     "price": 3.49,
-     "normalPrice": null,
-     "note": null
-    },
-    {
-     "product": "Conference peren of Jonagold appels",
-     "size": null,
-     "deal": "1+1 gratis",
-     "price": null,
-     "normalPrice": null,
-     "note": null,
-     "products": [
-      "fruitbox-conference-peren-3kg-564772DS",
-      "fruitbox-jonagold-appels-3kg-564773DS",
-      "jumbo-jonagold-appels-en-bananen-441718STK",
-      "jumbo-jonagold-appels-en-mandarijnen-441724STK",
-      "jumbo-jonagold-appels-voordeelverpakking-1,5-kg-772466ZK"
-     ]
-    },
-    {
-     "product": "Biologische gekookte bietjes",
-     "size": null,
-     "deal": null,
-     "price": 1.29,
-     "normalPrice": null,
-     "note": null,
-     "products": [
-      "jumbo-gekookte-bietjes-biologisch-500-g-194938ZK"
-     ]
-    },
-    {
-     "product": "Broccoli",
-     "size": null,
-     "deal": null,
-     "price": 1.09,
-     "normalPrice": null,
-     "note": "Alleen online",
-     "products": [
-      "jumbo-broccoli-500-g-479521STK",
-      "jumbo-broccoli-roosjes-450-g-666059ZK",
-      "jumbo-broccoli-roosjes-750-g-772786ZK",
-      "maggi-broccoli-kaas-54-g-390229ZK"
-     ]
-    },
-    {
-     "product": "Galia meloen",
-     "size": null,
-     "deal": null,
-     "price": 2.19,
-     "normalPrice": null,
-     "note": null,
-     "products": [
-      "jumbo-galia-meloen-45946STK"
-     ]
-    },
-    {
-     "product": "Prei",
-     "size": null,
-     "deal": "2 voor 0,89",
-     "price": null,
-     "normalPrice": null,
-     "note": null,
-     "products": [
-      "jumbo-prei-543359STK",
-      "jumbo-prei-a-la-creme-450-g-610250DS",
-      "jumbo-prei-kerriesoep-verspakket-4-6-personen-520460PAK",
-      "maggi-prei-kerrie-64g-646240ZK"
-     ]
-    },
-    {
-     "product": "Zoete punt paprika",
-     "size": null,
-     "deal": null,
-     "price": 2.49,
-     "normalPrice": null,
-     "note": null,
-     "products": [
-      "jumbo-biologisch-zoete-punt-paprika-2-stuks-764517STK",
-      "jumbo-zoete-punt-paprika-mix-3-stuks-376049STK"
-     ]
-    },
-    {
-     "product": "Aardappelen",
-     "size": null,
-     "deal": "1+1 gratis",
-     "price": null,
-     "normalPrice": null,
-     "note": null,
-     "products": [
-      "aardappel-anders-bacon-ui-390ml-170148POT",
-      "aardappel-anders-ham-kaas-390ml-170146POT",
-      "aardappel-anders-tuinkruiden-knoflook-390ml-170147POT",
-      "jumbo-aardappel-bolletjes-600-g-653698ZK",
-      "jumbo-aardappel-gratin-700-g-492332PAK",
-      "jumbo-aardappel-gratin-met-kaasgarnering-425-g-574829PAK",
-      "jumbo-aardappel-kroketjes-600-g-612604ZK",
-      "jumbo-aardappel-salade-600-g-495329DS",
-      "jumbo-aardappel-wafels-600-g-652254PAK",
-      "jumbo-aardappelen-gourmande-vastkokend-geel-1,5-kg-697141ZK",
-      "jumbo-aardappelen-gourmande-vastkokend-rood-1,5-kg-697142ZK",
-      "jumbo-aardappelen-hasselback-450-g-624776TRA",
-      "jumbo-aardappelen-kruimig-1-kg-383444ZK",
-      "jumbo-aardappelen-kruimig-200-g-213030STK",
-      "jumbo-aardappelen-kruimig-3-kg-383175ZK",
-      "jumbo-aardappelen-kruimig-800-g-336284ZK",
-      "jumbo-aardappelen-kruimig-extra-groot-3-kg-383171ZK",
-      "jumbo-aardappelen-kruimig-stamppot-600-g-702956ZK",
-      "jumbo-aardappelen-opperdoezer-vastkokend-1,5-kg-721141ZK",
-      "jumbo-aardappelen-van-goede-aarde-1,5-kg-698454ZK",
-      "jumbo-aardappelen-vastkokend-1-kg-380101ZK",
-      "jumbo-aardappelen-vastkokend-3-kg-380106ZK",
-      "jumbo-aardappelen-vastkokend-500-g-413479ZK",
-      "jumbo-aardappelen-vastkokend-800-g-574858ZK",
-      "jumbo-aardappelen-zoet-1-kg-383155ZK"
-     ]
-    },
-    {
-     "product": "Nederlandse aardbeien",
-     "size": null,
-     "deal": null,
-     "price": 3.29,
-     "normalPrice": null,
-     "note": null
-    },
-    {
-     "product": "Wokgroente",
-     "size": null,
-     "deal": "1+1 gratis",
-     "price": null,
-     "normalPrice": null,
-     "note": null,
-     "products": [
-      "jumbo-wokgroente-cambodjaanse-stijl-400-g-591498STK",
-      "jumbo-wokgroente-japanse-stijl-400-g-562794STK",
-      "jumbo-wokgroente-shanghai-stijl-400-g-673781ZK",
-      "jumbo-wokgroenten-oosters-250-g-343913ZK",
-      "jumbo-wokgroenten-oosters-400-g-211737STK",
-      "jumbo-wokgroenten-thais-400-g-329574ZK"
-     ]
-    },
-    {
-     "product": "Alle gekookte maaltijdpakketten",
-     "size": null,
+     "product": "Zespri kiwi Sungold",
+     "size": "wo 30 sep t/m di 6 okt",
      "deal": null,
      "price": 4.99,
      "normalPrice": null,
      "note": null
     },
     {
+     "product": "Verse vijgen",
+     "size": "wo 30 sep t/m di 6 okt",
+     "deal": null,
+     "price": 1.79,
+     "normalPrice": null,
+     "note": "Alleen in de winkel"
+    },
+    {
+     "product": "Spruiten",
+     "size": "wo 30 sep t/m di 6 okt",
+     "deal": null,
+     "price": 0.99,
+     "normalPrice": null,
+     "note": null,
+     "products": [
+      "jumbo-spruiten-450-g-610281ZK",
+      "jumbo-spruiten-500-g-302260ZK"
+     ]
+    },
+    {
+     "product": "Zoete puntpaprika mix",
+     "size": "wo 30 sep t/m di 6 okt",
+     "deal": null,
+     "price": 1.99,
+     "normalPrice": null,
+     "note": null
+    },
+    {
+     "product": "Mango",
+     "size": "wo 30 sep t/m di 6 okt",
+     "deal": null,
+     "price": 1.49,
+     "normalPrice": null,
+     "note": null,
+     "products": [
+      "activit-mango-passion-fruit-500ml-749119FLS",
+      "bacardi-mango-daiquiri-250ml-751802BLK",
+      "bozu-mango-iced-tea-250ml-613732BLK",
+      "clipper-mango-citrus-organic-infusion-20-stuks-36-g-567735DS",
+      "coolbest-mango-dream-15-l-value-pack-420554PAK",
+      "danio-mangopassievrucht-450gr-640112CUP",
+      "dubbeldrank-mango-guanabana-met-appel-1-l-166468PAK",
+      "dubbeldrank-mango-passievrucht-1-l-383965PAK",
+      "jarritos-mango-370ml-667948FLS",
+      "jumbo-mango-120-g-617674DS",
+      "jumbo-mango-190-g-618379DS",
+      "jumbo-mango-eetrijp-2-stuks-714540PAK",
+      "jumbo-mango-eetrijp-770802STK",
+      "jumbo-mango-voordeelverpakking-275-g-617417DS",
+      "lowlander-mango-ipa-35-alc-bier-fles-330-ml-668874FLS",
+      "lowlander-mango-ipa-non-alc-bier-fles-330-ml-752898FLS",
+      "maaza-mango-fruit-drink-1-l-62389PAK",
+      "maaza-mango-no-sugar-added-1-l-616745PAK",
+      "pickwick-mango-fruit-thee-20-stuks-79282KST",
+      "pirulo-mango-5-stuks-673190PAK",
+      "sisi-mango-330ml-740445BLK",
+      "somersby-mango-lime-4x330ml-736004DS",
+      "sportlife-mango-orange-flavour-suikervrije-kauwgom-99-g-582315POT",
+      "stelz-mango-00-250ml-740238BLK"
+     ]
+    },
+    {
+     "product": "Avocado",
+     "size": "wo 30 sep t/m di 6 okt",
+     "deal": null,
+     "price": 2.49,
+     "normalPrice": null,
+     "note": null,
+     "products": [
+      "euroma-avocado-toast-topping-by-jonnie-boer-38g-672044BLK",
+      "jumbo-avocado-422940STK",
+      "jumbo-avocado-eetrijp-2-stuks-697253STK",
+      "jumbo-avocado-olie-250ml-660018FLS"
+     ]
+    },
+    {
+     "product": "Autumn crisp, Jumbo rode of blauwe philose druiven",
+     "size": "wo 30 sep t/m di 6 okt",
+     "deal": null,
+     "price": 1.99,
+     "normalPrice": null,
+     "note": null,
+     "products": [
+      "jumbo-biologisch-blokjes-rode-biet-200-g-644245ZK",
+      "jumbo-biologisch-geraspte-rode-biet-400-g-639169ZK",
+      "jumbo-biologisch-gesneden-rode-kool-300-g-583716ZK",
+      "jumbo-biologisch-rode-kool-met-appel-340-g-201276POT",
+      "jumbo-biologische-rode-kool-1-stuk-294610STK",
+      "jumbo-biologische-rode-uien-500-g-772446NET",
+      "jumbo-boemboe-rode-curry-95-g-194890STK",
+      "jumbo-gedroogde-rode-kidneybonen-500-g-711088ZK",
+      "jumbo-gedroogde-rode-linzen-500-g-711097ZK",
+      "jumbo-gesneden-rode-uien-150-g-506769ZK",
+      "jumbo-pizzabrood-paprika-rode-ui-300g-608478STK",
+      "jumbo-pureersoep-rode-paprika-460-g-635605DS",
+      "jumbo-rode-bieten-met-ui-340-g-220925POT",
+      "jumbo-rode-bieten-met-ui-680-g-220926POT",
+      "jumbo-rode-bieten-plakken-680-g-220924POT",
+      "jumbo-rode-bieten-salade-200-g-618426DS",
+      "jumbo-rode-curry-salade-200-g-685469CUP",
+      "jumbo-rode-curry-verspakket-4-personen-478197ZK",
+      "jumbo-rode-grapefruit-3-stuks-618269STK",
+      "jumbo-rode-grapefruitsap-1-l-141230PAK",
+      "jumbo-rode-kool-350-g-220927POT",
+      "jumbo-rode-kool-690g-220928POT",
+      "jumbo-rode-kool-appel-450-g-684965DS",
+      "jumbo-rode-kool-hachee-500-g-516734BAK",
+      "jumbo-rode-kool-met-appel-190-g-220929POT",
+      "jumbo-rode-kool-met-appel-340-g-220930POT",
+      "jumbo-rode-kool-met-appel-680-g-732326POT",
+      "jumbo-rode-paprika-biologisch-159564STK",
+      "jumbo-rode-pepers-mild-2-stuks-184214SC",
+      "jumbo-rode-uien-500-g-213005NET",
+      "jumbo-rode-uien-extra-groot-1-kg-213015NET",
+      "jumbo-rode-uien-extra-groot-3-stuks-770751NET",
+      "jumbo-rode-wijnazijn-250-ml-418598FLS",
+      "jumbo-s-geitenkaasspread-met-rode-biet-125-g-718641CUP",
+      "jumbo-s-maleisische-stijl-rode-curry-soep-570ml-679778ZK",
+      "jumbo-s-rode-vruchten-fruitspread-335-g-646559POT",
+      "jumbo-s-thaise-rode-curry-122-g-749176DS",
+      "jumbo-vastkokende-rode-aardappel-3kg-383119ZK",
+      "jumbo-verspakket-rode-curry-4-personen-779131STK",
+      "jumbo-zoetzuur-rode-uienringen-340-g-429205POT"
+     ]
+    },
+    {
+     "product": "Alle Pink Lady's",
+     "size": "wo 30 sep t/m di 6 okt",
+     "deal": "25% korting",
+     "price": null,
+     "normalPrice": null,
+     "note": null
+    },
+    {
+     "product": "Persinasappelen",
+     "size": "wo 30 sep t/m di 6 okt",
+     "deal": null,
+     "price": 2.49,
+     "normalPrice": null,
+     "note": null
+    },
+    {
+     "product": "Zoete aardappelen",
+     "size": "wo 30 sep t/m di 6 okt",
+     "deal": null,
+     "price": 1.99,
+     "normalPrice": null,
+     "note": null,
+     "products": [
+      "aviko-zoete-aardappel-blokjes-143936ZK",
+      "aviko-zoete-aardappel-friet-143859ZK",
+      "de-kleine-keuken-biologisch-broodbeleg-zoete-aardappel-appel-6-maanden-100-g-635348ZK",
+      "jumbo-aardappelen-zoet-1-kg-383155ZK",
+      "jumbo-babyvoeding-biologisch-melk-groenten-zoete-aardappel-6-maanden-190-g-620317STK",
+      "jumbo-biologisch-zoete-aardappel-750-g-392550ZK",
+      "jumbo-blokjes-zoete-aardappel-400-g-276411ZK",
+      "jumbo-frietjes-zoete-aardappel-400-g-329563ZK",
+      "jumbo-knijpfruit-appel-perzik-zoete-aardappel-4-x-90-g-706501ZK",
+      "jumbo-mexicaanse-groentemix-met-zoete-aardappel-en-tomaat-400-g-743590ZK",
+      "no-fairytales-zoete-aardappel-tortilla-5-stuks-200-g-763053ZK",
+      "olvarit-15-maanden-stoofpot-met-zoete-aardappel-en-linzen-633884ZK",
+      "xxl-nutrition-protein-soup-zoete-aardappel-pompoen-570g-769814ZK"
+     ]
+    },
+    {
+     "product": "Mini krietjes",
+     "size": "wo 30 sep t/m di 6 okt",
+     "deal": "2 voor 1.49",
+     "price": null,
+     "normalPrice": null,
+     "note": null
+    },
+    {
+     "product": "Premium sla melanges of No Fairytales",
+     "size": "wo 30 sep t/m di 6 okt",
+     "deal": "1+1 gratis",
+     "price": null,
+     "normalPrice": null,
+     "note": null,
+     "products": [
+      "no-fairytales-bieten-tortilla-5-stuks-200-g-655862STK",
+      "no-fairytales-paprika-chili-tortilla-5-stuks-200-g-655860DS",
+      "no-fairytales-wortel-tortilla-5-stuks-200-g-655861STK",
+      "no-fairytales-zoete-aardappel-tortilla-5-stuks-200-g-763053ZK"
+     ]
+    },
+    {
+     "product": "Johma rauwkost of maaltijdsalades",
+     "size": "wo 30 sep t/m di 6 okt",
+     "deal": "1+1 gratis",
+     "price": null,
+     "normalPrice": null,
+     "note": null,
+     "products": [
+      "jumbo-maaltijdsalade-falafel-450-g-686011BAK",
+      "jumbo-maaltijdsalade-garnalen-400-g-685984BAK",
+      "jumbo-maaltijdsalade-gegrilde-kip-450-g-765556BAK",
+      "jumbo-maaltijdsalade-geitenkaas-450-g-686012BAK",
+      "jumbo-maaltijdsalade-gerookte-kip-450-g-685982BAK",
+      "jumbo-maaltijdsalade-gerookte-zalm-450-g-686010BAK",
+      "jumbo-maaltijdsalade-kip-caesar-450-g-765558BAK",
+      "jumbo-maaltijdsalade-kip-citroen-thaise-stijl-400-g-744072ZK",
+      "jumbo-maaltijdsalade-kip-ketjap-450-g-685983BAK",
+      "jumbo-maaltijdsalade-kip-koreaanse-stijl-400-g-744093BAK",
+      "jumbo-maaltijdsalade-kip-truffelsmaak-400-g-744074BAK",
+      "jumbo-maaltijdsalade-kipgyros-griekse-stijl-400-g-686013DS",
+      "jumbo-maaltijdsalade-tonijn-450-g-685976BAK"
+     ]
+    },
+    {
+     "product": "Alle Jumbo's verse pasta's of pastasauzen",
+     "size": "wo 30 sep t/m di 6 okt",
+     "deal": "1+1 gratis",
+     "price": null,
+     "normalPrice": null,
+     "note": null,
+     "products": [
+      "jumbo-s-verse-maaltijd-pasta-kip-pesto-450-g-521316TRA",
+      "jumbo-s-verse-pasta-girasoli-geitenkaas-gekarameliseerde-ui-250-g-736469BAK",
+      "jumbo-s-verse-pasta-girasoli-ricotta-citroen-250-g-303286BAK",
+      "jumbo-s-verse-pasta-hartjes-parmigiano-reggiano-met-truffelsmaak-250-g-736500BAK",
+      "jumbo-s-verse-pasta-mezzelune-met-prosciutto-di-parma-parmigiano-reggiano-250-g-529021TRA",
+      "jumbo-s-verse-pasta-mezzelune-paddenstoelen-kaas-met-truffelsmaak-250-g-736467ZK",
+      "jumbo-s-verse-pasta-mezzelune-pompoen-kaas-250-g-208675BAK",
+      "jumbo-s-verse-pasta-ravioli-paddenstoelen-250-g-208681ZK",
+      "jumbo-s-verse-pasta-ravioli-ricotta-spinazie-glutenvrij-250-g-586890TRA",
+      "jumbo-s-verse-pasta-ricotta-spinazie-ravioli-250-g-208687ZK",
+      "jumbo-s-verse-pasta-tortellini-droge-ham-250-g-208674ZK",
+      "jumbo-s-verse-pasta-tortelloni-ricotta-spinazie-500-g-612231ZK",
+      "jumbo-s-verse-pasta-tortelloni-tomaat-mozzarella-basilicum-250-g-362534ZK",
+      "jumbo-s-verse-pasta-triangoli-champignon-truffel-250-g-208688BAK"
+     ]
+    },
+    {
+     "product": "Alle nieuwe maaltijd- of soeppakketten",
+     "size": "wo 30 sep t/m di 6 okt",
+     "deal": "25% korting",
+     "price": null,
+     "normalPrice": null,
+     "note": null
+    },
+    {
      "product": "Jumbo's verse Aziatische maaltijden",
-     "size": null,
+     "size": "wo 23 sep t/m di 6 okt",
+     "deal": "25% korting",
+     "price": null,
+     "normalPrice": null,
+     "note": null
+    },
+    {
+     "product": "Jumbo's verse of goed gevulde soepen",
+     "size": "wo 30 sep t/m di 20 okt",
      "deal": "25% korting",
      "price": null,
      "normalPrice": null,
@@ -2720,8 +2780,8 @@
     },
     {
      "product": "Jumbo Oosterse maaltijden",
-     "size": null,
-     "deal": "2 voor 5,50",
+     "size": "wo 7 jan t/m di 27 okt",
+     "deal": "2 voor 5.50",
      "price": null,
      "normalPrice": null,
      "note": null
@@ -2730,7 +2790,7 @@
      "product": "Jumbo verse soep",
      "size": null,
      "deal": "2 voor 6,00",
-     "price": null,
+     "price": 6,
      "normalPrice": null,
      "note": null,
      "products": [
@@ -2747,105 +2807,70 @@
      ]
     },
     {
-     "product": "Schnitzel",
+     "product": "Valess vleesvervanger",
      "size": null,
-     "deal": null,
-     "price": 0.99,
-     "normalPrice": null,
-     "note": "per 100 gram",
-     "products": [
-      "jumbo-schnitzel-gepaneerd-varkensvlees-300-g-748496TRA",
-      "jumbo-schnitzel-ongepaneerd-varkensvlees-2-stuks-157689KGR"
-     ]
-    },
-    {
-     "product": "Kipfilethaasjes naturel",
-     "size": null,
-     "deal": "1+1 gratis",
-     "price": null,
-     "normalPrice": null,
-     "note": null
-    },
-    {
-     "product": "Jumbo stampotgroente, -aardappelen, spekreepjes, -",
-     "size": null,
-     "deal": "1+1 gratis",
-     "price": null,
-     "normalPrice": null,
-     "note": null,
-     "products": [
-      "aardappel-anders-bacon-ui-390ml-170148POT",
-      "aardappel-anders-ham-kaas-390ml-170146POT",
-      "aardappel-anders-tuinkruiden-knoflook-390ml-170147POT",
-      "jumbo-aardappel-bolletjes-600-g-653698ZK",
-      "jumbo-aardappel-gratin-700-g-492332PAK",
-      "jumbo-aardappel-gratin-met-kaasgarnering-425-g-574829PAK",
-      "jumbo-aardappel-kroketjes-600-g-612604ZK",
-      "jumbo-aardappel-salade-600-g-495329DS",
-      "jumbo-aardappel-wafels-600-g-652254PAK",
-      "jumbo-aardappelen-gourmande-vastkokend-geel-1,5-kg-697141ZK",
-      "jumbo-aardappelen-gourmande-vastkokend-rood-1,5-kg-697142ZK",
-      "jumbo-aardappelen-hasselback-450-g-624776TRA",
-      "jumbo-aardappelen-kruimig-1-kg-383444ZK",
-      "jumbo-aardappelen-kruimig-200-g-213030STK",
-      "jumbo-aardappelen-kruimig-3-kg-383175ZK",
-      "jumbo-aardappelen-kruimig-800-g-336284ZK",
-      "jumbo-aardappelen-kruimig-extra-groot-3-kg-383171ZK",
-      "jumbo-aardappelen-kruimig-stamppot-600-g-702956ZK",
-      "jumbo-aardappelen-opperdoezer-vastkokend-1,5-kg-721141ZK",
-      "jumbo-aardappelen-van-goede-aarde-1,5-kg-698454ZK",
-      "jumbo-aardappelen-vastkokend-1-kg-380101ZK",
-      "jumbo-aardappelen-vastkokend-3-kg-380106ZK",
-      "jumbo-aardappelen-vastkokend-500-g-413479ZK",
-      "jumbo-aardappelen-vastkokend-800-g-574858ZK",
-      "jumbo-aardappelen-zoet-1-kg-383155ZK",
-      "spekreepjes-gerookt-300-g-709819ZK"
-     ]
-    },
-    {
-     "product": "Roerbargarnalen",
-     "size": null,
-     "deal": "1+1 gratis",
-     "price": null,
-     "normalPrice": null,
-     "note": null
-    },
-    {
-     "product": "Zalmfilet",
-     "size": null,
-     "deal": null,
+     "deal": "2 voor 4,99",
      "price": 4.99,
      "normalPrice": null,
-     "note": null,
-     "products": [
-      "jumbo-zalmfilet-met-huid-2-x-125-g-723226DS",
-      "jumbo-zalmfilet-met-huid-4-x-125-g-723101STK",
-      "jumbo-zalmfilet-met-huid-naturel-500-g-769823TRA",
-      "jumbo-zalmfilet-met-huid-naturel-ca-125-g-715171STK",
-      "jumbo-zalmfilet-met-huid-naturel-ca-270-g-715172STK",
-      "jumbo-zalmfilet-met-huid-naturel-ca-360-g-715170STK",
-      "jumbo-zalmfilet-warmgerookt-125-g-681123STK",
-      "jumbo-zalmfilet-zonder-huid-naturel-230-g-715166STK",
-      "jumbo-zalmfilet-zonder-huid-naturel-ca-160-g-715173STK",
-      "rosewood-zalmfilet-strips-150g-150326STK"
-     ]
+     "note": null
     },
     {
-     "product": "Varkenshaas of beenham culinair",
+     "product": "Sukadelappen",
      "size": null,
      "deal": null,
-     "price": 1.19,
+     "price": 1.59,
      "normalPrice": null,
-     "note": "per 100 gram",
+     "note": "per 100 gram"
+    },
+    {
+     "product": "Kipfiletbrokjes of -reepjes",
+     "size": null,
+     "deal": null,
+     "price": 4.49,
+     "normalPrice": null,
+     "note": "voor per 350 gram"
+    },
+    {
+     "product": "Jumbo dorade-, roodbaars-, schol- of pangasiusfillet",
+     "size": null,
+     "deal": "25% korting",
+     "price": null,
+     "normalPrice": null,
+     "note": null
+    },
+    {
+     "product": "Jumbo kip- of varkensschaorma",
+     "size": null,
+     "deal": "1+1 gratie",
+     "price": null,
+     "normalPrice": null,
+     "note": null
+    },
+    {
+     "product": "Runder-, kip- of gemengd gehakt",
+     "size": null,
+     "deal": null,
+     "price": 4.49,
+     "normalPrice": null,
+     "note": "voor",
      "products": [
-      "jumbo-varkenshaas-culinair-1-stuk-ca-405-g-781282KGR"
+      "jumbo-gehakt-extra-mager-rund-300-g-771112TRA",
+      "jumbo-gemengd-gehakt-2-x-500g-649263TRA",
+      "jumbo-gemengd-gehakt-300-g-173435BAK",
+      "jumbo-gemengd-gehakt-500-g-87858BAK",
+      "jumbo-gemengd-gehakt-gekruid-1kg-180844BAK",
+      "jumbo-gemengd-gehakt-gekruid-500-g-87861BAK",
+      "jumbo-kip-gehakt-300-g-515019BAK",
+      "jumbo-kip-kalkoen-gehakt-300-g-747320BAK",
+      "jumbo-rund-mager-gehakt-400-g-716180TRA",
+      "souq-tomatensaus-voor-midden-oosters-gehakt-kip-groente-355-g-726186POT"
      ]
     },
     {
-     "product": "Kip schnitzel, kip krokant schnitzel, kip saté schnitzel, -",
+     "product": "Kip schnitzel, kip krokant schnitzel, kip saté schnitzel",
      "size": null,
      "deal": "2 voor 5,00",
-     "price": null,
+     "price": 5,
      "normalPrice": null,
      "note": null,
      "products": [
@@ -2858,7 +2883,7 @@
      "product": "Hamburgers",
      "size": null,
      "deal": "2 voor 6,00",
-     "price": null,
+     "price": 6,
      "normalPrice": null,
      "note": null,
      "products": [
@@ -2872,34 +2897,180 @@
      ]
     },
     {
-     "product": "Alle XXL Nutrition zuivel",
+     "product": "Alle Jumbo speculaas of speculoos producten van de...",
      "size": null,
+     "deal": "25% korting",
+     "price": null,
+     "normalPrice": null,
+     "note": null,
+     "products": [
+      "jumbo-amandel-speculaas-400-g-42592PAK",
+      "jumbo-bakkers-speculaas-600-g-546729ZK",
+      "jumbo-gevuld-speculaas-480-g-778634TRA",
+      "jumbo-lekker-vrij-van-gluten-speculaas-125-g-504866TRA",
+      "jumbo-speculaas-brokken-375g-184135PAK",
+      "jumbo-speculaas-brokken-met-amandelen-450-g-628389PAK",
+      "jumbo-speculaas-reepjes-gevuld-met-amandelspijs-270-g-201672DS"
+     ]
+    },
+    {
+     "product": "Jumbo's klein- en mini gebak",
+     "size": null,
+     "deal": "2 voor 6,49",
+     "price": 6.49,
+     "normalPrice": null,
+     "note": null,
+     "products": [
+      "lotus-gebak-mini-madeleine-7-x-17-g-200827STK"
+     ]
+    },
+    {
+     "product": "Reuze rozijnenbollen",
+     "size": null,
+     "deal": null,
+     "price": 0.99,
+     "normalPrice": null,
+     "note": "voor",
+     "products": [
+      "jumbo-reuze-rozijnenbollen-4-stuks-705283ZK"
+     ]
+    },
+    {
+     "product": "Becel",
+     "size": "30 sep t/m di 6 okt",
      "deal": "1+1 gratis",
      "price": null,
+     "normalPrice": null,
+     "note": null,
+     "products": [
+      "becel-lekker-romig-200-ml-257668FLS",
+      "becel-lekker-romig-467-ml-294997STK",
+      "becel-margarine-light-225-g-739749CUP",
+      "becel-margarine-light-550-g-739750CUP",
+      "becel-margarine-original-225-g-740013CUP",
+      "becel-margarine-original-550-g-739748CUP",
+      "becel-met-haver-vezels-450g-711257CUP",
+      "becel-met-roomboter-250-g-696352STK",
+      "becel-met-roomboter-400-g-679519CUP",
+      "becel-olie-blend-classic-0,5-l-182876STK",
+      "becel-olie-blend-met-olijfolie-0,5-l-182863STK",
+      "becel-original-450-g-607260CUP",
+      "becel-original-500-ml-358699FLS",
+      "becel-original-voordeelfles-750-ml-364871FLS",
+      "becel-proactiv-light-500-g-199907KP",
+      "becel-proactiv-original-500-g-199906KP",
+      "becel-proactiv-original-zuivel-yoghurt-drank-8-x-75-g-454146PAK",
+      "becel-romig-225-g-576351KP",
+      "becel-romig-450-g-739751CUP",
+      "becel-vlees-jus-250-g-679304PAK",
+      "becel-vlees-jus-450-ml-358735FLS",
+      "becel-vlees-jus-voordeelfles-750-ml-358737FLS",
+      "becel-voor-in-de-koffie-romig-voordeelfles-486-ml-247826STK"
+     ]
+    },
+    {
+     "product": "Alle Yfood",
+     "size": "30 sep t/m di 6 okt",
+     "deal": "1+1 gratis",
+     "price": null,
+     "normalPrice": null,
+     "note": null,
+     "products": [
+      "yfood-drinkmaaltijd-creamy-cookie-500ml-761499FLS",
+      "yfood-drinkmaaltijd-fruity-mango-500ml-644308FLS",
+      "yfood-drinkmaaltijd-fruity-peach-500ml-643101FLS",
+      "yfood-drinkmaaltijd-fudge-brownie-500ml-761498FLS",
+      "yfood-drinkmaaltijd-heavenly-hazelnut-500ml-695658FLS",
+      "yfood-drinkmaaltijd-perfect-pistachio-500ml-761551FLS",
+      "yfood-drinkmaaltijd-salted-caramel-500ml-695656FLS",
+      "yfood-gebalanceerde-drinkmaaltijd-classic-choco-500-ml-403879FLS",
+      "yfood-gebalanceerde-drinkmaaltijd-classic-choco-6-x-500-ml-403879TRL",
+      "yfood-gebalanceerde-drinkmaaltijd-cold-brew-coffee-met-natuurlijke-cafeine-500-ml-403877FLS",
+      "yfood-gebalanceerde-drinkmaaltijd-crazy-coconut-500-ml-589267FLS",
+      "yfood-gebalanceerde-drinkmaaltijd-fresh-berry-500-ml-495133FLS",
+      "yfood-gebalanceerde-drinkmaaltijd-fresh-berry-6-x-500-ml-495133TRL",
+      "yfood-gebalanceerde-drinkmaaltijd-happy-banana-500-ml-495132FLS",
+      "yfood-gebalanceerde-drinkmaaltijd-smooth-vanilla-500-ml-403878FLS"
+     ]
+    },
+    {
+     "product": "Optimel Drink",
+     "size": "30 sep t/m di 6 okt",
+     "deal": "2 voor 2.99",
+     "price": 2.99,
      "normalPrice": null,
      "note": null
     },
     {
-     "product": "Alle Optimeal eetzuivel",
-     "size": null,
-     "deal": "2 voor 3,50",
-     "price": null,
-     "normalPrice": null,
-     "note": null
-    },
-    {
-     "product": "Jumbo plantaardige drinks of barista's",
-     "size": null,
+     "product": "Almhof yoghurt",
+     "size": "30 sep t/m di 6 okt",
      "deal": "1+1 gratis",
      "price": null,
      "normalPrice": null,
-     "note": null
+     "note": null,
+     "products": [
+      "almhof-0-vet-yoghurt-aardbei-571377BKR",
+      "almhof-0-vet-yoghurt-perzik-maracuja-500-g-574414BKR",
+      "almhof-halfvolle-fruit-yoghurt-kers-1,3-vet-500-g-511649CUP",
+      "almhof-hoekje-choco-balls-naturel-yoghurt-150-g-577891CUP",
+      "almhof-hoekje-choco-cookie-yoghurt-vanillesmaak-150-g-578153STK",
+      "almhof-hoekje-yoghurt-pistache-smaak-met-krokante-amandelen-150-g-577924STK",
+      "almhof-yoghurt-mousse-perzik-maracuja-2-x-95-g-715105PAK"
+     ]
+    },
+    {
+     "product": "Campina yoghurt of kwark",
+     "size": "30 sep t/m di 6 okt",
+     "deal": "2 voor 2.99",
+     "price": 2.99,
+     "normalPrice": null,
+     "note": null,
+     "products": [
+      "campina-griekse-stijl-yoghurt-10-vet-1-kg-284575EM",
+      "campina-griekse-stijl-yoghurt-2-vet-1-kg-428922BKR",
+      "campina-halfvolle-yoghurt-2-x-1-l-711469STK",
+      "campina-halfvolle-yoghurt-extra-proteine-1-l-736023PAK",
+      "campina-halfvolle-yoghurt-vanillesmaak-1-l-527080PAK",
+      "campina-high-protein-greek-style-yoghurt-1,5-fat-450-g-736025CUP",
+      "campina-high-protein-greek-style-yoghurt-5-fat-450-g-736026CUP",
+      "campina-high-protein-greek-yoghurt-1,5-fat-1-kg-678562CUP",
+      "campina-high-protein-greek-yoghurt-1,5-fat-2-x-1-kg-717429STK",
+      "campina-high-protein-greek-yoghurt-5-fat-1-kg-678581CUP",
+      "campina-magere-yoghurt-1-l-527014PAK",
+      "campina-magere-yoghurt-500-ml-526999PAK",
+      "campina-magere-yoghurt-voordeelpak-1,5-l-206421STK",
+      "campina-milde-halfvolle-yoghurt-1-l-31677PAK",
+      "campina-vlaflip-halfvolle-yoghurt-en-frambozenvla-met-bosvruchtensaus-1-l-188331PAK",
+      "campina-vlaflip-halfvolle-yoghurt-en-vla-vanillesmaak-met-rode-vruchtensaus-1-l-188332PAK",
+      "campina-volle-yoghurt-1-l-526937PAK",
+      "campina-volle-yoghurt-500-ml-526966PAK",
+      "campina-volle-yoghurt-extra-proteine-1-l-736024PAK",
+      "jumbo-kwark-toetje-6-x-100-g-324866CUP",
+      "optimel-kwark-met-magere-yoghurt-vanille-0-vet-500g-202676STK"
+     ]
+    },
+    {
+     "product": "Alle Douwe Egberts ijskoffie",
+     "size": "30 sep t/m di 6 okt",
+     "deal": null,
+     "price": 0.69,
+     "normalPrice": null,
+     "note": null,
+     "products": [
+      "douwe-egberts-ice-cappuccino-ijskoffie-230-ml-577350BKR",
+      "douwe-egberts-ice-cappuccino-ijskoffie-230-ml-577350KRL",
+      "douwe-egberts-ice-caramel-latte-ijskoffie-230-ml-577351DSL",
+      "douwe-egberts-ice-caramel-latte-ijskoffie-230-ml-577351STK",
+      "douwe-egberts-ice-macchiato-ijskoffie-230-ml-577354BKR",
+      "douwe-egberts-ice-macchiato-ijskoffie-230-ml-577354KRL",
+      "douwe-egberts-ijskoffie-ice-cappuccino-250-ml-541159BLK"
+     ]
     },
     {
      "product": "Danio Kwark",
-     "size": null,
-     "deal": "2 voor 4,00",
-     "price": null,
+     "size": "9 sep t/m di 6 okt",
+     "deal": "2 voor 4.00",
+     "price": 4,
      "normalPrice": null,
      "note": null,
      "products": [
@@ -2918,9 +3089,9 @@
     },
     {
      "product": "Alle HIPRO",
-     "size": null,
-     "deal": "2 voor 3,50",
-     "price": null,
+     "size": "9 sep t/m di 6 okt",
+     "deal": "2 voor 3.50",
+     "price": 3.5,
      "normalPrice": null,
      "note": null,
      "products": [
@@ -2947,333 +3118,201 @@
      ]
     },
     {
-     "product": "Chocomel, Fristi, Frische Vlag en Campina Slagroom",
-     "size": null,
+     "product": "Chocomel, Fristi, Friesche Vlag en Campina Slagroom",
+     "size": "9 sep t/m di 6 okt",
      "deal": "10% korting",
-     "price": null,
-     "normalPrice": null,
-     "note": "Alleen online",
-     "products": [
-      "campina-echte-slagroom-12-x-250g-678335TRL",
-      "campina-echte-slagroom-250g-678335BUS",
-      "campina-slagroom-royale-225-g-196339BUS",
-      "campina-vla-slagroom-vanillesmaak-1-l-527089PAK",
-      "chocomel-0-suiker-toegevoegd-1-l-203654PAK",
-      "chocomel-0-suiker-toegevoegd-250-ml-680888BLK",
-      "chocomel-0-suiker-toegevoegd-6x200ml-61330BLK",
-      "chocomel-0-suiker-toegevoegd-voordeelpak-1,5-l-408949PAK",
-      "chocomel-6-x-200-ml-61470PAK",
-      "chocomel-cacaodrank-high-protein-750ml-736182PAK",
-      "chocomel-dark-1-l-75727PAK",
-      "chocomel-halfvol-1-l-75728PAK",
-      "chocomel-halfvol-6-x-200-ml-61462PAK",
-      "chocomel-halfvol-voordeelpak-1,5-l-92693PAK",
-      "chocomel-lactosevrij-1-l-450683PAK",
-      "chocomel-plantaardig-1-l-523885PAK",
-      "chocomel-protein-12x300ml-706968TRL",
-      "chocomel-protein-300ml-706968FLS",
-      "chocomel-protein-4-x-300-ml-721750STK",
-      "chocomel-vol-1-l-75729PAK",
-      "chocomel-vol-blik-4-x-6-x-250ml-540724TRL",
-      "chocomel-vol-blik-6-x-250ml-540724PAK",
-      "chocomel-vol-utz-mb-24x200ml-755383TRA",
-      "chocomel-vol-voordeel-8-x-1,5-l-92679DSL",
-      "chocomel-voordeelpak-1,5-l-92679PAK",
-      "fristi-drinkyoghurt-rood-fruit-24x200-ml-755384TRA",
-      "fristi-rood-fruit-0-suiker-toegevoegd-1-l-75724PAK",
-      "fristi-rood-fruit-0-suiker-toegevoegd-6-x-200-ml-18071PAK",
-      "fristi-rood-fruit-1,5-l-408947PAK",
-      "fristi-rood-fruit-1-l-75725PAK",
-      "fristi-rood-fruit-250-ml-540968BLK",
-      "fristi-rood-fruit-3-x-1l-722639STK",
-      "fristi-rood-fruit-6-x-200-ml-18059PAK",
-      "fristi-rood-fruit-blik-24-x-250-ml-540968TRL",
-      "jumbo-fris-fruitige-aardbeien-magere-yoghurt-0,1-vet-1-l-304575PAK",
-      "jumbo-fris-fruitige-bosvruchten-magere-yoghurt-0,1-vet-1-l-304573PAK",
-      "jumbo-fris-fruitige-perzik-magere-yoghurt-0,1-vet-1-l-304574PAK"
-     ]
-    },
-    {
-     "product": "Campina, Optimel en Vifft",
-     "size": null,
-     "deal": "30% korting",
      "price": null,
      "normalPrice": null,
      "note": "Alleen online"
     },
     {
-     "product": "Jumbo Goudse kaas plakken",
-     "size": null,
-     "deal": "1+1 gratis",
+     "product": "Campina, Optimel en Vifft",
+     "size": "9 sep t/m di 6 okt",
+     "deal": "10% korting",
+     "price": null,
+     "normalPrice": null,
+     "note": "Alleen online"
+    },
+    {
+     "product": "Philadelphia",
+     "size": "30 sep t/m di 6 okt",
+     "deal": "2 voor 3.99",
+     "price": 3.99,
+     "normalPrice": null,
+     "note": null,
+     "products": [
+      "philadelphia-feta-roomkaas-175gr-688662CUP",
+      "philadelphia-plantaardige-spread-met-amandelen-en-haver-veganistisch-kuipje-145-g-557341CUP",
+      "philadelphia-zacht-frisse-zuivelspread-bieslook-kuipje-185-g-521196BAK",
+      "philadelphia-zacht-frisse-zuivelspread-extra-proteine-kuipje-175-g-713497TUB",
+      "philadelphia-zacht-frisse-zuivelspread-knoflook-fijne-kruiden-kuipje-185-g-521194BAK",
+      "philadelphia-zacht-frisse-zuivelspread-knoflook-fijne-kruiden-kuipje-300-g-315338CUP",
+      "philadelphia-zacht-frisse-zuivelspread-original-kuipje-200-g-168242STK",
+      "philadelphia-zacht-frisse-zuivelspread-original-kuipje-300-g-44713STK",
+      "philadelphia-zacht-frisse-zuivelspread-original-light-kuipje-200-g-168228STK"
+     ]
+    },
+    {
+     "product": "Leerdammer",
+     "size": "30 sep t/m di 6 okt",
+     "deal": null,
+     "price": 1.99,
+     "normalPrice": null,
+     "note": null,
+     "products": [
+      "jumbo-leerdammer-maasdammer-kaas-45-ca-500-g-571915KGR",
+      "leerdammer-extra-mild-742948DS",
+      "leerdammer-jong-belegen-caractere-plakken-150-g-617463PAK",
+      "leerdammer-jong-belegen-lightlife-8-plakken-160-g-477426DS",
+      "leerdammer-jong-original-45-kaas-260-g-645060STK"
+     ]
+    },
+    {
+     "product": "Jumbo cornedbeef, yorkham, kiprollade of drooggezoutenrundvlees",
+     "size": "30 sep t/m di 6 okt",
+     "deal": "2 voor 4.50",
+     "price": 4.5,
+     "normalPrice": null,
+     "note": null,
+     "products": [
+      "jumbo-kiprollade-ca-130-g-640537KGR",
+      "jumbo-yorkham-140-g-655494STK",
+      "jumbo-yorkham-ca-110-g-670666KGR",
+      "jumbo-yorkham-naturel-ca-120-g-668880KGR"
+     ]
+    },
+    {
+     "product": "Alle Beemster",
+     "size": "30 sep t/m di 6 okt",
+     "deal": "25% korting",
      "price": null,
      "normalPrice": null,
      "note": null,
      "products": [
-      "jumbo-goudse-kaas-48-belegen-plakken-ca-185-g-723800STK",
-      "jumbo-goudse-kaas-48-extra-belegen-plakken-ca-175-g-723801STK",
-      "jumbo-goudse-kaas-48-jong-belegen-plakken-ca-200-g-723789STK",
-      "jumbo-goudse-kaas-48-jong-belegen-plakken-ca-320-g-723802STK",
-      "jumbo-goudse-kaas-48-jong-plakken-ca-220-g-723787STK",
-      "jumbo-goudse-kaas-48-jong-plakken-ca-350-g-723788STK",
-      "jumbo-goudse-kaas-48-jong-portieverpakking-3-plakken-577036STK"
+      "beemster-30-belegen-plakken-150-g-729228ZK",
+      "beemster-30-jong-belegen-plakken-150-g-729227ZK",
+      "beemster-30-jong-kaas-6-plakken-0,150-kg-729226ZK",
+      "beemster-30-oud-plakken-150-g-729229ZK",
+      "beemster-48-extra-oud-plakken-125-g-729246ZK",
+      "beemster-48-royaal-grand-cru-borrelstukje-200-g-564539STK",
+      "beemster-48-signature-royaal-250g-742942STK",
+      "beemster-belegen-kaas-48-plakken-ca-220-g-498554KGR",
+      "beemster-belegen-kaas-6-plakken-0,150-kg-729244ZK",
+      "beemster-belegen-kaas-voordeelverpakking-417172ZK",
+      "beemster-belegen-stuk-435-g-419426KGR",
+      "beemster-extra-belegen-kaas-48-plakken-ca-220-g-498555KGR",
+      "beemster-extra-belegen-plakken-150-g-729242ZK",
+      "beemster-extra-belegen-stuk-400-g-419428KGR",
+      "beemster-jong-belegen-kaas-6-plakken-0,150-kg-729241ZK",
+      "beemster-jong-belegen-kaas-voordeelverpakking-10-plakken-0,250-kg-417177ZK",
+      "beemster-jong-belegen-stuk-450-g-422493KGR",
+      "beemster-jong-kaas-voordeelverpakking-10-plakken-0,250-kg-417179ZK",
+      "beemster-jong-plakken-150-g-729240ZK",
+      "beemster-jong-stuk-460-g-420753KGR",
+      "beemster-jonge-kaas-48-plakken-ca-220-g-498556KGR",
+      "beemster-kaas-jong-belegen-48-plakken-ca-220-g-498553KGR",
+      "beemster-oud-kaas-6-plakken-0,150-kg-729245ZK",
+      "beemster-oud-plakken-200-g-535318KGR",
+      "beemster-oud-stuk-380-g-419429KGR",
+      "beemster-royaal-belegen-kaas-5-plakken-0,125-kg-729247ZK",
+      "beemster-signature-kaassalade-140-g-759897BAK",
+      "beemster-signature-kaastapenade-140-g-759895BAK"
      ]
     },
     {
-     "product": "Jumbo snijworst, chorizo of boternetwors",
-     "size": null,
-     "deal": "1+1 gratis",
-     "price": null,
+     "product": "Jumbo brood en toast salades 200 gram",
+     "size": "27 mel t/m di 27 okt",
+     "deal": "2 voor 4.50",
+     "price": 4.5,
      "normalPrice": null,
      "note": null,
      "products": [
-      "jumbo-boterhamworst-en-snijworst-441117STK",
-      "jumbo-chorizo-150-g-666379STK",
-      "jumbo-chorizo-160-g-701827STK",
-      "jumbo-chorizo-ca-125-g-701826KGR",
-      "jumbo-snijworst-140-g-640571STK",
-      "jumbo-snijworst-ca-115-g-638177KGR",
-      "jumbo-snijworst-speciaal-ca-120-g-640590KGR",
-      "noel-chorizo-225-g-448023TAS",
-      "noel-chorizo-spicy-225-g-448034TAS",
-      "stegeman-chorizo-fuet-bites-80g-767376ZK",
-      "stegeman-chorizo-licht-pittig-225-g-370861ZK",
-      "stegeman-chorizo-light-200-g-553717ZK"
+      "jumbo-bruin-brood-spelt-300-g-680880ZK",
+      "jumbo-casino-wit-brood-half-300160STK",
+      "jumbo-lekker-vrij-van-gluten-meerzaden-brood-705332ZK",
+      "jumbo-libanees-brood-naturel-300-g-598367ZK",
+      "jumbo-mix-voor-bananen-brood-450-g-177378DS",
+      "jumbo-rond-wit-brood-300140STK",
+      "jumbo-sandwich-brood-naturel-250-g-443891PAK",
+      "jumbo-tosti-brood-wit-half-705248ZK",
+      "jumbo-turks-brood-500-g-453486ZK",
+      "jumbo-turks-brood-mini-2-stuks-760696ZK",
+      "jumbo-volkoren-brood-koolhydraatarm-half-317238STK"
      ]
     },
     {
-     "product": "Jumbo biologische vleeswaren",
+     "product": "Jumbo ambachtelijke salades 150 gram",
+     "size": "11 mrt t/m di 27 okt",
+     "deal": "2 voor 4.00",
+     "price": 4,
+     "normalPrice": null,
+     "note": null
+    },
+    {
+     "product": "John West tonijnconserven",
      "size": null,
-     "deal": "1+1 gratis",
+     "deal": "2+1 gratis",
      "price": null,
      "normalPrice": null,
      "note": null
     },
     {
-     "product": "Alle Boursin",
+     "product": "HAK",
+     "size": null,
+     "deal": "2 voor 3,99",
+     "price": null,
+     "normalPrice": null,
+     "note": null
+    },
+    {
+     "product": "Alle Knorr wereldgerechten, maaltijdmixen, risotteria's o...",
+     "size": null,
+     "deal": "2+1 gratis",
+     "price": null,
+     "normalPrice": null,
+     "note": null
+    },
+    {
+     "product": "Alle Easy Chicken Tonight of Easy Asia Tonight",
+     "size": null,
+     "deal": "1+1 gratis",
+     "price": null,
+     "normalPrice": null,
+     "note": null,
+     "products": [
+      "easy-asia-tonight-korean-bbq-met-lente-ui-260g-708048POT",
+      "easy-asia-tonight-sweet-chili-met-rode-paprika-260g-708049POT",
+      "easy-asia-tonight-teriyaki-met-edamame-bonen-260g-708107POT",
+      "easy-chicken-tonight-ajam-pangang-535-g-424593POT",
+      "easy-chicken-tonight-hawai-515g-424613POT",
+      "easy-chicken-tonight-kerrie-met-ananas-520g-424612POT",
+      "easy-chicken-tonight-sate-525-g-424976POT",
+      "easy-chicken-tonight-tandoori-520-g-424611POT",
+      "easy-chicken-tonight-tomaten-495-g-424614POT",
+      "easy-chicken-tonight-zoetzuur-525-g-424599POT"
+     ]
+    },
+    {
+     "product": "Cheetos of Lay's",
+     "size": null,
+     "deal": "2 voor 2,99",
+     "price": null,
+     "normalPrice": null,
+     "note": null
+    },
+    {
+     "product": "Look o Look zure streken",
      "size": null,
      "deal": "25% korting",
      "price": null,
      "normalPrice": null,
      "note": null,
      "products": [
-      "boursin-cuisine-230-g-507367CUP",
-      "boursin-cuisine-light-met-knoflook-en-fijne-kruiden-230-g-756043CUP",
-      "boursin-cuisine-tomaat-mediterrane-kruiden-230-g-740881CUP",
-      "boursin-garlic-herbs-roomkaas-150-g-188115STK",
-      "boursin-garlic-herbs-roomkaas-80-g-532495STK",
-      "boursin-plantaardig-knoflook-kruiden-150g-703160DS",
-      "boursin-roomkaas-knoflook-fijne-kruiden-125-g-213204BAK",
-      "boursin-sjalot-en-bieslook-150g-489844PAK"
-     ]
-    },
-    {
-     "product": "Jumbo brood en toast salades",
-     "size": "200 gram",
-     "deal": "2 voor 4.50",
-     "price": null,
-     "normalPrice": null,
-     "note": null
-    },
-    {
-     "product": "Jumbo ambachtelijke salades",
-     "size": "150 gram",
-     "deal": "2 voor 4.00",
-     "price": null,
-     "normalPrice": null,
-     "note": null
-    },
-    {
-     "product": "Alle Namdong of Knorr Good Noodles",
-     "size": null,
-     "deal": "1+1 gratis",
-     "price": null,
-     "normalPrice": null,
-     "note": null,
-     "products": [
-      "knorr-good-noodles-fusion-chicken-burrito-89g-748956CUP",
-      "knorr-good-noodles-fusion-pizza-margarita-80g-748955CUP",
-      "knorr-good-noodles-groente-5-x-70-g-751782ZK",
-      "knorr-good-noodles-groente-65-g-758808CUP",
-      "knorr-good-noodles-groente-70-g-751774PAK",
-      "knorr-good-noodles-kip-5-x-70-g-751778DS",
-      "knorr-good-noodles-kip-65-g-758807CUP",
-      "knorr-good-noodles-kip-70-g-752107PAK",
-      "knorr-good-noodles-oosterse-kip-70-g-751747PAK",
-      "knorr-good-noodles-pittige-kip-64-g-758821CUP",
-      "knorr-good-noodles-rund-63-g-758809CUP",
-      "knorr-good-noodles-rund-70-g-751771PAK",
-      "knorr-good-noodles-teriyaki-65-g-758820CUP",
-      "knorr-good-noodles-teriyaki-75-g-751770PAK",
-      "namdong-creamy-cheese-block-120g-770342PAK",
-      "namdong-creamy-cheese-cup-84g-770341CUP",
-      "namdong-snack-beef-jjigae-120-g-713512ZK",
-      "namdong-snack-beef-jjigae-83-g-699364CUP",
-      "namdong-snack-chicken-jjigae-120-g-713513ZK",
-      "namdong-snack-chicken-jjigae-84-g-699365CUP"
-     ]
-    },
-    {
-     "product": "Alle Samyang Buldak",
-     "size": null,
-     "deal": "1+1 gratis",
-     "price": null,
-     "normalPrice": null,
-     "note": null,
-     "products": [
-      "samyang-buldak-noedels-spicy-ramen-5-x-140-g-763057DS",
-      "samyang-buldak-noedels-spicy-ramen-carbonara-flavour-130-g-771065PAK",
-      "samyang-buldak-noedels-spicy-ramen-cheese-flavour-140-g-771064PAK"
-     ]
-    },
-    {
-     "product": "HAK",
-     "size": null,
-     "deal": "1+1 gratis",
-     "price": null,
-     "normalPrice": null,
-     "note": null
-    },
-    {
-     "product": "Alle Klikkoman of Kewpie",
-     "size": null,
-     "deal": "2e halve prijs",
-     "price": null,
-     "normalPrice": null,
-     "note": null,
-     "products": [
-      "kewpie-deep-roasted-sesame-dressing-241-g-382728FLS",
-      "kewpie-mayonnaise-337-g-337664FLS",
-      "kewpie-wasabi-mayo-sauce-130-ml-408578FLS"
-     ]
-    },
-    {
-     "product": "Fairtrade Original, Lassie of Tilda",
-     "size": null,
-     "deal": "2e halve prijs",
-     "price": null,
-     "normalPrice": null,
-     "note": null
-    },
-    {
-     "product": "Alle Foreva Spice Tafel",
-     "size": null,
-     "deal": "1+1 gratis",
-     "price": null,
-     "normalPrice": null,
-     "note": null
-    },
-    {
-     "product": "Alle Patak's, Koh Thai, Lee Kum Kee, Semple of Itsu",
-     "size": null,
-     "deal": "1+1 gratis",
-     "price": null,
-     "normalPrice": null,
-     "note": null
-    },
-    {
-     "product": "Saitaku",
-     "size": null,
-     "deal": "2e halve prijs",
-     "price": null,
-     "normalPrice": null,
-     "note": null,
-     "products": [
-      "saitaku-bamboo-rolling-mat-50056STK",
-      "saitaku-japanese-style-mayo-original-160-g-563970FLS",
-      "saitaku-japanese-style-mayo-wasabi-160-g-563972FLS",
-      "saitaku-mirin-sweet-rice-wine-for-cooking-150-ml-52414PAK",
-      "saitaku-miso-sesame-ramen-4-x-50-g-679964DS",
-      "saitaku-nori-snack-10-g-197584ZK",
-      "saitaku-nori-snack-spicy-10g-723297TRA",
-      "saitaku-nori-snack-wasabi-10g-723301TRA",
-      "saitaku-panko-breadcrumbs-150-g-140850ZK",
-      "saitaku-poke-ginger-sticks-190-g-564826POT",
-      "saitaku-poke-rice-500-g-586063DS",
-      "saitaku-poke-sprinkle-crunchy-seaweed-flakes-sesame-seeds-10g-626397ZK",
-      "saitaku-ponzu-yuzu-soy-sauce-763618FLS",
-      "saitaku-rice-vinegar-150-ml-50058FLS",
-      "saitaku-saus-japanese-style-mayo-spicy-160g-686681FLS",
-      "saitaku-sesame-dressing-roasted-150ml-648391FLS",
-      "saitaku-shiro-miso-paste-300-g-194550STK",
-      "saitaku-simply-japanese-ramen-noodles-precooked-2-x-150-g-444232ZK",
-      "saitaku-soba-noodles-with-buckwheat-300-g-469876ZK",
-      "saitaku-steamed-poke-bowl-rice-125g-648369DS",
-      "saitaku-sushi-ginger-190-g-50595STK",
-      "saitaku-sushi-kit-371-g-125159DS",
-      "saitaku-sushi-nori-5-vellen-14g-49932PAK",
-      "saitaku-sushi-rice-500-g-50472PAK",
-      "saitaku-sushi-soy-sauce-150-ml-113832FLS",
-      "saitaku-tamari-soy-sauce-150-ml-49933FLS",
-      "saitaku-teriyaki-sauce-150-ml-50057EM",
-      "saitaku-udon-noodles-300-g-469734ZK",
-      "saitaku-wasabi-paste-43-g-49926ZK"
-     ]
-    },
-    {
-     "product": "Alle Maggi maaltijdmixen, noodles of heat en eat",
-     "size": null,
-     "deal": "1+1 gratis",
-     "price": null,
-     "normalPrice": null,
-     "note": null,
-     "products": [
-      "conimex-noodles-volkoren-12-x-250-g-498980ZK",
-      "cup-noodles-soba-wok-style-teriyaki-90-g-159052CUP",
-      "cup-noodles-soba-wok-style-yakitori-chicken-89-g-356193CUP",
-      "eat-real-chilli-lemon-lentil-chips-95g-709909ZK",
-      "eat-real-hummus-caramelised-onion-balsamic-vinegar-110-g-734637ZK",
-      "eat-real-salted-lentil-chips-95g-709931ZK",
-      "eat-real-tomato-basil-hummus-chips-110g-710418ZK",
-      "indomie-noodles-mi-goreng-instant-fried-5-x-80-g-521433PAK",
-      "indomie-noodles-shrimp-flavour-70-g-626120PAK",
-      "maggi-noodles-curry-185g-411369ZK",
-      "maggi-noodles-soy-garlic-185g-411637ZK",
-      "maggi-noodles-sweet-chili-185g-411396ZK"
-     ]
-    },
-    {
-     "product": "Bertolli",
-     "size": null,
-     "deal": "1+1 gratis",
-     "price": null,
-     "normalPrice": null,
-     "note": null,
-     "products": [
-      "bertolli-bakolijfolie-mild-197645STK",
-      "bertolli-balsamico-azijn-uit-modena-250-ml-771482FLS",
-      "bertolli-base-per-pizza-2-stuks-280-g-452428ZK",
-      "bertolli-bio-originale-extra-vierge-olijfolie-197641STK",
-      "bertolli-bolognese-pastasaus-460-g-543725ZK",
-      "bertolli-classico-olijfolie-197642STK",
-      "bertolli-classico-olijfolie-358029FLS",
-      "bertolli-classico-olijfolie-605522FLS",
-      "bertolli-classico-olijfolie-spray-97683BUS",
-      "bertolli-cremissimo-van-balsamico-azijn-uit-modena-282851FLS",
-      "bertolli-knoflook-pastasaus-460-g-543726ZK",
-      "bertolli-kruidig-pastasaus-460-g-543719ZK",
-      "bertolli-originale-extra-vierge-olijfolie-197643STK",
-      "bertolli-originale-extra-vierge-olijfolie-357162FLS",
-      "bertolli-originale-extra-vierge-olijfolie-605387FLS",
-      "bertolli-originale-extra-vierge-olijfolie-knijpfles-699003FLS",
-      "bertolli-originale-extra-vierge-olijfolie-spray-558913BUS",
-      "bertolli-pasta-presto-pesto-70g-769810CUP",
-      "bertolli-pasta-presto-piccante-70g-769811CUP",
-      "bertolli-pasta-presto-pomodoro-mozzarella-70g-769812CUP",
-      "bertolli-pastasaus-basilico-sugo-670-g-466641POT",
-      "bertolli-pastasaus-met-mascarpone-en-peterselie-460-g-645594ZK",
-      "bertolli-pastasaus-met-oregano-wortel-en-ui-460-g-645593ZK",
-      "bertolli-pastasaus-siciliana-met-zongedroogde-tomaat-400g-772201POT",
-      "bertolli-pastasaus-tradizionale-sugo-670-g-466640POT",
-      "bertolli-peperoni-gegrilde-paprika-180-g-505975POT",
-      "bertolli-pesto-rosso-185-g-479057POT",
-      "bertolli-pinsa-230-g-645595ZK",
-      "bertolli-pittig-pastasaus-460-g-543718ZK",
-      "bertolli-pizzasaus-originale-180g-711180POT",
-      "bertolli-salsa-per-pizza-piccante-180-g-452470POT",
-      "bertolli-smeerbaar-250-g-576337KP",
-      "bertolli-sugo-tradizionale-basilico-pastasaus-400-g-491629POT",
-      "bertolli-sugo-tradizionale-ragu-alla-bolognese-400-g-491645POT",
-      "bertolli-vloeibaar-500-ml-384951FLS"
+      "look-o-look-zure-duo-streken-appel-kers-115g-763393ZK",
+      "look-o-look-zure-regenboog-streken-vegan-20-stuks-225907STK",
+      "look-o-look-zure-regenboog-streken-vegan-voordeelverpakking-200g-503857ZK",
+      "look-o-look-zure-streken-aardbei-vegan-20-stuks-225904STK",
+      "look-o-look-zure-streken-mix-vegan-20-stuks-439574ZK"
      ]
     },
     {
@@ -3288,366 +3327,267 @@
      ]
     },
     {
-     "product": "Haribo of Maoam",
-     "size": null,
-     "deal": "1+1 gratis",
-     "price": null,
-     "normalPrice": null,
-     "note": null
-    },
-    {
-     "product": "Hands Off",
-     "size": null,
-     "deal": "1+1 gratis",
-     "price": null,
-     "normalPrice": null,
-     "note": null,
-     "products": [
-      "hands-off-amsterdam-style-speculoos-100-g-715831PAK",
-      "hands-off-bites-peanut-185-g-550217ZK",
-      "hands-off-bites-sweet-and-salty-almond-130-g-550240ZK",
-      "hands-off-caramel-seasalt-hazelnut-praline-100-g-411070RP",
-      "hands-off-choco-chip-chocolate-cookies-105-g-571976TRA",
-      "hands-off-chunky-cookie-caramel-banana-chips-100-g-738167PAK",
-      "hands-off-chunky-pecan-pretzel-salted-caramel-100-g-715832PAK",
-      "hands-off-chunky-pistachio-crunch-with-waffle-cone-100-g-715834PAK",
-      "hands-off-dubai-style-pistachio-100-g-745682PAK",
-      "hands-off-milano-style-hazelnut-100-g-715835PAK",
-      "hands-off-seriously-dark-85-cocoa-85-g-683480PAK"
-     ]
-    },
-    {
-     "product": "Lotus Biscoff Sandwich of Echte Sinthuizer",
-     "size": null,
-     "deal": "25% korting",
-     "price": null,
-     "normalPrice": null,
-     "note": null,
-     "products": [
-      "lotus-biscoff-speculoos-koek-sandwich-chocolade-154-g-783410PAK",
-      "lotus-biscoff-speculoos-koek-sandwich-vanille-154-g-770429PAK"
-     ]
-    },
-    {
-     "product": "Alle M&M's of Maltsers",
-     "size": null,
-     "deal": "2+1 gratis",
-     "price": null,
-     "normalPrice": null,
-     "note": null,
-     "products": [
-      "danone-mm-s-vanilleyoghurt-120-g-578882STK",
-      "ella-s-kitchen-organic-bio-kipkerrie-met-sperziebonen-kokos-10-m-190-g-611350ZK",
-      "jumbo-biologisch-eieren-sml-6-stuks-610309DS",
-      "jumbo-biologisch-witte-eieren-sml-10-stuks-730464DS",
-      "jumbo-kei-lekker-eieren-sml-6-stuks-619847DS",
-      "mm-s-blue-mix-chocolade-en-pinda-in-suikerlaagje-150g-709404ZK",
-      "mm-s-choco-chocolade-snoepjes-125g-601287ZK",
-      "mm-s-choco-chocolade-snoepjes-200g-601320ZK",
-      "mm-s-chocolate-maxi-363-g-745588ZK",
-      "mm-s-cookie-dough-chocolade-met-koekjesdeegsmaak-176g-742350ZK",
-      "mm-s-cookie-dough-chocolade-met-koekjesdeegsmaak-367g-742319ZK",
-      "mm-s-crispy-chocolade-snoepjes-107g-681827ZK",
-      "mm-s-crispy-chocolade-snoepjes-187g-742889ZK",
-      "mm-s-crispy-chocolade-snoepjes-partyzak-675g-681909ZK",
-      "mm-s-crispy-gepofte-rijst-in-melkchocolade-309-g-745630ZK",
-      "mm-s-melk-chocolade-pinda-snoepjes-zak-middel-601288ZK",
-      "mm-s-minis-chocolade-snoepjes-maxi-324g-749171ZK",
-      "mm-s-pinda-chocolade-snoepjes-125g-601286ZK",
-      "mm-s-pinda-melkchocolade-363g-745589ZK",
-      "mm-s-pink-mix-chocolade-en-pinda-in-suikerlaagje-150g-709386ZK"
-     ]
-    },
-    {
-     "product": "Alle MadeGood",
-     "size": null,
-     "deal": "1+1 gratis",
-     "price": null,
-     "normalPrice": null,
-     "note": null,
-     "products": [
-      "madegood-organic-drizzled-granola-bars-birthday-cake-flavour-5-x-24-g-460257DS"
-     ]
-    },
-    {
-     "product": "Mentos Gum, Stimorol of Smint",
-     "size": null,
-     "deal": "1+1 gratis",
-     "price": null,
-     "normalPrice": null,
-     "note": null
-    },
-    {
-     "product": "Lay's",
-     "size": null,
-     "deal": "2 voor 3.50",
-     "price": null,
-     "normalPrice": null,
-     "note": null
-    },
-    {
-     "product": "Proper chips of popcorn",
-     "size": null,
-     "deal": "1+1 gratis",
-     "price": null,
-     "normalPrice": null,
-     "note": null,
-     "products": [
-      "jumbo-popcorn-chili-lime-90-g-748234ZK",
-      "jumbo-popcorn-confetti-90-g-748224ZK",
-      "jumbo-popcorn-karamel-zeezout-150-g-570370ZK",
-      "jumbo-popcorn-mais-500-g-711085ZK",
-      "jumbo-popcorn-zoet-175-g-570373ZK",
-      "jumbo-popcorn-zout-100-g-570372ZK",
-      "pathe-popcorn-zoet-746284ZK",
-      "pathe-popcorn-zout-746280ZK",
-      "proper-chips-sweet-sriracha-chilli-linzen-chips-85-g-647139ZK"
-     ]
-    },
-    {
-     "product": "Lay's of Doritos",
-     "size": null,
-     "deal": "20% korting",
-     "price": null,
-     "normalPrice": null,
-     "note": "Alleen online"
-    },
-    {
-     "product": "Lay's",
-     "size": null,
-     "deal": "20% korting",
-     "price": null,
-     "normalPrice": null,
-     "note": "Alleen online"
-    },
-    {
-     "product": "Alle Zonnatura",
-     "size": null,
-     "deal": "1+1 gratis",
-     "price": null,
-     "normalPrice": null,
-     "note": null
-    },
-    {
-     "product": "Douwe Egberts oploskoffie of Senseo melkvarianten",
+     "product": "Bounty, Mars, Snickers of Twix",
      "size": null,
      "deal": "2e halve prijs",
      "price": null,
      "normalPrice": null,
      "note": null,
      "products": [
-      "douwe-egberts-aroma-rood-oploskoffie-200-g-865222POT",
-      "douwe-egberts-aroma-rood-sticks-oploskoffie-25-stuks-372103DS",
-      "douwe-egberts-espresso-sticks-oploskoffie-25-stuks-191923DS",
-      "douwe-egberts-verwenkoffie-cappuccino-oploskoffie-10-stuks-483702DS",
-      "douwe-egberts-verwenkoffie-latte-caramel-oploskoffie-8-stuks-483796DS"
+      "bounty-ijs-repen-chocolade-kokos-5-stuks-747954DS",
+      "bounty-melk-chocolade-kokos-reep-snack-single-57-g-91880STK",
+      "bounty-melkchocolade-met-kokosvulling-557g-multipack-91786PAK",
+      "bounty-minis-chocolade-kokos-repen-uitdeelzak-333g-745688ZK",
+      "danone-twix-mix-yoghurt-120-g-578770DS",
+      "mars-ijs-repen-chocolade-caramel-5-stuks-742442DS",
+      "mars-melkchocolade-karamel-en-vulling-545g-multipack-153501PAK",
+      "mars-minimix-chocolade-repen-uitdeelzak-2x-500g-703122STK",
+      "mars-minimix-chocolade-repen-uitdeelzak-500g-154530ZK",
+      "mars-minis-chocolade-caramel-repen-uitdeelzak-333g-508959ZK",
+      "mars-protein-chocolade-caramel-reep-50g-636149PAK",
+      "mars-snickers-ijs-706233STK",
+      "mars-twix-ijs-706232STK",
+      "snickers-chocolade-pinda-caramel-reep-50g-91817STK",
+      "snickers-gold-ijsrepen-caramel-5-stuks-742443DS",
+      "snickers-ijs-repen-chocolade-pinda-caramel-5-stuks-742446DS",
+      "snickers-melkchocolade-karamel-en-pinda-s-550g-multipack-153500PAK",
+      "snickers-minis-chocolade-pinda-caramel-repen-uitdeelzak-333g-509021ZK",
+      "snickers-protein-chocolade-pinda-caramel-reep-47g-636148PAK",
+      "snickers-white-ijsrepen-witte-chocolade-5-stuks-742444DS",
+      "twix-chocolade-caramel-koek-repen-5x2-pack-72840PAK",
+      "twix-hazelnut-melkchocolade-met-karamel-5-pack-745683PAK",
+      "twix-ijsrepen-chocolade-karamel-biscuit-5-stuks-742445DS",
+      "twix-minis-chocolade-karamel-koek-repen-uitdeelzak-333g-509023ZK",
+      "twix-witte-chocolade-caramel-koek-repen-5x2-pack-742888DS"
      ]
     },
     {
-     "product": "Alle Café Royal",
+     "product": "Jumbo roomboter stroopwafels",
+     "size": null,
+     "deal": null,
+     "price": 1.49,
+     "normalPrice": null,
+     "note": null,
+     "products": [
+      "jumbo-mini-stroopwafels-met-roomboter-300-g-623793ZK"
+     ]
+    },
+    {
+     "product": "Ritter Sport",
      "size": null,
      "deal": "1+1 gratis",
      "price": null,
      "normalPrice": null,
      "note": null,
      "products": [
-      "cafe-royal-amaretti-flavoured-coffee-10-capsules-50-g-560136PAK",
-      "cafe-royal-caramel-10-capsules-50-g-233324STK",
-      "cafe-royal-cinnamon-flavoured-coffee-10-capsules-50-g-560137PAK",
-      "cafe-royal-dark-chocolate-flavoured-coffee-10-capsules-50-g-424853PAK",
-      "cafe-royal-espresso-forte-18-capsules-93-g-715823PAK",
-      "cafe-royal-flavoured-edition-dessert-dreams-tiramisu-10x50g-715916DS",
-      "cafe-royal-hazelnut-flavoured-coffee-10-capsules-50-g-359521STK",
-      "cafe-royal-lungo-classico-big-pack-18-capsules-93-g-591965DS",
-      "cafe-royal-vanilla-10-capsules-50-g-233326STK",
-      "cafe-royal-xl-box-lungo-forte-18-capsules-99-g-371917PAK"
+      "ritter-sport-marsepein-100-g-392009PAK",
+      "ritter-sport-melk-hele-hazelnoot-100-g-193155STK",
+      "ritter-sport-mini-chocolate-mix-9-x-16,67-g-451466DS",
+      "ritter-sport-mini-nut-selection-7-x-16,67-g-451264PAK",
+      "ritter-sport-pistache-nut-selection-100-g-738161PAK",
+      "ritter-sport-puur-hele-hazelnoot-100-g-193153STK",
+      "ritter-sport-roasted-peanut-crunchy-met-geroosterde-en-gezouten-pinda-s-100-g-738162PAK",
+      "ritter-sport-rozijn-hazelnoot-100-g-451465PAK",
+      "ritter-sport-salted-caramel-100-g-622864PAK",
+      "ritter-sport-wit-hele-hazelnoot-100-g-193154STK"
      ]
     },
     {
-     "product": "Clipper",
+     "product": "Alle Nakd of Trek",
      "size": null,
      "deal": "1+1 gratis",
      "price": null,
      "normalPrice": null,
      "note": null,
      "products": [
-      "clipper-arabian-nights-organic-infusion-634949DS",
-      "clipper-bio-lemon-ginger-organic-infusion-4-x-20-stuks-136127DSL",
-      "clipper-chai-organic-green-tea-20-stuks-40-g-153646DS",
-      "clipper-chamomile-cinnamon-organic-infusion-20-stuks-35-g-175100DS",
-      "clipper-chamomile-peach-organic-infusion-20-zakjes-30-g-609526DS",
-      "clipper-classic-chai-organic-infusion-20-stuks-44g-505179DS",
-      "clipper-detox-organic-green-tea-20-stuks-40-g-216697STK",
-      "clipper-earl-grey-orange-organic-tea-20-zakjes-36-g-609524DS",
-      "clipper-energise-organic-green-tea-20-stuks-35-g-216696STK",
-      "clipper-english-organic-black-tea-20-zakjes-34-g-685505DS",
-      "clipper-forest-fruit-organic-black-tea-20-stuks-40-g-455844DS",
-      "clipper-ginger-turmeric-organic-infusion-20-stuks-36-g-435389DS",
-      "clipper-infusion-variety-20-zakjes-38-g-509689DS",
-      "clipper-jasmine-lemon-organic-green-tea-20-stuks-34-g-352838DS",
-      "clipper-lemon-ginger-organic-infusion-20-zakjes-45-g-136127STK",
-      "clipper-lemon-organic-green-tea-20-stuks-37-g-317457DS",
-      "clipper-mango-citrus-organic-infusion-20-stuks-36-g-567735DS",
-      "clipper-marrakesh-markets-mint-cinnamon-liquorice-organic-infusion-20-zakjes-35-g-529098DS",
-      "clipper-mighty-mint-organic-infusion-20-stuks-32-g-685504DS",
-      "clipper-morning-sunshine-organic-lemongrass-mate-infusion-20-stuks-40-g-609523DS",
-      "clipper-nighty-night-20-zakjes-40-g-475674DS",
-      "clipper-orange-lemon-organic-infusion-20-stuks-40-g-352840DS",
-      "clipper-orange-turmeric-organic-infusion-20-stuks-40-g-352839DS",
-      "clipper-organic-earl-grey-tea-20-stuks-41-g-317453DS",
-      "clipper-organic-happy-mondays-20-stuks-45-g-177547STK",
-      "clipper-pure-organic-green-tea-20-stuks-35-g-159311STK",
-      "clipper-raspberry-mint-organic-green-tea-20-zakjes-35-g-153648DS",
-      "clipper-rooibos-cinnamon-organic-infusion-20-stuks-36-g-685503DS",
-      "clipper-rooibos-orange-organic-infusion-20-stuks-40-g-397334DS",
-      "clipper-snore-peace-organic-chamomile-lemon-balm-lavender-infusion-20-stuks-30-g-175096DS",
-      "clipper-spicy-chai-organic-infusion-20-stuks-50g-505230DS",
-      "clipper-tokyo-gardens-green-tea-jasmine-peach-20-stuks-40-g-634947DS",
-      "clipper-warming-orange-cinnamon-organic-infusion-with-orange-flavour-20-stuks-40-g-775414DS",
-      "clipper-warming-rooibos-chai-organic-infusion-20-stuks-35-g-775418DS",
-      "clipper-zen-again-organic-lemongrass-eucaluptus-ginkgo-infusion-20-stuks-35-g-161048DS"
+      "nakd-protein-caramel-3x45g-645666DS",
+      "nakd-protein-cocoa-hazelnut-3x45g-645667DS",
+      "nakd-raw-fruitreep-met-noten-berry-delight-4-x-35-g-185126STK",
+      "nakd-raw-fruitreep-met-noten-blueberry-muffin-4-x-35-g-270257STK",
+      "nakd-raw-fruitreep-met-noten-lemon-cake-35-g-762944DS",
+      "trek-biscoff-3x50g-762949DS",
+      "trek-cocoa-oat-3x50g-762943DS",
+      "trek-salted-caramel-3x50-g-762942DS",
+      "trek-smooth-lemon-3x50g-762940DS",
+      "trek-white-chocolate-raspberry-3x50g-762941DS"
      ]
     },
     {
-     "product": "Douwe Egberts en L'OR",
+     "product": "Lay's Wavy Roasted Ham Chips Snackbox",
      "size": null,
-     "deal": "10% korting",
+     "deal": "3+1 gratis",
+     "price": null,
+     "normalPrice": null,
+     "note": "Alleen online",
+     "products": [
+      "lay-s-wavy-roasted-ham-chips-snackbox-115-g-745000STK"
+     ]
+    },
+    {
+     "product": "Lay's",
+     "size": null,
+     "deal": "20% korting",
      "price": null,
      "normalPrice": null,
      "note": "Alleen online"
     },
     {
-     "product": "Alle Karvan Cevitam",
-     "size": null,
-     "deal": "2 voor 6,00",
-     "price": null,
-     "normalPrice": null,
-     "note": null,
-     "products": [
-      "karvan-cevitam-aardbei-original-siroop-600-ml-513913FLS",
-      "karvan-cevitam-bosvruchten-original-siroop-600-ml-514110FLS",
-      "karvan-cevitam-cassis-original-siroop-600-ml-512221FLS",
-      "karvan-cevitam-citroen-original-siroop-600ml-512209FLS",
-      "karvan-cevitam-framboos-original-siroop-600-ml-512208FLS",
-      "karvan-cevitam-go-aardbei-siroop-48-ml-753516FLS",
-      "karvan-cevitam-go-cactus-limoen-siroop-48-ml-753519FLS",
-      "karvan-cevitam-go-cassis-siroop-48-ml-753518FLS",
-      "karvan-cevitam-go-rood-fruit-siroop-48-ml-753517FLS",
-      "karvan-cevitam-grenadine-original-siroop-600-ml-753526FLS",
-      "karvan-cevitam-ice-tea-peach-original-siroop-600-ml-514112FLS",
-      "karvan-cevitam-refresh-zero-pink-grapefruit-siroop-600ml-682108FLS",
-      "karvan-cevitam-refresh-zero-sinaasappel-gember-smaak-600ml-682107FLS",
-      "karvan-cevitam-sinaasappel-original-siroop-600-ml-512206FLS",
-      "karvan-cevitam-tropical-original-siroop-600-ml-512205FLS",
-      "karvan-cevitam-zero-aardbei-siroop-600-ml-580159FLS",
-      "karvan-cevitam-zero-bosvruchten-siroop-600-ml-580150FLS",
-      "karvan-cevitam-zero-cassis-siroop-600-ml-580154FLS",
-      "karvan-cevitam-zero-citroen-siroop-600-ml-580156FLS",
-      "karvan-cevitam-zero-framboos-siroop-600-ml-580139FLS",
-      "karvan-cevitam-zero-grenadine-siroop-600-ml-580157FLS",
-      "karvan-cevitam-zero-kers-siroop-600-ml-580155FLS",
-      "karvan-cevitam-zero-limoen-en-munt-siroop-600-ml-606764FLS",
-      "karvan-cevitam-zero-multivruchten-siroop-600-ml-580153FLS",
-      "karvan-cevitam-zero-watermeloen-aardbei-siroop-600-ml-580158FLS"
-     ]
-    },
-    {
-     "product": "DubbelFrisss of DubbelDrank",
-     "size": null,
+     "product": "Alle Naki of Trek",
+     "size": "wo 30 sep t/m di 6 okt",
      "deal": "1+1 gratis",
      "price": null,
      "normalPrice": null,
      "note": null,
      "products": [
-      "dubbeldrank-abrikoos-sinaasappel-1-l-166466PAK",
-      "dubbeldrank-ananas-guave-met-sinaasappel-en-appel-1-l-166469PAK",
-      "dubbeldrank-banaan-kers-1l-670386PAK",
-      "dubbeldrank-mango-guanabana-met-appel-1-l-166468PAK",
-      "dubbeldrank-mango-passievrucht-1-l-383965PAK",
-      "dubbeldrank-sinaasappel-perzik-met-appel-1-l-166465PAK",
-      "dubbelfrisss-1kcal-appel-perzik-0,35-l-608965PAK",
-      "dubbelfrisss-1kcal-appel-perzik-1,5l-390424PAK",
-      "dubbelfrisss-1kcal-appel-perzik-6-pack-0,2l-498387PAK",
-      "dubbelfrisss-1kcal-appel-zwarte-bes-1,5l-498388PAK",
-      "dubbelfrisss-1kcal-framboos-cranberry-0,35l-608964PAK",
-      "dubbelfrisss-1kcal-framboos-cranberry-1,5l-390426PAK",
-      "dubbelfrisss-1kcal-framboos-cranberry-6-pack-0,2l-625105PAK",
-      "dubbelfrisss-1kcal-smaakmakers-bubblegum-blauwe-bes-0,35-l-741605PAK",
-      "dubbelfrisss-1kcal-smaakmakers-bubblegum-blauwe-bes-1,5-l-741607PAK",
-      "dubbelfrisss-1kcal-smaakmakers-sinas-vanille-ijsje-0,35-l-741604PAK",
-      "dubbelfrisss-1kcal-smaakmakers-sinas-vanille-ijsje-1,5-l-741606PAK",
-      "dubbelfrisss-1kcal-witte-druiven-citroen-1,5-l-390425PAK",
-      "dubbelfrisss-appel-perzik-1,5-l-498380PAK",
-      "dubbelfrisss-boost-ananas-mango-1,5l-608969PAK",
-      "dubbelfrisss-boost-appel-perzik-1,5l-608968PAK",
-      "dubbelfrisss-boost-appel-perzik-6-pack-0,2l-625101PAK",
-      "dubbelfrisss-boost-bosvruchten-appel-1,5l-608966PAK",
-      "dubbelfrisss-boost-framboos-cranberry-1,5l-608967PAK",
-      "dubbelfrisss-framboos-cranberry-1,5-l-498382PAK",
-      "dubbelfrisss-sinaasappel-mandarijn-1,5-l-498383PAK",
-      "dubbelfrisss-witte-druiven-citroen-1,5-l-498381PAK"
+      "trek-biscoff-3x50g-762949DS",
+      "trek-cocoa-oat-3x50g-762943DS",
+      "trek-salted-caramel-3x50-g-762942DS",
+      "trek-smooth-lemon-3x50g-762940DS",
+      "trek-white-chocolate-raspberry-3x50g-762941DS"
      ]
     },
     {
-     "product": "Lipton",
-     "size": null,
-     "deal": "2 voor 4,00",
+     "product": "Lay's Wavy Roasted Ham Chips Snackbox",
+     "size": "vr 25 sep t/m di 27 okt",
+     "deal": "1+1 gratis",
+     "price": null,
+     "normalPrice": null,
+     "note": null,
+     "products": [
+      "lay-s-wavy-roasted-ham-chips-snackbox-115-g-745000STK"
+     ]
+    },
+    {
+     "product": "Lay's of Doritos",
+     "size": "wo 9 sep t/m di 6 okt",
+     "deal": "20% korting",
      "price": null,
      "normalPrice": null,
      "note": null
     },
     {
-     "product": "Royal Club, Rivella, Crystal Clear of Sourcy Vitamin water",
-     "size": null,
+     "product": "Douwe Egberts Aroma Rood of Decafé",
+     "size": "wo 30 sep t/m di 6 okt",
+     "deal": null,
+     "price": 6.99,
+     "normalPrice": null,
+     "note": null,
+     "products": [
+      "douwe-egberts-aroma-rood-bonen-voordeelpak-1000-g-390432DSL",
+      "douwe-egberts-aroma-rood-bonen-voordeelpak-1000-g-390432ZK",
+      "douwe-egberts-aroma-rood-donker-filterkoffie-250-g-193099PAK",
+      "douwe-egberts-aroma-rood-donker-filterkoffie-500-g-193239PAK",
+      "douwe-egberts-aroma-rood-dubbelpak-filterkoffie-2-x-500-g-149986PAK",
+      "douwe-egberts-aroma-rood-dubbelpak-filterkoffie-2-x-500-g-149986TRL",
+      "douwe-egberts-aroma-rood-filterkoffie-250-g-220698PAK",
+      "douwe-egberts-aroma-rood-filterkoffie-500-g-220752PAK",
+      "douwe-egberts-aroma-rood-grove-maling-filterkoffie-250-g-193115PAK",
+      "douwe-egberts-aroma-rood-grove-maling-filterkoffie-500-g-112609PAK",
+      "douwe-egberts-aroma-rood-koffiebonen-500-g-51016PAK",
+      "douwe-egberts-aroma-rood-koffiepads-familiepak-54-stuks-375-g-192504ZK",
+      "douwe-egberts-aroma-rood-oploskoffie-200-g-865222POT",
+      "douwe-egberts-aroma-rood-sticks-oploskoffie-25-stuks-372103DS",
+      "jumbo-decaf-oploskoffie-100-g-319463POT",
+      "pickwick-decaf-mild-grey-20-stuks-736339DS",
+      "senseo-decaf-coffee-pads-36-stuks-250-g-516554ZK"
+     ]
+    },
+    {
+     "product": "Alle Lavazza Nespresso koffiecups",
+     "size": "wo 30 sep t/m di 6 okt",
+     "deal": "1+1 gratis",
+     "price": null,
+     "normalPrice": null,
+     "note": null
+    },
+    {
+     "product": "Buisman of La Place Nespresso koffiecups",
+     "size": "wo 30 sep t/m di 6 okt",
      "deal": "1+1 gratis",
      "price": null,
      "normalPrice": null,
      "note": null,
      "products": [
-      "crystal-clear-appel-peer-4x250ml-754157DS",
-      "crystal-clear-citroen-smaak-drank-1l-751380FLS",
-      "crystal-clear-cranberry-smaak-drank-1l-751348FLS",
-      "crystal-clear-framboos-citroen-4-x-250ml-754159DS",
-      "crystal-clear-koolzuurvrij-appel-peer-1l-752773FLS",
-      "crystal-clear-koolzuurvrij-citroen-passievrucht-1l-752777FLS",
-      "crystal-clear-koolzuurvrij-framboos-bosbes-1l-752774FLS",
-      "crystal-clear-koolzuurvrij-sinaasappel-mandarijn-1l-752776FLS",
-      "crystal-clear-perzik-smaak-1l-751344FLS",
-      "crystal-clear-perziksmaak-0,5-l-431113FLS",
-      "crystal-clear-sparkling-cherry-fles-1l-751349FLS",
-      "crystal-clear-sparkling-lemon-cactus-fles-1l-751381FLS",
-      "crystal-clear-sparkling-lemon-fles-0,5l-431121FLS",
-      "crystal-clear-sparkling-lemon-fles-6-x-0,5l-431121PKL",
-      "rivella-citroen-fles-1,5l-636189FLS",
-      "rivella-cranberry-fles-0,5l-431128FLS",
-      "rivella-cranberry-fles-1,5-l-429179FLS",
-      "rivella-original-1,5-l-430350FLS",
-      "rivella-original-fles-0,5l-431126FLS",
-      "rivella-original-fles-1l-429185FLS",
-      "rivella-original-fles-6-x-0,5l-431126PKL",
-      "rivella-perzik-fes-1,5l-636190FLS",
-      "royal-club-0-suiker-tonic-classic-4x250ml-718901DS",
-      "royal-club-bitter-lemon-0-4-x-250ml-709785DS",
-      "royal-club-bitter-lemon-0-suiker-fles-1l-429639FLS",
-      "royal-club-bitter-lemon-fles-1l-469606FLS",
-      "royal-club-ginger-ale-0-4-x-250ml-711813DS",
-      "royal-club-ginger-ale-0-suiker-fles-1l-429666FLS",
-      "royal-club-ginger-ale-fles-1l-429203FLS",
-      "royal-club-ginger-beer-0-4-x-250ml-709773DS",
-      "royal-club-ginger-beer-0-suiker-1-l-427968FLS",
-      "royal-club-ginger-beer-1l-436015FLS",
-      "royal-club-lemon-soda-4x250ml-740461DS",
-      "royal-club-pink-grapefruit-0-1l-666855FLS",
-      "royal-club-rose-lemonade-0-suiker-pet-1-l-480353FLS",
-      "royal-club-shandy-blik-6-x-330ml-540557PAK",
-      "royal-club-spritz-4x250ml-740444DS",
-      "royal-club-tonic-classic-0-suiker-fles-1l-436014FLS",
-      "royal-club-tonic-fles-1l-429671FLS"
+      "buisman-cafe-au-caramel-300-g-710845POT",
+      "buisman-classic-aroma-175-g-455618POT",
+      "buisman-latte-macchiato-260-g-710844POT",
+      "buisman-warme-cacao-drank-300-g-710843POT",
+      "la-place-brazilie-nespresso-koffiecups-10-stuks-703196DS",
+      "la-place-cappuccino-nespresso-koffiecups-10-stuks-703108DS",
+      "la-place-colombia-nespresso-koffiecups-10-stuks-703198DS",
+      "la-place-espresso-fortissimo-nespresso-koffiecups-10-stuks-703194DS",
+      "la-place-lungo-decaf-nespresso-koffiecups-10-stuks-703197DS",
+      "la-place-lungo-dolce-nespresso-koffiecups-10-stuks-702820DS",
+      "la-place-lungo-intenso-nespresso-koffiecups-10-stuks-702921DS",
+      "la-place-lungo-originale-nespresso-koffiecups-10-stuks-703193DS",
+      "la-place-nespresso-koffiecups-ristretto-10-stuks-703195DS"
      ]
     },
     {
+     "product": "Douwe Egberts en L'OR",
+     "size": "wo 9 sep t/m di 6 okt",
+     "deal": "10% korting",
+     "price": null,
+     "normalPrice": null,
+     "note": null
+    },
+    {
+     "product": "Nescafé Ijskoffie",
+     "size": "wo 9 sep t/m di 6 okt",
+     "deal": null,
+     "price": 17,
+     "normalPrice": null,
+     "note": "Alleen online",
+     "products": [
+      "nescafe-cappuccino-ijskoffie-250-ml-686987BLK",
+      "nescafe-cappuccino-ijskoffie-250-ml-686987DSL",
+      "nescafe-latte-caramel-ijskoffie-250-ml-686989BLK",
+      "nescafe-latte-caramel-ijskoffie-250-ml-686989DSL",
+      "nescafe-latte-ijskoffie-12-x-250-ml-686988DSL",
+      "nescafe-latte-ijskoffie-250-ml-686988BLK"
+     ]
+    },
+    {
+     "product": "Lipton",
+     "size": "wo 30 sep t/m di 6 okt",
+     "deal": "2 voor 4.99",
+     "price": null,
+     "normalPrice": null,
+     "note": null
+    },
+    {
+     "product": "Raak siropen",
+     "size": "wo 30 sep t/m di 6 okt",
+     "deal": "1+1 gratis",
+     "price": null,
+     "normalPrice": null,
+     "note": null
+    },
+    {
+     "product": "Coolbest fruitdrink, fruitinbitje of 4Fruit",
+     "size": "wo 30 sep t/m di 6 okt",
+     "deal": "1+1 gratis",
+     "price": null,
+     "normalPrice": null,
+     "note": null,
+     "products": [
+      "coolbest-fruitdrink-mango-1-l-609139PAK",
+      "coolbest-fruitdrink-orange-1l-609191PAK",
+      "coolbest-fruitdrink-passionfruit-1-l-609193PAK",
+      "coolbest-fruitdrink-pineapple-1-l-609195PAK"
+     ]
+    },
+    {
+     "product": "Caprisum",
+     "size": "wo 30 sep t/m di 6 okt",
+     "deal": null,
+     "price": 2.99,
+     "normalPrice": null,
+     "note": null
+    },
+    {
      "product": "Spa Fruit, Intense Finesse of Touch",
-     "size": null,
+     "size": "wo 9 sep t/m di 6 okt",
      "deal": "20% korting",
      "price": null,
      "normalPrice": null,
@@ -3688,11 +3628,11 @@
     },
     {
      "product": "Powerade Mountain Blast",
-     "size": null,
+     "size": "wo 9 sep t/m di 6 okt",
      "deal": null,
      "price": 12,
      "normalPrice": null,
-     "note": "Alleen online voor 12,00",
+     "note": "Alleen online",
      "products": [
       "powerade-mountain-blast-isotonic-sports-drink-12-x-500-ml-608187PKL",
       "powerade-mountain-blast-isotonic-sports-drink-500-ml-608187FLS",
@@ -3701,7 +3641,7 @@
     },
     {
      "product": "Hero Cassis",
-     "size": null,
+     "size": "wo 9 sep t/m di 6 okt",
      "deal": "10% korting",
      "price": null,
      "normalPrice": null,
@@ -3717,134 +3657,102 @@
     },
     {
      "product": "Lipton",
-     "size": null,
-     "deal": "35% korting",
+     "size": "wo 20 mei t/m di 27 okt",
+     "deal": "15% korting",
      "price": null,
      "normalPrice": null,
      "note": "Alleen online"
     },
     {
      "product": "Coca-Cola",
-     "size": null,
-     "deal": "1+1 gratis",
+     "size": "wo 7 jan t/m di 29 dec",
+     "deal": "5+1 gratis",
      "price": null,
      "normalPrice": null,
      "note": null
     },
     {
-     "product": "Los Gansos",
+     "product": "Coca-Cola",
+     "size": "wo 7 jan t/m di 29 dec",
+     "deal": "10+2 gratis",
+     "price": null,
+     "normalPrice": null,
+     "note": null
+    },
+    {
+     "product": "Leffe",
+     "size": "6 okt",
+     "deal": "25% korting",
+     "price": null,
+     "normalPrice": null,
+     "note": null,
+     "products": [
+      "leffe-belgisch-abdijbier-blond-00-flessen-6-x-30-cl-275061PAK",
+      "leffe-belgisch-abdijbier-blond-subtiel-vleugje-vanille-en-kruidnagel-blikken-4-x-50-cl-538457TRA",
+      "leffe-belgisch-abdijbier-bruin-blikken-6-x-33-cl-536544PAK",
+      "leffe-belgisch-abdijbier-zomerbier-fles-6-x-33-cl-734737DS",
+      "leffe-blond-0,0-alc-belgisch-abdijbier-blikken-6-x-33-cl-538300PAK",
+      "leffe-blond-belgisch-abdijbier-blik-4-x-6-x-330ml-535666TRL",
+      "leffe-blond-belgisch-abdijbier-blikken-6-x-33-cl-535666PAK",
+      "leffe-blond-belgisch-abdijbier-flessen-6-x-30-cl-707562PAK",
+      "leffe-blond-krat-24-x-250ml-418347KRT",
+      "leffe-bruin-alcoholvrij-bier-6-x-33-cl-434140PAK",
+      "leffe-bruin-belgisch-abdijbier-flessen-6-x-30-cl-706663PAK",
+      "leffe-ruby-belgisch-abdijbier-fles-330-ml-617607PAK",
+      "leffe-tripel-belgisch-abdijbier-blikken-4-x-33-cl-536305PAK",
+      "leffe-triple-belgisch-abdijbier-flessen-6-x-30-cl-707295PAK"
+     ]
+    },
+    {
+     "product": "Brugse Zot, Straffe Hendrik, LeFort, Omer, Ypra of...",
+     "size": "6 okt",
+     "deal": "25% korting",
+     "price": null,
+     "normalPrice": null,
+     "note": null,
+     "products": [
+      "brugse-zot-belgisch-blond-fles-4-x-330ml-548531DS",
+      "brugse-zot-dubbel-bier-fles-330ml-562388FLS",
+      "lefort-dubbel-4x330ml-749095PAK",
+      "lefort-tripel-fles-4-x-330ml-544417DS",
+      "omer-blond-fles-4-x-330ml-573883PAK",
+      "straffe-hendrik-brugs-quadrupel-bier-ii-fles-330ml-562371FLS",
+      "straffe-hendrik-brugs-tripel-9-fles-330ml-562389FLS"
+     ]
+    },
+    {
+     "product": "Mezzacorona Pinot Grigio, Jumbo Rueda Verdejo of...",
      "size": null,
      "deal": null,
-     "price": 4.99,
+     "price": 5.49,
      "normalPrice": null,
-     "note": "1 voor 4,99",
+     "note": null,
      "products": [
-      "los-gansos-cabernet-sauvignon-6-x-750-ml-zonder-doos-79128DSL",
-      "los-gansos-cabernet-sauvignon-750ml-79128FLS",
-      "los-gansos-chardonnay-6-x-750ml-79127DSL",
-      "los-gansos-chardonnay-750ml-79127FLS",
-      "los-gansos-merlot-6-x-750ml-zonder-doos-79125DSL",
-      "los-gansos-merlot-750ml-79125FLS",
-      "los-gansos-pinot-grigio-750ml-758081FLS",
-      "los-gansos-rose-750ml-500776FLS",
-      "los-gansos-sauvignon-blanc-6-x-750ml-zonder-doos-79126DSL",
-      "los-gansos-sauvignon-blanc-750ml-79126FLS"
+      "mezzacorona-chardonnay-pinot-grigio-750ml-717213FLS",
+      "mezzacorona-pinot-grigio-375ml-438259FLS",
+      "mezzacorona-pinot-grigio-375ml-484490FLS",
+      "mezzacorona-pinot-grigio-750ml-33033DSL",
+      "mezzacorona-pinot-grigio-750ml-33033FLS",
+      "mezzacorona-pinot-grigio-750ml-686074FLS",
+      "mezzacorona-pinot-grigio-pouch-1,5l-436739ZK",
+      "mezzacorona-pinot-grigio-rose-750ml-232654DSL",
+      "mezzacorona-pinot-grigio-rose-750ml-232654FLS",
+      "mezzacorona-pinot-grigio-rose-750ml-686072FLS",
+      "mezzacorona-pinot-grigio-rose-750ml-686073FLS"
      ]
     },
     {
-     "product": "Weihenstephaner, Benediktiner, Paulaner of...",
-     "size": null,
+     "product": "Specialbieren van Grolsch, Grolsch Radler of Grimbergen",
+     "size": "6 okt",
      "deal": "25% korting",
      "price": null,
      "normalPrice": null,
      "note": null,
      "products": [
-      "benediktiner-weissbier-naturtrub-500-ml-668785FLS",
-      "benediktiner-weissbier-naturtrub-blik-500ml-604728BLK",
-      "paulaner-hefe-weiss-bier-fles-50-cl-738776FLS",
-      "weihenstephaner-hefeweissbier-alcoholvrij-05-fles-500ml-422895FLS",
-      "weihenstephaner-hefeweissbier-fles-0,5-l-744724FLS"
-     ]
-    },
-    {
-     "product": "Specialbieren van Hertog Jan of Tripel Karmeliet",
-     "size": null,
-     "deal": "25% korting",
-     "price": null,
-     "normalPrice": null,
-     "note": null,
-     "products": [
-      "tripel-karmeliet-04-bier-fles-4-x-330ml-741451DS",
-      "tripel-karmeliet-belgisch-bier-blikken-4-x-33-cl-602731PAK",
-      "tripel-karmeliet-bier-fles-750-ml-507990FLS",
-      "tripel-karmeliet-bier-flessen-4-x-33-cl-693899TRA",
-      "tripel-karmeliet-speciaalbier-fles-12x25cl-722580DS"
-     ]
-    },
-    {
-     "product": "KWV",
-     "size": null,
-     "deal": null,
-     "price": 5.99,
-     "normalPrice": null,
-     "note": "1 voor 5,99",
-     "products": [
-      "kwv-cabernet-sauvignon-750-ml-578312FLS",
-      "kwv-cape-blend-pinotage-cabernet-sauvignon-750-ml-578315FLS",
-      "kwv-heritage-collection-chenin-blanc-750-ml-582101FLS",
-      "kwv-sauvignon-blanc-750-ml-578310FLS"
-     ]
-    },
-    {
-     "product": "Excellence",
-     "size": null,
-     "deal": null,
-     "price": 3.99,
-     "normalPrice": null,
-     "note": "voor 3,99",
-     "products": [
-      "excellence-cabernet-sauvignon-6-x-750-ml-zonder-doos-37278DSL",
-      "excellence-chardonnay-6-x-750ml-33119DSL",
-      "excellence-chardonnay-750ml-33119FLS",
-      "excellence-merlot-6-x-750-ml-zonder-doos-37277DSL",
-      "excellence-sauvignon-blanc-6-x-750ml-zonder-doos-33117DSL",
-      "excellence-sauvignon-blanc-750ml-33117FLS",
-      "excellence-syrah-pays-doc-igp-750ml-37276FLS",
-      "lindt-excellence-100-cacao-50g-559618DS",
-      "lindt-excellence-70-pure-chocoladereep-100g-22354TUB",
-      "lindt-excellence-78-cacao-noir-smooth-dark-100g-392998DS",
-      "lindt-excellence-85-pure-chocoladereep-100g-22364RP",
-      "lindt-excellence-90-cacao-100g-382756DS",
-      "lindt-excellence-caramelised-hazelnut-100g-615784TA",
-      "lindt-excellence-framboos-100g-559622DS",
-      "lindt-excellence-karamel-zeezout-pure-chocoladereep-100-gram-364126DS",
-      "lindt-excellence-melk-100g-392997DS",
-      "lindt-excellence-mild-dark-100-g-451581DS",
-      "lindt-excellence-mint-intense-noir-100g-392996DS",
-      "lindt-excellence-orange-intense-100-g-158840RP",
-      "nalys-excellence-toiletpapier-8-rollen-703857ZK"
-     ]
-    },
-    {
-     "product": "Terra Pura",
-     "size": null,
-     "deal": "25% korting",
-     "price": null,
-     "normalPrice": null,
-     "note": null,
-     "products": [
-      "terra-pura-seleccion-privada-cabernet-sauvignon-750ml-566475FLS",
-      "terra-pura-seleccion-privada-carmenere-750ml-566476FLS"
-     ]
-    },
-    {
-     "product": "Specialbieren van Grolsch of Grolsch Radler",
-     "size": null,
-     "deal": "25% korting",
-     "price": null,
-     "normalPrice": null,
-     "note": null,
-     "products": [
+      "grimbergen-abdijbier-van-hoge-gisting-blond-blikken-4-x-500ml-603602PAK",
+      "grimbergen-blond-fles-6-x-300ml-18021PAK",
+      "grimbergen-dubbel-fles-6-x-300ml-708194PAK",
+      "grimbergen-tripel-fles-6-x-300ml-549096PAK",
       "grolsch-citroen-radler-00-alcoholvrij-blik-4-x-6-x-330ml-536550TRL",
       "grolsch-citroen-radler-00-alcoholvrij-blik-6-x-330ml-536550PAK",
       "grolsch-citroen-radler-00-alcoholvrij-fles-6-x-300ml-168401PAK",
@@ -3855,42 +3763,112 @@
      ]
     },
     {
-     "product": "Heineken",
-     "size": null,
+     "product": "Pils van Hertog Jan, Jupiler, Bud of Corona",
+     "size": "6 okt",
      "deal": "25% korting",
      "price": null,
      "normalPrice": null,
      "note": null,
      "products": [
-      "heineken-0-12x330ml-745211PAK",
-      "heineken-00-24x330ml-734732TRA",
-      "heineken-premium-pilsener-00-bier-blik-6-x-330ml-539046PAK",
-      "heineken-premium-pilsener-00-bier-draaidop-fles-12-x-250ml-200606PAK",
-      "heineken-premium-pilsener-00-bier-draaidop-fles-6-x-250ml-181319PAK",
-      "heineken-premium-pilsener-00-bier-fles-krat-24-x-300ml-348745KRT",
-      "heineken-premium-pilsener-bier-blik-24-x-330ml-tray-539042DS",
-      "heineken-premium-pilsener-bier-blik-6-x-330ml-539049PAK",
-      "heineken-premium-pilsener-bier-blik-6-x-500ml-539048PAK",
-      "heineken-premium-pilsener-bier-blik-71-x-330ml-538513PAK",
-      "heineken-premium-pilsener-bier-blik-71-x-500ml-552717PAK",
-      "heineken-premium-pilsener-bier-draaidop-fles-12-x-250ml-59938PAK",
-      "heineken-premium-pilsener-bier-draaidop-fles-6-x-250ml-59937TRA",
-      "heineken-premium-pilsener-bier-fles-krat-24-x-300ml-87441KRT",
-      "heineken-premium-pilsener-bier-tapvat-5l-670181STK"
+      "bud-bier-flessen-6-x-30-cl-703209DS",
+      "bud-blik-6-x-33cl-536509PAK",
+      "corona-cero-00-alcoholvrij-fles-4-x-6-x-330ml-476043DSL",
+      "corona-cero-00-alcvol-bier-330-ml-669471DS",
+      "corona-cero-alcoholvrij-bier-flessen-6-x-33-cl-476043DS",
+      "corona-extra-bier-blikken-4-x-6-x-330ml-538459TRL",
+      "corona-extra-bier-blikken-6-x-33-cl-538459PAK",
+      "corona-extra-bier-flessen-12x250ml-753642DS",
+      "corona-extra-bier-pils-flessen-20x25cl-731445DS",
+      "corona-extra-fles-6-x-330ml-547157PAK",
+      "hertog-jan-pils-krat-24-x-300ml-865788KRT",
+      "jupiler-belgisch-pils-krat-24-x-250ml-817201KRT",
+      "jupiler-belgische-pils-bier-blikken-6-x-250ml-669470DS",
+      "jupiler-belgische-pils-bier-blikken-6-x-44-cl-634676DS"
+     ]
+    },
+    {
+     "product": "Francois Martenot Chardonnay, Jumbo Provenc...",
+     "size": "6 okt",
+     "deal": null,
+     "price": 5.99,
+     "normalPrice": null,
+     "note": null,
+     "products": [
+      "francois-martenot-bourgogne-chardonnay-750ml-687000FLS",
+      "francois-martenot-chardonnay-750ml-687042FLS",
+      "jumbo-cotes-de-provence-rose-750ml-609037FLS",
+      "jumbo-pain-provence-ca-105g-723628KGR"
+     ]
+    },
+    {
+     "product": "Terra Pura Cabernet Sauvignon Single Vineyard",
+     "size": "6 okt",
+     "deal": null,
+     "price": 6.49,
+     "normalPrice": null,
+     "note": null
+    },
+    {
+     "product": "Mount Fishtail Sauvignon Blanc",
+     "size": "6 okt",
+     "deal": null,
+     "price": 6.99,
+     "normalPrice": null,
+     "note": null,
+     "products": [
+      "mount-fishtail-sauvignon-blanc-750-ml-383979FLS",
+      "mount-fishtail-sauvignon-blanc-rose-750ml-604156FLS"
+     ]
+    },
+    {
+     "product": "Pils van Grolsch, Peroni, Bavaria of Veltins",
+     "size": "6 okt",
+     "deal": "25% korting",
+     "price": null,
+     "normalPrice": null,
+     "note": null,
+     "products": [
+      "bavaria-00-alc-vol-bier-blikken-6-x-330-ml-536536PAK",
+      "bavaria-00-alc-vol-fruity-rose-flavour-6-x-330-ml-683123DS",
+      "bavaria-00-alc-vol-lemon-lime-flavour-bier-blikken-6-x-330-ml-683122DS",
+      "bavaria-00-alc-vol-witbier-blikken-6-x-330-ml-536520PAK",
+      "bavaria-00-alcoholvrij-blik-voordeelpack-71-8-x-330ml-538301PAK",
+      "bavaria-00-ginger-lime-6x330ml-683106DS",
+      "bavaria-00-ipa-alcoholvrij-blik-330ml-538458PAK",
+      "bavaria-grapefruit-0,0-6x330ml-740886DS",
+      "bavaria-original-00-6x300ml-684807DS",
+      "bavaria-pils-glutenvrij-fles-3-x-330ml-226945PAK",
+      "bavaria-pils-krat-12-x-300ml-262255KRT",
+      "bavaria-pils-krat-24-x-300ml-262257KRT",
+      "bavaria-pils-tray-24-x-500ml-558726TRA",
+      "bavaria-pilsener-blik-12-x-330ml-538517PAK",
+      "bavaria-pilsener-blik-4-x-6-x-330ml-538303TRL",
+      "bavaria-pilsener-blik-6-x-330ml-538303PAK",
+      "bavaria-pilsener-blik-6-x-500ml-583696PAK",
+      "bavaria-strong-blond-blik-500ml-602545BLK",
+      "grolsch-pils-blik-4-x-6-x-330ml-536551TRL",
+      "grolsch-pils-fles-6-x-300ml-619837DS",
+      "grolsch-pils-krat-16-x-450ml-508102KRT",
+      "grolsch-pils-krat-24-x-300ml-147464KRT",
+      "peroni-nastro-azzurro-0,0-alcoholvrij-fles-6-x-330ml-604148DS",
+      "peroni-nastro-azzurro-6-x-330ml-731378DS",
+      "peroni-nastro-azzurro-fles-6-x-330ml-604147DS",
+      "veltins-pilsener-blik-0,5-l-539054BLK",
+      "veltins-v-curuba-0,5-l-539055BLK"
      ]
     },
     {
      "product": "El Bio",
-     "size": null,
-     "deal": "1,00 korting",
+     "size": "6 okt",
+     "deal": "1.00 korting",
      "price": null,
      "normalPrice": null,
-     "note": "Alleen in de winkel"
+     "note": "alleen in de winkel"
     },
     {
      "product": "L'essenza della tradizione Primitivo",
-     "size": null,
-     "deal": "1,00 korting",
+     "size": "6 okt",
+     "deal": "3.00 korting",
      "price": null,
      "normalPrice": null,
      "note": null,
@@ -3900,7 +3878,7 @@
     },
     {
      "product": "Alle Bokbieren",
-     "size": null,
+     "size": "27 okt",
      "deal": "25% korting",
      "price": null,
      "normalPrice": null,
@@ -3908,11 +3886,11 @@
     },
     {
      "product": "Heineken 0.0",
-     "size": null,
+     "size": "27 okt",
      "deal": null,
-     "price": 18.99,
+     "price": 11.99,
      "normalPrice": null,
-     "note": "Alleen online",
+     "note": "alleen online",
      "products": [
       "heineken-0-12x330ml-745211PAK",
       "heineken-00-24x330ml-734732TRA",
@@ -3924,11 +3902,11 @@
     },
     {
      "product": "Amstel",
-     "size": null,
+     "size": "27 okt",
      "deal": null,
-     "price": 18.99,
+     "price": 14.99,
      "normalPrice": null,
-     "note": "Alleen online",
+     "note": "alleen online",
      "products": [
       "amstel-bier-rose-00-flessen-6-x-300-ml-669466DS",
       "amstel-bier-rose-40-blikken-4-x-330-ml-668935DS",
@@ -3950,11 +3928,11 @@
     },
     {
      "product": "Heineken",
-     "size": null,
+     "size": "27 okt",
      "deal": null,
      "price": 19.99,
      "normalPrice": null,
-     "note": "Alleen online",
+     "note": "alleen online",
      "products": [
       "heineken-0-12x330ml-745211PAK",
       "heineken-00-24x330ml-734732TRA",
@@ -3975,11 +3953,11 @@
     },
     {
      "product": "Hertog Jan",
-     "size": null,
+     "size": "27 okt",
      "deal": null,
-     "price": 23.99,
+     "price": 29.99,
      "normalPrice": null,
-     "note": "Alleen online",
+     "note": "alleen online",
      "products": [
       "hertog-jan-00-alcoholvrij-bier-krat-24-x-300ml-669562KRT",
       "hertog-jan-alcoholvrij-bier-blik-6-x-33-cl-535669PAK",
@@ -4003,68 +3981,32 @@
     },
     {
      "product": "Tray Grolsch pils blik",
-     "size": null,
+     "size": "27 okt",
      "deal": null,
      "price": 17.99,
      "normalPrice": null,
-     "note": "Alleen online"
+     "note": "alleen online"
     },
     {
-     "product": "Ben & Jerry's",
+     "product": "Alle Crosta Mollica",
      "size": null,
-     "deal": "1+1 gratis",
-     "price": null,
+     "deal": null,
+     "price": 4.49,
      "normalPrice": null,
-     "note": null,
+     "note": "wo 30 sep t/m di 6 okt",
      "products": [
-      "ben-jerry-s-dulce-de-lish-100ml-675888CUP",
-      "ben-jerry-s-ijs-brookieees-cream-465-ml-675891CUP",
-      "ben-jerry-s-ijs-brookies-100-ml-675884CUP",
-      "ben-jerry-s-ijs-caramel-chew-chew-100ml-578738CUP",
-      "ben-jerry-s-ijs-caramel-chew-chew-465ml-352267CUP",
-      "ben-jerry-s-ijs-chocolate-fudge-brownie-100ml-578741STK",
-      "ben-jerry-s-ijs-chocolate-fudge-brownie-465ml-486573CUP",
-      "ben-jerry-s-ijs-chunky-monkey-465-ml-352268CUP",
-      "ben-jerry-s-ijs-churrifically-churros-y-465-ml-742292CUP",
-      "ben-jerry-s-ijs-cookie-dough-100-ml-578745STK",
-      "ben-jerry-s-ijs-cookie-dough-465-ml-486571CUP",
-      "ben-jerry-s-ijs-cookie-dough-s-wich-up-465-ml-352269CUP",
-      "ben-jerry-s-ijs-cookie-dough-sandwich-4x68-ml-742296DS",
-      "ben-jerry-s-ijs-dulce-de-lish-sundae-427-ml-554038CUP",
-      "ben-jerry-s-ijs-half-baked-465-ml-351769CUP",
-      "ben-jerry-s-ijs-koekjesdeeg-chocolate-chip-cookie-dough-chunks-170g-433117ZK",
-      "ben-jerry-s-ijs-mix-the-classic-cool-lection-4-x-100ml-400ml-144717CUP",
-      "ben-jerry-s-ijs-strawberry-cheesecake-100-ml-578743STK",
-      "ben-jerry-s-ijs-strawberry-cheesecake-465-ml-486572CUP",
-      "ben-jerry-s-ijs-topped-salted-caramel-brownie-438-ml-352254CUP",
-      "ben-jerry-s-peanut-butter-cup-100ml-675893CUP",
-      "ben-jerry-s-strawberry-doughnut-eee-393-g-742293CUP",
-      "tony-s-chocolonely-ben-jerry-s-chocolate-love-a-fair-donkere-melk-brownie-180-g-517361PAK"
+      "crosta-mollica-pizza-margherita-349-g-749010DS",
+      "crosta-mollica-pizza-stromboli-378-g-748998DS",
+      "crosta-mollica-pizzetta-margherita-twin-436g-770345DS"
      ]
     },
     {
-     "product": "Alle Wagner",
+     "product": "Alle Mora Originals, Classics of Crispy Chick'n",
      "size": null,
-     "deal": "1+1 gratis",
+     "deal": "2e halve prijs",
      "price": null,
      "normalPrice": null,
-     "note": null,
-     "products": [
-      "original-wagner-big-sensation-salami-bbq-450-g-670045DS",
-      "original-wagner-big-sensation-western-450-g-670044DS",
-      "original-wagner-piccolinis-pizza-tomate-mozzarella-3-x-3-stuks-270-g-200549DS",
-      "original-wagner-piccolinis-schinken-prosciutto-3-x-3-stuks-270-g-550811DS",
-      "original-wagner-piccolinis-speciale-3-x-3-stuks-270-g-669976DS",
-      "original-wagner-piccolinis-tre-formaggi-270-g-200548DS",
-      "wagner-aifryer-snack-mozzarella-1-stuk-733487DS",
-      "wagner-airfryer-snack-salami-1-stuk-733488DS",
-      "wagner-big-sensation-bbq-chicken-1-stuk-733493DS",
-      "wagner-big-sensation-kaas-1-stuk-733490DS",
-      "wagner-big-sensation-salami-1-stuk-733492DS",
-      "wagner-big-sensation-spicy-pepperoni-435g-770346DS",
-      "wagner-big-sensation-spinazie-kaas-1-stuk-733491DS",
-      "wagner-piccolinis-mini-pizza-salami-9-stuks-270-g-200547DS"
-     ]
+     "note": "wo 30 sep t/m di 6 okt"
     },
     {
      "product": "Alle Nivea",
@@ -4072,23 +4014,23 @@
      "deal": "1+1 gratis",
      "price": null,
      "normalPrice": null,
-     "note": null
+     "note": "wo 23 sep t/m di 6 okt"
     },
     {
-     "product": "Alle Parodontax, Sensodyne of Aquafresh",
+     "product": "Alle Parodontax of Sensodyne",
      "size": null,
      "deal": "1+1 gratis",
      "price": null,
      "normalPrice": null,
-     "note": null
+     "note": "wo 23 sep t/m di 6 okt"
     },
     {
-     "product": "Alle Andrélon",
+     "product": "Alle Andrâlon",
      "size": null,
      "deal": "1+1 gratis",
      "price": null,
      "normalPrice": null,
-     "note": null
+     "note": "wo 23 sep t/m di 6 okt"
     },
     {
      "product": "Alle Gillette, Listerine of GUM",
@@ -4096,7 +4038,7 @@
      "deal": "1+1 gratis",
      "price": null,
      "normalPrice": null,
-     "note": null
+     "note": "wo 23 sep t/m di 6 okt"
     },
     {
      "product": "Alle Taft of Gliss",
@@ -4104,7 +4046,7 @@
      "deal": "1+1 gratis",
      "price": null,
      "normalPrice": null,
-     "note": null,
+     "note": "wo 23 sep t/m di 6 okt",
      "products": [
       "gliss-anti-klitspray-liquid-silk-200-ml-746300FLS",
       "gliss-anti-klitspray-total-repair-200-ml-746276FLS",
@@ -4124,33 +4066,51 @@
      ]
     },
     {
-     "product": "Kleenex",
+     "product": "Always of Sanature",
      "size": null,
-     "deal": "1+1 gratis",
+     "deal": "2+1 gratis",
      "price": null,
      "normalPrice": null,
-     "note": null,
-     "products": [
-      "kleenex-allergy-comfort-tissues-3-laags-56-stuks-412309DS",
-      "kleenex-balsam-aloe-vera-vitamin-e-8-stuks-300879STK",
-      "kleenex-balsam-tissues-3-laags-64-stuks-473261BOX",
-      "kleenex-family-tissues-3-laags-maxi-pack-128-stuks-473262BOX",
-      "kleenex-mindfulness-collection-daydream-48-stuks-270680STK",
-      "kleenex-tissues-soft-white-everyday-70-stuks-531520DS",
-      "kleenex-ultra-soft-tissues-maxi-112-stuks-618502DS"
-     ]
+     "note": "wo 30 sep t/m di 6 okt"
     },
     {
-     "product": "Robijn Klein & Krachtig, wasmiddel/wasverzachter/capsules...",
+     "product": "Alle Pampers",
      "size": null,
-     "deal": "1+1 gratis",
+     "deal": null,
+     "price": 27.99,
+     "normalPrice": null,
+     "note": "wo 30 sep t/m di 6 okt"
+    },
+    {
+     "product": "Alle Dreft Wasmiddel",
+     "size": "wo 30 sep t/m dl 6 okt",
+     "deal": "1+2 gratis",
      "price": null,
      "normalPrice": null,
      "note": null
     },
     {
+     "product": "Alle Ambi-Pur toiletblokken",
+     "size": "wo 30 sep t/m dl 6 okt",
+     "deal": "1+2 gratis",
+     "price": null,
+     "normalPrice": null,
+     "note": null
+    },
+    {
+     "product": "Robijn Klein & Krachttig, wasmiddeldoekjes, capsules...",
+     "size": "wo 23 sep t/m dl 6 okt",
+     "deal": "1+1 gratis",
+     "price": null,
+     "normalPrice": null,
+     "note": null,
+     "products": [
+      "jumbo-wasmiddeldoekjes-20-stuks-628740DS"
+     ]
+    },
+    {
      "product": "Alle Finish",
-     "size": null,
+     "size": "wo 23 sep t/m dl 6 okt",
      "deal": "1+1 gratis",
      "price": null,
      "normalPrice": null,
@@ -4172,7 +4132,7 @@
     },
     {
      "product": "Alle Glorix toiletblokken of Glade",
-     "size": null,
+     "size": "wo 23 sep t/m dl 6 okt",
      "deal": "1+1 gratis",
      "price": null,
      "normalPrice": null,
@@ -4200,7 +4160,7 @@
     },
     {
      "product": "Alle Sun",
-     "size": null,
+     "size": "wo 23 sep t/m dl 6 okt",
      "deal": "1+1 gratis",
      "price": null,
      "normalPrice": null,
@@ -4244,8 +4204,16 @@
      ]
     },
     {
+     "product": "Ambi Pur luchtverfrisers",
+     "size": "wo 23 sep t/m dl 6 okt",
+     "deal": "1+1 gratis",
+     "price": null,
+     "normalPrice": null,
+     "note": null
+    },
+    {
      "product": "Alle Vanish",
-     "size": null,
+     "size": "wo 23 sep t/m dl 6 okt",
      "deal": "1+1 gratis",
      "price": null,
      "normalPrice": null,
@@ -4266,7 +4234,7 @@
      "deal": null,
      "price": 14.99,
      "normalPrice": null,
-     "note": null,
+     "note": "voor 14.99",
      "products": [
       "whiskas-1-kattenvoer-classic-selectie-in-saus-maaltijdzakjes-12x85g-540378PAK",
       "whiskas-1-natvoer-classic-selectie-in-saus-maaltijdzakjes-4-x-12-x-85-g-540378DSL",
@@ -4278,31 +4246,117 @@
      ]
     },
     {
-     "product": "Witte Reus toiletblokken",
-     "size": null,
-     "deal": "2+1 gratis",
+     "product": "Alle Poows supplementen en geneesmiddelen voor hond...",
+     "size": "wo 30 sep t/m dl 6 okt",
+     "deal": "30% korting",
+     "price": null,
+     "normalPrice": null,
+     "note": null
+    },
+    {
+     "product": "Gourmet Gold",
+     "size": "wo 30 sep t/m dl 6 okt",
+     "deal": "1+1 gratis",
+     "price": null,
+     "normalPrice": null,
+     "note": null,
+     "products": [
+      "gourmet-gold-cassolettes-kattenvoer-nat-met-rund-en-kip-24-x-85g-523584DSL",
+      "gourmet-gold-cassolettes-kattenvoer-nat-met-rund-en-kip-523584BLK",
+      "gourmet-gold-fijne-hapjes-kattenvoer-nat-met-rund-kalkoen-zalm-en-kip-185405DS",
+      "gourmet-gold-hartig-torentje-kattenvoer-nat-met-kip-en-wortelen-196080BLK",
+      "gourmet-gold-hartig-torentje-kattenvoer-nat-met-rund-496928BLK",
+      "gourmet-gold-hartig-torentje-kattenvoer-nat-met-tonijn-196079BLK",
+      "gourmet-gold-hartig-torentje-mix-kattenvoer-nat-198004DS",
+      "gourmet-gold-luxe-mix-kattenvoer-nat-154956DS",
+      "gourmet-gold-luxe-mix-kattenvoer-nat-met-zeevis-170022BLK",
+      "gourmet-gold-malse-lekkernijen-kattenvoer-nat-met-kip-542922BLK",
+      "gourmet-gold-malse-lekkernijen-kattenvoer-nat-met-kip-zalm-rund-en-zeevis-547896DS",
+      "gourmet-gold-malse-lekkernijen-kattenvoer-nat-met-zeevis-542923BLK",
+      "gourmet-gold-mousse-kattenvoer-nat-met-kalkoen-24-x-85g-916439DSL",
+      "gourmet-gold-mousse-kattenvoer-nat-met-kalkoen-916439BLK",
+      "gourmet-gold-mousse-kattenvoer-nat-met-kip-zalm-niertjes-en-konijn-185406DS",
+      "gourmet-gold-mousse-kattenvoer-nat-met-rund-24-x-85g-916242DSL",
+      "gourmet-gold-mousse-kattenvoer-nat-met-rund-916242BLK",
+      "gourmet-gold-mousse-kattenvoer-nat-met-tonijn-100803BLK",
+      "gourmet-gold-mousse-kattenvoer-nat-met-tonijn-24-x-85g-100803DSL",
+      "gourmet-gold-mousse-kattenvoer-nat-met-zalm-558230BLK",
+      "gourmet-gold-mousse-kattenvoer-natvoer-met-kip-85g-754193BLK",
+      "gourmet-gold-mousse-met-konijn-rund-kalf-en-lam-24-x-85g-570172DS",
+      "gourmet-gold-mousse-met-zalm-kattenvoer-nat-24-x-85-g-558230DSL",
+      "gourmet-gold-mousse-mix-kattenvoer-natvoer-met-kip-zalm-niertjes-en-konijn-264245PAK",
+      "gourmet-gold-selectie-kattenvoer-natvoer-met-tonijn-lever-kalkoen-en-rund-154991DS"
+     ]
+    },
+    {
+     "product": "Perfect fit kattenbrokken",
+     "size": "wo 30 sep t/m dl 6 okt",
+     "deal": "1+1 gratis",
+     "price": null,
+     "normalPrice": null,
+     "note": null,
+     "products": [
+      "perfect-fit-adult-indoor-kattenbrokken-kip-750g-419930ZK",
+      "perfect-fit-adult-kattenbrokken-kip-1,4kg-419904ZK",
+      "perfect-fit-adult-kattenbrokken-kip-7kg-709502STK",
+      "perfect-fit-adult-kattenbrokken-zalm-750g-419864ZK",
+      "perfect-fit-adult-sensitive-kattenbrokken-kalkoen-750g-719358ZK",
+      "perfect-fit-junior-kattenbrokken-kip-750g-419931ZK",
+      "perfect-fit-kat-adult-active-kattenbrokken-rund-1,4kg-419908ZK",
+      "perfect-fit-senior-kattenbrokken-kip-750g-419933ZK"
+     ]
+    },
+    {
+     "product": "Alle Lenor, Ariel Pods+ of Voebaar+, Dreft...",
+     "size": "wo 30 sep t/m dl 6 okt",
+     "deal": "2+3 gratis",
+     "price": null,
+     "normalPrice": null,
+     "note": null
+    },
+    {
+     "product": "Alle honden- of kattensnacks",
+     "size": "wo 30 sep t/m dl 6 okt",
+     "deal": "30% korting",
+     "price": null,
+     "normalPrice": null,
+     "note": null,
+     "products": [
+      "jumbo-hond-pate-gevogelte-kalf-300-g-457157CUP",
+      "jumbo-hond-pate-met-gevogelte-junior-150-g-457060CUP",
+      "jumbo-hond-pate-met-gevogelte-junior-703811STK",
+      "jumbo-hond-pate-met-kip-300-g-459657CUP",
+      "jumbo-hond-pate-met-kip-701681STK",
+      "jumbo-honden-kip-kauwsticks-5-stuks-153891PAK",
+      "jumbo-honden-snackstrips-eend-reepjes-90-g-218821STK"
+     ]
+    },
+    {
+     "product": "Alle Jumbo's dierenvoeding",
+     "size": "wo 30 sep t/m dl 6 okt",
+     "deal": "50% korting",
      "price": null,
      "normalPrice": null,
      "note": null
     },
     {
      "product": "Whiskas surf en turf",
-     "size": null,
+     "size": "wo 23 sep t/m dl 6 okt",
      "deal": null,
      "price": 14.99,
      "normalPrice": null,
-     "note": null,
+     "note": "voor 14.99",
      "products": [
       "van-de-streek-turf-n-surf-tripel-blik-330ml-643089BLK"
      ]
     },
     {
      "product": "Witte Reus of Color Reus",
-     "size": null,
+     "size": "wo 23 sep t/m dl 6 okt",
      "deal": null,
      "price": 11.99,
      "normalPrice": null,
-     "note": null,
+     "note": "voor 11.99",
      "products": [
       "color-reus-gel-855ml-19-wasbeurten-733796FLS",
       "color-reus-poeder-115kg-23-wasbeurten-733772DS",
@@ -4329,18 +4383,18 @@
     },
     {
      "product": "Jumbo Schoonmaakpakket",
-     "size": null,
+     "size": "wo 17 jun t/m dl 27 okt",
      "deal": null,
      "price": 9.99,
      "normalPrice": null,
-     "note": null,
+     "note": "OP=OP",
      "products": [
       "jumbo-schoonmaakpakket-779230DS"
      ]
     },
     {
      "product": "Neutral",
-     "size": null,
+     "size": "wo 17 jun t/m dl 27 okt",
      "deal": "30% korting",
      "price": null,
      "normalPrice": null,
@@ -4368,8 +4422,51 @@
      ]
     },
     {
-     "product": "HEMA Panty's",
+     "product": "Stickerjacht knuffel",
      "size": null,
+     "deal": "50% korting",
+     "price": null,
+     "normalPrice": null,
+     "note": null
+    },
+    {
+     "product": "Hartevelt Jonge Jenever",
+     "size": null,
+     "deal": null,
+     "price": 12.49,
+     "normalPrice": null,
+     "note": "Alleen in de slijterij"
+    },
+    {
+     "product": "Disaronno",
+     "size": null,
+     "deal": "4,00 korting",
+     "price": null,
+     "normalPrice": null,
+     "note": "Alleen in de slijterij"
+    },
+    {
+     "product": "Baileys, Johnnie Walker Whisky, Captain Morgan Rum",
+     "size": null,
+     "deal": "5,00 korting",
+     "price": null,
+     "normalPrice": null,
+     "note": null,
+     "products": [
+      "baileys-hazelnut-50-cl-550115FLS"
+     ]
+    },
+    {
+     "product": "Welke biermerken zijn bij jouw Jumbo in de aanbieding?",
+     "size": null,
+     "deal": "2e halve prijs",
+     "price": null,
+     "normalPrice": null,
+     "note": null
+    },
+    {
+     "product": "HEMA Panty's",
+     "size": "wo 23 sep t/m di 6 okt",
      "deal": "2+2 gratis",
      "price": null,
      "normalPrice": null,
@@ -4379,87 +4476,31 @@
      ]
     },
     {
-     "product": "Tefal Easy Fry & Grill Airfryer",
-     "size": null,
-     "deal": null,
-     "price": 59.99,
+     "product": "Hartevelt jonge Jenever",
+     "size": "wo 30 sep t/m di 6 okt",
+     "deal": "Alleen in de slijterij voor 12.49",
+     "price": 12.49,
      "normalPrice": null,
      "note": null
     },
     {
-     "product": "Hooghoudt",
-     "size": null,
-     "deal": "4,00 korting",
-     "price": null,
-     "normalPrice": null,
-     "note": "Alleen in de slijterij",
-     "products": [
-      "hooghoudt-limonade-siroop-valencia-0,7-l-181852FLS"
-     ]
-    },
-    {
-     "product": "Malibu likeur, Absolut Vodka of Havana Rum",
-     "size": null,
-     "deal": "4,00 korting",
-     "price": null,
-     "normalPrice": null,
-     "note": "Alleen in de slijterij",
-     "products": [
-      "absolut-vodka-sprite-250ml-612742BLK",
-      "absolut-vodka-sprite-pineapple-250ml-705479BLK",
-      "absolut-vodka-sprite-watermelon-250-ml-679246BLK"
-     ]
-    },
-    {
-     "product": "Glen talio Vodka of",
-     "size": null,
-     "deal": "4,00 korting",
-     "price": null,
-     "normalPrice": null,
-     "note": null
-    },
-    {
-     "product": "Broccoli",
-     "size": null,
-     "deal": "Alleen in de winkel voor 1.09",
-     "price": 1.09,
-     "normalPrice": null,
-     "note": null,
-     "products": [
-      "jumbo-broccoli-500-g-479521STK",
-      "jumbo-broccoli-roosjes-450-g-666059ZK",
-      "jumbo-broccoli-roosjes-750-g-772786ZK",
-      "maggi-broccoli-kaas-54-g-390229ZK"
-     ]
-    },
-    {
-     "product": "Malibu likeur, Absolut Vodka of Havana Rum",
-     "size": null,
-     "deal": "4.00 korting",
-     "price": null,
-     "normalPrice": null,
-     "note": "Alleen in de slijterij",
-     "products": [
-      "absolut-vodka-sprite-250ml-612742BLK",
-      "absolut-vodka-sprite-pineapple-250ml-705479BLK",
-      "absolut-vodka-sprite-watermelon-250-ml-679246BLK"
-     ]
-    },
-    {
-     "product": "Glen Talloch Whisky, Esbjærg Vodka of Old Captain Rum",
-     "size": null,
+     "product": "Disaronno",
+     "size": "wo 30 sep t/m di 6 okt",
      "deal": "4.00 korting",
      "price": null,
      "normalPrice": null,
      "note": "Alleen in de slijterij"
     },
     {
-     "product": "Welke biermerken zijn bij jouw Jumbo in de aanbieding?",
-     "size": null,
-     "deal": "2e halve prijs",
+     "product": "Baileys, Johnnie Walker Whisky, Captain Morgan Rum",
+     "size": "wo 30 sep t/m di 6 okt",
+     "deal": "5.00 korting",
      "price": null,
      "normalPrice": null,
-     "note": null
+     "note": "Alleen in de slijterij",
+     "products": [
+      "baileys-hazelnut-50-cl-550115FLS"
+     ]
     }
    ]
   },
