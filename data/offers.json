@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-10-03T10:00:14.248Z",
+ "generated": "2026-10-04T10:43:00.024Z",
  "shops": {
   "hoogvliet": {
    "name": "Hoogvliet",
@@ -2105,7 +2105,7 @@
       "hero-jam-blauwe-bessen-zero-300g-672538POT",
       "jumbo-biologisch-blauwe-bessen-200-g-670325DS",
       "jumbo-biologisch-blauwe-bessen-250-g-209939DS",
-      "jumbo-blauwe-bessen-125-g-622579DS",
+      "jumbo-blauwe-bessen-125-g-783245DS",
       "jumbo-blauwe-bessen-300-g-774264DS",
       "jumbo-blauwe-bessen-500-g-330479BAK",
       "jumbo-fijnproevers-blauwe-bessen-200-g-510306BAK",
@@ -2129,7 +2129,10 @@
      "deal": null,
      "price": 1.79,
      "normalPrice": null,
-     "note": "Alleen in de winkel"
+     "note": "Alleen in de winkel",
+     "products": [
+      "jumbo-verse-vijgen-4-stuks-578090PAK"
+     ]
     },
     {
      "product": "Spruiten",
@@ -2205,49 +2208,7 @@
      "deal": null,
      "price": 1.99,
      "normalPrice": null,
-     "note": null,
-     "products": [
-      "jumbo-biologisch-blokjes-rode-biet-200-g-644245ZK",
-      "jumbo-biologisch-geraspte-rode-biet-400-g-639169ZK",
-      "jumbo-biologisch-gesneden-rode-kool-300-g-583716ZK",
-      "jumbo-biologisch-rode-kool-met-appel-340-g-201276POT",
-      "jumbo-biologische-rode-kool-1-stuk-294610STK",
-      "jumbo-biologische-rode-uien-500-g-772446NET",
-      "jumbo-boemboe-rode-curry-95-g-194890STK",
-      "jumbo-gedroogde-rode-kidneybonen-500-g-711088ZK",
-      "jumbo-gedroogde-rode-linzen-500-g-711097ZK",
-      "jumbo-gesneden-rode-uien-150-g-506769ZK",
-      "jumbo-pizzabrood-paprika-rode-ui-300g-608478STK",
-      "jumbo-pureersoep-rode-paprika-460-g-635605DS",
-      "jumbo-rode-bieten-met-ui-340-g-220925POT",
-      "jumbo-rode-bieten-met-ui-680-g-220926POT",
-      "jumbo-rode-bieten-plakken-680-g-220924POT",
-      "jumbo-rode-bieten-salade-200-g-618426DS",
-      "jumbo-rode-curry-salade-200-g-685469CUP",
-      "jumbo-rode-curry-verspakket-4-personen-478197ZK",
-      "jumbo-rode-grapefruit-3-stuks-618269STK",
-      "jumbo-rode-grapefruitsap-1-l-141230PAK",
-      "jumbo-rode-kool-350-g-220927POT",
-      "jumbo-rode-kool-690g-220928POT",
-      "jumbo-rode-kool-appel-450-g-684965DS",
-      "jumbo-rode-kool-hachee-500-g-516734BAK",
-      "jumbo-rode-kool-met-appel-190-g-220929POT",
-      "jumbo-rode-kool-met-appel-340-g-220930POT",
-      "jumbo-rode-kool-met-appel-680-g-732326POT",
-      "jumbo-rode-paprika-biologisch-159564STK",
-      "jumbo-rode-pepers-mild-2-stuks-184214SC",
-      "jumbo-rode-uien-500-g-213005NET",
-      "jumbo-rode-uien-extra-groot-1-kg-213015NET",
-      "jumbo-rode-uien-extra-groot-3-stuks-770751NET",
-      "jumbo-rode-wijnazijn-250-ml-418598FLS",
-      "jumbo-s-geitenkaasspread-met-rode-biet-125-g-718641CUP",
-      "jumbo-s-maleisische-stijl-rode-curry-soep-570ml-679778ZK",
-      "jumbo-s-rode-vruchten-fruitspread-335-g-646559POT",
-      "jumbo-s-thaise-rode-curry-122-g-749176DS",
-      "jumbo-vastkokende-rode-aardappel-3kg-383119ZK",
-      "jumbo-verspakket-rode-curry-4-personen-779131STK",
-      "jumbo-zoetzuur-rode-uienringen-340-g-429205POT"
-     ]
+     "note": null
     },
     {
      "product": "Alle Pink Lady's",
@@ -2283,6 +2244,11 @@
       "jumbo-frietjes-zoete-aardappel-400-g-329563ZK",
       "jumbo-knijpfruit-appel-perzik-zoete-aardappel-4-x-90-g-706501ZK",
       "jumbo-mexicaanse-groentemix-met-zoete-aardappel-en-tomaat-400-g-743590ZK",
+      "jumbo-mix-pompoen-zoete-aardappel-400-g-703750ZK",
+      "jumbo-s-brokjes-in-saus-met-lam-en-zoete-aardappel-adult-415-g-789124BLK",
+      "jumbo-s-kattenvoer-senior-rijk-aan-verse-kip-en-zoete-aardappel-800-g-771231ZK",
+      "jumbo-s-pate-kip-zoete-aardappel-adult-395-g-789123BLK",
+      "jumbo-verse-soep-zoete-aardappel-pompoen-500-g-781283BAK",
       "no-fairytales-zoete-aardappel-tortilla-5-stuks-200-g-763053ZK",
       "olvarit-15-maanden-stoofpot-met-zoete-aardappel-en-linzen-633884ZK",
       "xxl-nutrition-protein-soup-zoete-aardappel-pompoen-570g-769814ZK"
@@ -2318,16 +2284,12 @@
      "normalPrice": null,
      "note": null,
      "products": [
-      "jumbo-maaltijdsalade-falafel-450-g-686011BAK",
       "jumbo-maaltijdsalade-garnalen-400-g-685984BAK",
-      "jumbo-maaltijdsalade-gegrilde-kip-450-g-765556BAK",
+      "jumbo-maaltijdsalade-gegrilde-kip-450-g-685985BAK",
       "jumbo-maaltijdsalade-geitenkaas-450-g-686012BAK",
       "jumbo-maaltijdsalade-gerookte-kip-450-g-685982BAK",
       "jumbo-maaltijdsalade-gerookte-zalm-450-g-686010BAK",
-      "jumbo-maaltijdsalade-kip-caesar-450-g-765558BAK",
-      "jumbo-maaltijdsalade-kip-citroen-thaise-stijl-400-g-744072ZK",
-      "jumbo-maaltijdsalade-kip-ketjap-450-g-685983BAK",
-      "jumbo-maaltijdsalade-kip-koreaanse-stijl-400-g-744093BAK",
+      "jumbo-maaltijdsalade-kip-caesar-450-g-685977BAK",
       "jumbo-maaltijdsalade-kip-truffelsmaak-400-g-744074BAK",
       "jumbo-maaltijdsalade-kipgyros-griekse-stijl-400-g-686013DS",
       "jumbo-maaltijdsalade-tonijn-450-g-685976BAK"
@@ -2344,14 +2306,16 @@
       "jumbo-s-verse-maaltijd-pasta-kip-pesto-450-g-521316TRA",
       "jumbo-s-verse-pasta-girasoli-geitenkaas-gekarameliseerde-ui-250-g-736469BAK",
       "jumbo-s-verse-pasta-girasoli-ricotta-citroen-250-g-303286BAK",
-      "jumbo-s-verse-pasta-hartjes-parmigiano-reggiano-met-truffelsmaak-250-g-736500BAK",
+      "jumbo-s-verse-pasta-grandi-girasoli-stoofvlees-gekarameliseerde-ui-250-g-736468BAK",
+      "jumbo-s-verse-pasta-hartjesravioli-tomaat-burrata-250-g-777811TRA",
       "jumbo-s-verse-pasta-mezzelune-met-prosciutto-di-parma-parmigiano-reggiano-250-g-529021TRA",
       "jumbo-s-verse-pasta-mezzelune-paddenstoelen-kaas-met-truffelsmaak-250-g-736467ZK",
       "jumbo-s-verse-pasta-mezzelune-pompoen-kaas-250-g-208675BAK",
+      "jumbo-s-verse-pasta-ravioli-gorgonzola-walnoten-250-g-777789TRA",
       "jumbo-s-verse-pasta-ravioli-paddenstoelen-250-g-208681ZK",
       "jumbo-s-verse-pasta-ravioli-ricotta-spinazie-glutenvrij-250-g-586890TRA",
       "jumbo-s-verse-pasta-ricotta-spinazie-ravioli-250-g-208687ZK",
-      "jumbo-s-verse-pasta-tortellini-droge-ham-250-g-208674ZK",
+      "jumbo-s-verse-pasta-tortellini-prosciutto-di-parma-250-g-782303TRA",
       "jumbo-s-verse-pasta-tortelloni-ricotta-spinazie-500-g-612231ZK",
       "jumbo-s-verse-pasta-tortelloni-tomaat-mozzarella-basilicum-250-g-362534ZK",
       "jumbo-s-verse-pasta-triangoli-champignon-truffel-250-g-208688BAK"
@@ -2397,16 +2361,17 @@
      "normalPrice": null,
      "note": null,
      "products": [
+      "jumbo-s-verse-soep-bospaddenstoel-truffelsmaak-500-g-723700EM",
       "jumbo-s-verse-soep-indiase-stijl-linzen-500-g-730199BKR",
       "jumbo-s-verse-soep-oosterse-stijl-pompoen-500-g-729880BKR",
-      "jumbo-s-verse-soep-paprika-gochujang-koreaanse-stijl-500-g-744316EM",
       "jumbo-s-verse-soep-tom-kha-kai-500-g-729882EM",
       "jumbo-s-verse-soep-tomaat-basilicum-500-g-729881BKR",
       "jumbo-verse-soep-champignon-creme-500-g-729336BKR",
       "jumbo-verse-soep-chinese-tomaat-met-kip-500-g-729334BAK",
       "jumbo-verse-soep-kip-aziatische-stijl-500-g-729335BKR",
       "jumbo-verse-soep-tomaat-balletjes-500-g-729333BKR",
-      "jumbo-verse-soep-tomaat-creme-met-pastaschelpjes-balletjes-1-kg-729337BKR"
+      "jumbo-verse-soep-tomaat-creme-500-g-781271BAK",
+      "jumbo-verse-soep-zoete-aardappel-pompoen-500-g-781283BAK"
      ]
     },
     {
@@ -2461,7 +2426,7 @@
       "jumbo-gemengd-gehakt-2-x-500g-649263TRA",
       "jumbo-gemengd-gehakt-300-g-173435BAK",
       "jumbo-gemengd-gehakt-500-g-87858BAK",
-      "jumbo-gemengd-gehakt-gekruid-1kg-180844BAK",
+      "jumbo-gemengd-gehakt-gekruid-2-x-500-g-788284TRA",
       "jumbo-gemengd-gehakt-gekruid-500-g-87861BAK",
       "jumbo-kip-gehakt-300-g-515019BAK",
       "jumbo-kip-kalkoen-gehakt-300-g-747320BAK",
@@ -2494,7 +2459,7 @@
       "beckers-hamburgers-4-stuks-670483DS",
       "jumbo-hamburger-broodjes-4-stuks-705337ZK",
       "jumbo-hamburgers-12-stuks-772784DS",
-      "jumbo-hamburgers-4-stuks-208893DS",
+      "jumbo-hamburgers-4-stuks-772787DS",
       "mora-hamburger-4-x-90-g-523359DS",
       "schar-hamburger-glutenvrij-300-g-215548STK"
      ]
@@ -2509,11 +2474,13 @@
      "products": [
       "jumbo-amandel-speculaas-400-g-42592PAK",
       "jumbo-bakkers-speculaas-600-g-546729ZK",
-      "jumbo-gevuld-speculaas-480-g-778634TRA",
       "jumbo-lekker-vrij-van-gluten-speculaas-125-g-504866TRA",
+      "jumbo-mix-voor-speculaas-400-g-618785DS",
       "jumbo-speculaas-brokken-375g-184135PAK",
       "jumbo-speculaas-brokken-met-amandelen-450-g-628389PAK",
-      "jumbo-speculaas-reepjes-gevuld-met-amandelspijs-270-g-201672DS"
+      "jumbo-speculaas-mix-roomboter-200-g-789545PAK",
+      "jumbo-speculaas-molens-met-melkchocolade-375-g-764233PAK",
+      "jumbo-speculaas-reepjes-roomboter-270-g-201672DS"
      ]
     },
     {
@@ -2524,6 +2491,7 @@
      "normalPrice": null,
      "note": null,
      "products": [
+      "jumbo-s-hondenvoer-rijk-aan-kip-voor-kleine-honden-1,5-kg-781314ZK",
       "lotus-gebak-mini-madeleine-7-x-17-g-200827STK"
      ]
     },
@@ -2561,7 +2529,6 @@
       "becel-original-500-ml-358699FLS",
       "becel-original-voordeelfles-750-ml-364871FLS",
       "becel-proactiv-light-500-g-199907KP",
-      "becel-proactiv-original-500-g-199906KP",
       "becel-proactiv-original-zuivel-yoghurt-drank-8-x-75-g-454146PAK",
       "becel-romig-225-g-576351KP",
       "becel-romig-450-g-739751CUP",
@@ -2835,7 +2802,6 @@
       "jumbo-lekker-vrij-van-gluten-meerzaden-brood-705332ZK",
       "jumbo-libanees-brood-naturel-300-g-598367ZK",
       "jumbo-mix-voor-bananen-brood-450-g-177378DS",
-      "jumbo-rond-wit-brood-300140STK",
       "jumbo-sandwich-brood-naturel-250-g-443891PAK",
       "jumbo-tosti-brood-wit-half-705248ZK",
       "jumbo-turks-brood-500-g-453486ZK",
@@ -2926,7 +2892,8 @@
      "normalPrice": null,
      "note": null,
      "products": [
-      "jumbo-loaded-cookie-chocolate-chip-300g-719092STK"
+      "jumbo-xxl-loaded-cookie-chocolate-chip-300g-719092STK",
+      "jumbo-xxl-loaded-cookie-pecan-caramel-776434STK"
      ]
     },
     {
@@ -2937,28 +2904,28 @@
      "normalPrice": null,
      "note": null,
      "products": [
-      "bounty-ijs-repen-chocolade-kokos-5-stuks-747954DS",
+      "bounty-chocolade-repen-5-x-57g-91786PAK",
       "bounty-melk-chocolade-kokos-reep-snack-single-57-g-91880STK",
-      "bounty-melkchocolade-met-kokosvulling-557g-multipack-91786PAK",
-      "bounty-minis-chocolade-kokos-repen-uitdeelzak-333g-745688ZK",
+      "bounty-minis-uitdeelzak-333g-745688ZK",
       "danone-twix-mix-yoghurt-120-g-578770DS",
+      "mars-chocolade-repen-5-x-45-g-153501PAK",
       "mars-ijs-repen-chocolade-caramel-5-stuks-742442DS",
-      "mars-melkchocolade-karamel-en-vulling-545g-multipack-153501PAK",
       "mars-minimix-chocolade-repen-uitdeelzak-2x-500g-703122STK",
       "mars-minimix-chocolade-repen-uitdeelzak-500g-154530ZK",
       "mars-minis-chocolade-caramel-repen-uitdeelzak-333g-508959ZK",
-      "mars-protein-chocolade-caramel-reep-50g-636149PAK",
+      "mars-protein-chocolade-karamel-reep-50g-636149PAK",
       "mars-snickers-ijs-706233STK",
+      "mars-the-big-box-uitdeelverpakking-19kg-782614DS",
       "mars-twix-ijs-706232STK",
       "snickers-chocolade-pinda-caramel-reep-50g-91817STK",
+      "snickers-chocolade-repen-5-x-50g-153500PAK",
       "snickers-gold-ijsrepen-caramel-5-stuks-742443DS",
       "snickers-ijs-repen-chocolade-pinda-caramel-5-stuks-742446DS",
-      "snickers-melkchocolade-karamel-en-pinda-s-550g-multipack-153500PAK",
       "snickers-minis-chocolade-pinda-caramel-repen-uitdeelzak-333g-509021ZK",
-      "snickers-protein-chocolade-pinda-caramel-reep-47g-636148PAK",
+      "snickers-protein-chocolade-pinda-karamel-reep-47g-636148PAK",
       "snickers-white-ijsrepen-witte-chocolade-5-stuks-742444DS",
-      "twix-chocolade-caramel-koek-repen-5x2-pack-72840PAK",
-      "twix-hazelnut-melkchocolade-met-karamel-5-pack-745683PAK",
+      "twix-chocolade-repen-5-x-50g-72840PAK",
+      "twix-hazelnoot-melkchocolade-met-karamel-5-stuks-745683PAK",
       "twix-ijsrepen-chocolade-karamel-biscuit-5-stuks-742445DS",
       "twix-minis-chocolade-karamel-koek-repen-uitdeelzak-333g-509023ZK",
       "twix-witte-chocolade-caramel-koek-repen-5x2-pack-742888DS"
@@ -2972,7 +2939,8 @@
      "normalPrice": null,
      "note": null,
      "products": [
-      "jumbo-mini-stroopwafels-met-roomboter-300-g-623793ZK"
+      "jumbo-mini-stroopwafels-met-roomboter-300-g-623793ZK",
+      "jumbo-stroopwafels-met-roomboter-468-g-186036ZK"
      ]
     },
     {
@@ -2986,7 +2954,6 @@
       "ritter-sport-marsepein-100-g-392009PAK",
       "ritter-sport-melk-hele-hazelnoot-100-g-193155STK",
       "ritter-sport-mini-chocolate-mix-9-x-16,67-g-451466DS",
-      "ritter-sport-mini-nut-selection-7-x-16,67-g-451264PAK",
       "ritter-sport-pistache-nut-selection-100-g-738161PAK",
       "ritter-sport-puur-hele-hazelnoot-100-g-193153STK",
       "ritter-sport-roasted-peanut-crunchy-met-geroosterde-en-gezouten-pinda-s-100-g-738162PAK",
@@ -3086,6 +3053,7 @@
       "douwe-egberts-aroma-rood-filterkoffie-500-g-220752PAK",
       "douwe-egberts-aroma-rood-grove-maling-filterkoffie-250-g-193115PAK",
       "douwe-egberts-aroma-rood-grove-maling-filterkoffie-500-g-112609PAK",
+      "douwe-egberts-aroma-rood-koffie-snelfiltermaling-450g-785780ZK",
       "douwe-egberts-aroma-rood-koffiebonen-500-g-51016PAK",
       "douwe-egberts-aroma-rood-koffiepads-familiepak-54-stuks-375-g-192504ZK",
       "douwe-egberts-aroma-rood-oploskoffie-200-g-865222POT",
@@ -3142,10 +3110,10 @@
      "normalPrice": null,
      "note": "Alleen online",
      "products": [
+      "nescafe-cappuccino-ijskoffie-12-x-250-ml-686987DSL",
       "nescafe-cappuccino-ijskoffie-250-ml-686987BLK",
-      "nescafe-cappuccino-ijskoffie-250-ml-686987DSL",
+      "nescafe-latte-caramel-ijskoffie-12-x-250-ml-686989DSL",
       "nescafe-latte-caramel-ijskoffie-250-ml-686989BLK",
-      "nescafe-latte-caramel-ijskoffie-250-ml-686989DSL",
       "nescafe-latte-ijskoffie-12-x-250-ml-686988DSL",
       "nescafe-latte-ijskoffie-250-ml-686988BLK"
      ]
@@ -3196,7 +3164,6 @@
      "normalPrice": null,
      "note": "Alleen online",
      "products": [
-      "spa-fruit-bruisende-fruitige-frisdrank-cassis-blackberry-1,25-l-479120FLS",
       "spa-fruit-bruisende-fruitige-frisdrank-citron-1,25l-609213FLS",
       "spa-fruit-bruisende-fruitige-frisdrank-citron-6-x-400ml-612129PKL",
       "spa-fruit-bruisende-fruitige-frisdrank-lemon-cactus-1,25-l-479107FLS",
@@ -3293,7 +3260,6 @@
       "leffe-belgisch-abdijbier-blond-00-flessen-6-x-30-cl-275061PAK",
       "leffe-belgisch-abdijbier-blond-subtiel-vleugje-vanille-en-kruidnagel-blikken-4-x-50-cl-538457TRA",
       "leffe-belgisch-abdijbier-bruin-blikken-6-x-33-cl-536544PAK",
-      "leffe-belgisch-abdijbier-zomerbier-fles-6-x-33-cl-734737DS",
       "leffe-blond-0,0-alc-belgisch-abdijbier-blikken-6-x-33-cl-538300PAK",
       "leffe-blond-belgisch-abdijbier-blik-4-x-6-x-330ml-535666TRL",
       "leffe-blond-belgisch-abdijbier-blikken-6-x-33-cl-535666PAK",
@@ -3303,7 +3269,8 @@
       "leffe-bruin-belgisch-abdijbier-flessen-6-x-30-cl-706663PAK",
       "leffe-ruby-belgisch-abdijbier-fles-330-ml-617607PAK",
       "leffe-tripel-belgisch-abdijbier-blikken-4-x-33-cl-536305PAK",
-      "leffe-triple-belgisch-abdijbier-flessen-6-x-30-cl-707295PAK"
+      "leffe-triple-belgisch-abdijbier-flessen-6-x-30-cl-707295PAK",
+      "leffe-winterbier-flessen-6-x-33-cl-702957DS"
      ]
     },
     {
@@ -3352,7 +3319,6 @@
      "normalPrice": null,
      "note": null,
      "products": [
-      "grimbergen-abdijbier-van-hoge-gisting-blond-blikken-4-x-500ml-603602PAK",
       "grimbergen-blond-fles-6-x-300ml-18021PAK",
       "grimbergen-dubbel-fles-6-x-300ml-708194PAK",
       "grimbergen-tripel-fles-6-x-300ml-549096PAK",
@@ -3432,13 +3398,13 @@
      "note": null,
      "products": [
       "bavaria-00-alc-vol-bier-blikken-6-x-330-ml-536536PAK",
-      "bavaria-00-alc-vol-fruity-rose-flavour-6-x-330-ml-683123DS",
-      "bavaria-00-alc-vol-lemon-lime-flavour-bier-blikken-6-x-330-ml-683122DS",
       "bavaria-00-alc-vol-witbier-blikken-6-x-330-ml-536520PAK",
       "bavaria-00-alcoholvrij-blik-voordeelpack-71-8-x-330ml-538301PAK",
-      "bavaria-00-ginger-lime-6x330ml-683106DS",
+      "bavaria-00-fruity-ginger-lime-6x330ml-683106DS",
+      "bavaria-00-fruity-grapefruit-6x330ml-740886DS",
+      "bavaria-00-fruity-lemon-lime-6x330ml-683122DS",
+      "bavaria-00-fruity-rose-6x330ml-683123DS",
       "bavaria-00-ipa-alcoholvrij-blik-330ml-538458PAK",
-      "bavaria-grapefruit-0,0-6x330ml-740886DS",
       "bavaria-original-00-6x300ml-684807DS",
       "bavaria-pils-glutenvrij-fles-3-x-330ml-226945PAK",
       "bavaria-pils-krat-12-x-300ml-262255KRT",
@@ -3565,10 +3531,10 @@
       "hertog-jan-00-alcoholvrij-bier-krat-24-x-300ml-669562KRT",
       "hertog-jan-alcoholvrij-bier-blik-6-x-33-cl-535669PAK",
       "hertog-jan-alcoholvrij-bier-fles-6-x-30-cl-361024PAK",
+      "hertog-jan-bockbier-speciaalbier-fles-6-x-30-cl-478016PAK",
       "hertog-jan-fust-perfect-draft-6l-546684VAT",
       "hertog-jan-grand-prestige-speciaalbier-6-x-30-cl-431033DS",
       "hertog-jan-karakter-speciaalbier-6-x-30-cl-431130DS",
-      "hertog-jan-lentebok-speciaalbier-fles-6-x-30-cl-683744TRA",
       "hertog-jan-natuurzuiver-bier-blikken-7-1-voordeelpack-8-x-33-cl-535782PAK",
       "hertog-jan-pils-krat-24-x-300ml-865788KRT",
       "hertog-jan-pilsener-bier-blik-6-x-33-cl-566576TRA",
@@ -3598,9 +3564,9 @@
      "normalPrice": null,
      "note": "wo 30 sep t/m di 6 okt",
      "products": [
+      "crosta-mollica-pizza-margherita-2-stuks-770345DS",
       "crosta-mollica-pizza-margherita-349-g-749010DS",
-      "crosta-mollica-pizza-stromboli-378-g-748998DS",
-      "crosta-mollica-pizzetta-margherita-twin-436g-770345DS"
+      "crosta-mollica-pizza-stromboli-378-g-748998DS"
      ]
     },
     {
@@ -3625,7 +3591,49 @@
      "deal": "1+1 gratis",
      "price": null,
      "normalPrice": null,
-     "note": "wo 23 sep t/m di 6 okt"
+     "note": "wo 23 sep t/m di 6 okt",
+     "products": [
+      "parodontax-active-repair-tandvlees-freshmint-75-ml-705064DS",
+      "parodontax-active-repair-whitening-tandpasta-75-ml-705070DS",
+      "parodontax-complete-protection-extra-fresh-tandpasta-75-ml-705072DS",
+      "parodontax-complete-protection-whitening-tandpasta-75-ml-705069DS",
+      "parodontax-daily-care-mondwater-extra-fresh-voor-gezond-tandvlees-500-ml-300769STK",
+      "parodontax-extra-fresh-tandpasta-75-ml-705068DS",
+      "parodontax-fluoride-tandpasta-75-ml-705063DS",
+      "parodontax-fluoridevrij-tandpasta-75-ml-705066DS",
+      "parodontax-original-daily-care-tandpasta-duo-pack-2-x-75-ml-717504DS",
+      "parodontax-strengthen-protect-tandvlees-whitening-tandpasta-75-ml-779923DS",
+      "parodontax-tandpasta-strengthen-protect-fresh-mint-75-ml-768378TUB",
+      "parodontax-ultra-clean-tandpasta-75-ml-705071DS",
+      "parodontax-whitening-daily-care-tandpasta-duo-pack-2-x-75-ml-717505DS",
+      "parodontax-whitening-tandpasta-75-ml-705065DS",
+      "sensodyne-complete-protection-75-ml-705073DS",
+      "sensodyne-complete-protection-whitening-75-ml-705074DS",
+      "sensodyne-deep-clean-extra-zachte-tandenborstel-voor-gevoelige-tanden-186786STK",
+      "sensodyne-deep-clean-gel-75-ml-tube-616718TUB",
+      "sensodyne-extra-fresh-gel-75-ml-tube-616713TUB",
+      "sensodyne-fresh-cool-mondwater-voor-gevoelige-tanden-500ml-292508STK",
+      "sensodyne-fresh-mint-75-ml-tube-616707TUB",
+      "sensodyne-gentle-whitening-75-ml-tube-668335TUB",
+      "sensodyne-gentle-whitening-tandpasta-duo-pack-2-x-75-ml-676378TUB",
+      "sensodyne-gevoeligheid-tandvlees-75-ml-711772DS",
+      "sensodyne-gevoeligheid-tandvlees-extra-fresh-75-ml-711774DS",
+      "sensodyne-gevoeligheid-tandvlees-tandenborstel-voor-gevoelige-tanden-1-stuk-524053BLS",
+      "sensodyne-multi-care-75-ml-tube-616712TUB",
+      "sensodyne-multicare-tandpasta-voor-gevoelige-tanden-2x75ml-616716TUB",
+      "sensodyne-proglasur-daily-protection-dagelijkse-tandpasta-75ml-647450DS",
+      "sensodyne-proglasur-gentle-whitening-tandpasta-75-ml-646984DS",
+      "sensodyne-proglasur-junior-milde-muntsmaak-tandpasta-6-12-jaar-50-ml-769040DS",
+      "sensodyne-proglasur-kids-aardbeiensmaak-tandpasta-0-6-jaar-50-ml-769019DS",
+      "sensodyne-proglasur-multi-action-tandpasta-75-ml-646986DS",
+      "sensodyne-rapid-relief-mint-tandpasta-75-ml-705075DS",
+      "sensodyne-rapid-relief-whitening-75-ml-705076DS",
+      "sensodyne-repair-protect-cool-mint-tandpasta-75-ml-727219DS",
+      "sensodyne-repair-protect-extra-fresh-tandpasta-75-ml-727280DS",
+      "sensodyne-repair-protect-whitening-tandpasta-75-ml-727116DS",
+      "sensodyne-sensitivity-gum-zachte-tandenborstel-503478BLS",
+      "sensodyne-tandvlees-bescherming-75-ml-tube-616714TUB"
+     ]
     },
     {
      "product": "Alle Andrâlon",
@@ -3773,18 +3781,6 @@
       "capri-sun-multivitamin-200-ml-pouch-10-pack-200563PAK",
       "capri-sun-multivitamin-zero-10x200ml-625099DS",
       "capri-sun-orange-10-x-200-ml-200564PAK",
-      "labello-sun-protect-spf30-1-stuk-743297DS",
-      "nivea-sun-babies-kids-sensitive-protect-spf-50-zeer-hoog-250-ml-742859FLS",
-      "nivea-sun-babies-kids-sensitive-zonnebrand-spray-spf-50-200-ml-153808FLS",
-      "nivea-sun-kids-protect-play-50-zeer-hoog-sun-spray-200-ml-197587STK",
-      "nivea-sun-kids-to-go-protect-hydrate-50-50-ml-480532TUB",
-      "nivea-sun-protect-dry-touch-spf30-200ml-343094FLS",
-      "nivea-sun-protect-hydrate-spf30-200ml-686962FLS",
-      "nivea-sun-protect-hydrate-spf50-spray-200-ml-759129FLS",
-      "nivea-sun-protect-hydrate-to-go-vitamin-c-hyaluron-spf-30-hoog-50-ml-480531TUB",
-      "nivea-sun-protect-hydrate-zonnebrand-spf-30-200-ml-183007STK",
-      "nivea-sun-protect-hydrate-zonnebrand-spf-50-200-ml-183006STK",
-      "nivea-sun-uv-face-senstive-spf50-40-742858POT",
       "sun-all-in-1-vaatwastabletten-citroen-19-tabletten-621510DS",
       "sun-all-in-1-vaatwastabletten-citroen-19-tabletten-x-7-stuks-621510DSL",
       "sun-all-in-1-vaatwastabletten-citroen-60-tabletten-621513DS",
@@ -3840,6 +3836,7 @@
      "note": "voor 14.99",
      "products": [
       "whiskas-1-kattenvoer-classic-selectie-in-saus-maaltijdzakjes-12x85g-540378PAK",
+      "whiskas-1-kattenvoer-classic-selectie-in-saus-maaltijdzakjes-40x85g-781360STK",
       "whiskas-1-natvoer-classic-selectie-in-saus-maaltijdzakjes-4-x-12-x-85-g-540378DSL",
       "whiskas-1-natvoer-classic-selectie-in-saus-maaltijdzakjes-80-x-85-g-712705DS",
       "whiskas-7-natvoer-classic-selectie-in-saus-maaltijdzakjes-4-x-12-x-85-g-542981DSL",
@@ -3899,6 +3896,8 @@
      "normalPrice": null,
      "note": null,
      "products": [
+      "perfect-fit-adult-active-kattenbrokken-rund-750g-781322ZK",
+      "perfect-fit-adult-indoor-kattenbrokken-kip-1,4kg-782087ZK",
       "perfect-fit-adult-indoor-kattenbrokken-kip-750g-419930ZK",
       "perfect-fit-adult-kattenbrokken-kip-1,4kg-419904ZK",
       "perfect-fit-adult-kattenbrokken-kip-7kg-709502STK",
@@ -3925,13 +3924,14 @@
      "normalPrice": null,
      "note": null,
      "products": [
-      "jumbo-hond-pate-gevogelte-kalf-300-g-457157CUP",
-      "jumbo-hond-pate-met-gevogelte-junior-150-g-457060CUP",
-      "jumbo-hond-pate-met-gevogelte-junior-703811STK",
-      "jumbo-hond-pate-met-kip-300-g-459657CUP",
-      "jumbo-hond-pate-met-kip-701681STK",
+      "jumbo-honden-kauwsticks-rund-5-stuks-153896PAK",
       "jumbo-honden-kip-kauwsticks-5-stuks-153891PAK",
-      "jumbo-honden-snackstrips-eend-reepjes-90-g-218821STK"
+      "jumbo-honden-snackstrips-eend-reepjes-90-g-218821STK",
+      "poows-honden-training-bites-kalkoen-80g-780474ZK",
+      "poows-honden-training-bites-kip-80-g-780472ZK",
+      "poows-honden-training-pops-zalm-200-g-780475ZK",
+      "poows-honden-verwen-cookies-kip-80-g-780796ZK",
+      "poows-honden-verwen-cookies-rund-80-g-780795ZK"
      ]
     },
     {
@@ -3950,7 +3950,8 @@
      "normalPrice": null,
      "note": "voor 14.99",
      "products": [
-      "van-de-streek-turf-n-surf-tripel-blik-330ml-643089BLK"
+      "van-de-streek-turf-n-surf-tripel-blik-330ml-643089BLK",
+      "whiskas-kattenvoer-surf-en-turf-maaltijdzakjes-40x85g-782451STK"
      ]
     },
     {
@@ -3961,6 +3962,7 @@
      "normalPrice": null,
      "note": "voor 11.99",
      "products": [
+      "color-reus-gel-45-liter-100wb-782371FLS",
       "color-reus-gel-855ml-19-wasbeurten-733796FLS",
       "color-reus-poeder-115kg-23-wasbeurten-733772DS",
       "witte-reus-de-luxe-delicate-magnolia-50g-759291DS",
