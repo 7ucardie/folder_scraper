@@ -1,0 +1,916 @@
+{
+ "name": "Albert Heijn",
+ "ok": true,
+ "source": "https://folder.ah.nl/bonus-week-41-2026/",
+ "scraped": "2026-10-05",
+ "validFrom": "2026-10-05",
+ "validUntil": "2026-10-11",
+ "validUntilGuessed": false,
+ "pages": 41,
+ "offers": [
+  {
+   "product": "Alle Verstegen",
+   "size": null,
+   "deal": "1+1 gratis",
+   "price": null,
+   "normalPrice": 1.39,
+   "note": "De actieprijzen variëren van 1.39-9.59"
+  },
+  {
+   "product": "Alle Campina yogurt literpakken en kwark 500 gram",
+   "size": null,
+   "deal": "1+1 gratis",
+   "price": null,
+   "normalPrice": null,
+   "note": "De actieprijzen verschillen van 1.69-2.29"
+  },
+  {
+   "product": "Cadeaukaart",
+   "size": null,
+   "deal": null,
+   "price": 15,
+   "normalPrice": null,
+   "note": "Postcode Loterij, voor deelnemers"
+  },
+  {
+   "product": "AH Verspakket curry madras + 2x Bonduelle kikkererwten 310 gram + Fairtrade Original kokosmilk 200 ml",
+   "size": null,
+   "deal": "43% korting",
+   "price": 7.5,
+   "normalPrice": 12.96,
+   "note": "Complete maaltijd voor 2-3 personen. Totaal 4 producten"
+  },
+  {
+   "product": "AH Verspakket tagliatelle met champignonroomsaus + AH Biologisch tagliatelle volkoren + 2x AH Paddenstoelenmix 200 gram ",
+   "size": null,
+   "deal": "49% korting",
+   "price": 7.5,
+   "normalPrice": 14.68,
+   "note": "Complete maaltijd voor 4 personen. Totaal 5 producten"
+  },
+  {
+   "product": "Cadeaukaart Schuif lekker aan",
+   "size": null,
+   "deal": null,
+   "price": 15,
+   "normalPrice": null,
+   "note": "Postcode Loterij"
+  },
+  {
+   "product": "AH Roerbakgroenten",
+   "size": "400 gram",
+   "deal": "1+1 gratis",
+   "price": null,
+   "normalPrice": null,
+   "note": "De actieprijzen variëren van 2.29-3.49"
+  },
+  {
+   "product": "AH Vastkokende aardappel zak",
+   "size": "3 kilo",
+   "deal": "1+1 gratis",
+   "price": null,
+   "normalPrice": 3.85,
+   "note": null
+  },
+  {
+   "product": "Alle Conimex",
+   "size": null,
+   "deal": "2e halve prijs",
+   "price": null,
+   "normalPrice": null,
+   "note": "De actieprijzen variëren van 1.48-7.03"
+  },
+  {
+   "product": "Alle AH Naanbrood of flatbread",
+   "size": null,
+   "deal": "30% korting",
+   "price": null,
+   "normalPrice": null,
+   "note": "De actieprijzen variëren van 1.18-1.74"
+  },
+  {
+   "product": "AH Witte druiven pitloos",
+   "size": "500 gram",
+   "deal": "32% korting",
+   "price": 3.49,
+   "normalPrice": 5.18,
+   "note": "2 bakken"
+  },
+  {
+   "product": "AH Witte druiven pitloos",
+   "size": "500 gram",
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": 2.59,
+   "note": "1 bak"
+  },
+  {
+   "product": "AH Galia meloen of mini watermeloen",
+   "size": null,
+   "deal": "25% korting",
+   "price": null,
+   "normalPrice": null,
+   "note": "De actieprijzen variëren van 2.09-2.99"
+  },
+  {
+   "product": "AH Mango Los",
+   "size": null,
+   "deal": null,
+   "price": 2.99,
+   "normalPrice": 3.98,
+   "note": "2 stuks"
+  },
+  {
+   "product": "AH Blauwe bessen",
+   "size": "300 gram",
+   "deal": null,
+   "price": 3.99,
+   "normalPrice": null,
+   "note": "per bak"
+  },
+  {
+   "product": "AH Frambozen",
+   "size": "225 gram",
+   "deal": null,
+   "price": 3.49,
+   "normalPrice": null,
+   "note": "per bak"
+  },
+  {
+   "product": "AH Biologisch komkommer Los",
+   "size": null,
+   "deal": null,
+   "price": 1.29,
+   "normalPrice": null,
+   "note": "per stuk"
+  },
+  {
+   "product": "AH Biologisch winterpeen",
+   "size": "750 gram",
+   "deal": null,
+   "price": 1.19,
+   "normalPrice": null,
+   "note": "per zak"
+  },
+  {
+   "product": "AH Biologisch oranje pompoen Los",
+   "size": "per 500 gram",
+   "deal": "25% korting",
+   "price": null,
+   "normalPrice": 1.34,
+   "note": null
+  },
+  {
+   "product": "AH Elstar appels",
+   "size": "1.5 kilo",
+   "deal": "40% korting",
+   "price": 1.79,
+   "normalPrice": 2.99,
+   "note": null
+  },
+  {
+   "product": "AH Conference peren",
+   "size": null,
+   "deal": "30% korting",
+   "price": 1.39,
+   "normalPrice": 1.99,
+   "note": null
+  },
+  {
+   "product": "AH Courgette",
+   "size": null,
+   "deal": null,
+   "price": 1.19,
+   "normalPrice": null,
+   "note": "2 stuks"
+  },
+  {
+   "product": "AH Hand-sinaasappelen",
+   "size": "2 kilo",
+   "deal": null,
+   "price": 2.69,
+   "normalPrice": null,
+   "note": "per net"
+  },
+  {
+   "product": "AH Kastanje-champignons",
+   "size": "400 gram",
+   "deal": null,
+   "price": 2.19,
+   "normalPrice": null,
+   "note": "per stuk"
+  },
+  {
+   "product": "AH Broccoli",
+   "size": null,
+   "deal": null,
+   "price": 0.99,
+   "normalPrice": null,
+   "note": "per 500 gram"
+  },
+  {
+   "product": "AH Andijvie fijngessneden grootverpakking",
+   "size": "500 gram",
+   "deal": "50% korting",
+   "price": 1.44,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Alle AH Bapao",
+   "size": null,
+   "deal": "1+1 gratis",
+   "price": null,
+   "normalPrice": 1.09,
+   "note": null
+  },
+  {
+   "product": "AH Verse ananas",
+   "size": "400 gram",
+   "deal": "2 stuks",
+   "price": 4.99,
+   "normalPrice": 7.5,
+   "note": null
+  },
+  {
+   "product": "Alle AH Gekoelde aardappelen",
+   "size": "600 gram",
+   "deal": "2e halve prijs",
+   "price": 2,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Alle AH Uit eigen keuken stamppotten",
+   "size": "500 gram",
+   "deal": "€1 korting",
+   "price": null,
+   "normalPrice": 4.59,
+   "note": null
+  },
+  {
+   "product": "Alle Hak potten en pakken",
+   "size": "330-720 gram",
+   "deal": "1+1 gratis",
+   "price": null,
+   "normalPrice": 1.09,
+   "note": null
+  },
+  {
+   "product": "AH Rundergehakt [gekruid]",
+   "size": "300 gram",
+   "deal": null,
+   "price": 2.99,
+   "normalPrice": 4.25,
+   "note": null
+  },
+  {
+   "product": "AH Terra plantaardig gehakt",
+   "size": "250 gram",
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": 2.99,
+   "note": null
+  },
+  {
+   "product": "Alle De Vegetarische Slager maaltijdcomponenten",
+   "size": null,
+   "deal": "2 stuks",
+   "price": 5.99,
+   "normalPrice": 7.24,
+   "note": "Miv.grootverpakkingen"
+  },
+  {
+   "product": "AH Zalmfilet zonder huid van de vers-afdeling",
+   "size": null,
+   "deal": "25% korting",
+   "price": null,
+   "normalPrice": null,
+   "note": "De actiejprijzen variëren van 20.24-29.95"
+  },
+  {
+   "product": "AH Scharrel-kippietbokjes",
+   "size": "300 gram",
+   "deal": "€1 korting",
+   "price": null,
+   "normalPrice": 4.49,
+   "note": "De actiejprijzen variëren van"
+  },
+  {
+   "product": "Alle AH Spreepjes",
+   "size": null,
+   "deal": null,
+   "price": 2.99,
+   "normalPrice": 3.49,
+   "note": null
+  },
+  {
+   "product": "AH Shoarma",
+   "size": "500 gram",
+   "deal": "€1 korting",
+   "price": null,
+   "normalPrice": null,
+   "note": "De actiejprijzen variëren van 3.95-5.49"
+  },
+  {
+   "product": "AH Bakkersbrood tijgerbrood volkoren heel",
+   "size": null,
+   "deal": null,
+   "price": 1.49,
+   "normalPrice": 1.99,
+   "note": null
+  },
+  {
+   "product": "Alle AH Koeken van de bakkerij",
+   "size": null,
+   "deal": "25% korting",
+   "price": null,
+   "normalPrice": null,
+   "note": "De actiejprijzen variëren van 0.37-3.43"
+  },
+  {
+   "product": "AH Pistolets wit en volkoren",
+   "size": "4 stuks",
+   "deal": null,
+   "price": 0.99,
+   "normalPrice": 1.16,
+   "note": "Vers uit onze oven"
+  },
+  {
+   "product": "Alle AH Bakkersbrood OerDesem heel",
+   "size": "per stuk",
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": 2.59,
+   "note": "Vers uit onze oven"
+  },
+  {
+   "product": "Alle Johma 175 gram",
+   "size": "2 stuks",
+   "deal": null,
+   "price": 3.99,
+   "normalPrice": 8.3,
+   "note": "Tot wel 51% korting"
+  },
+  {
+   "product": "AH Yorkham of gegrilde yorkham van de versafdelding",
+   "size": null,
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": 3.17,
+   "note": "per 100 gram, per kilo 19.90"
+  },
+  {
+   "product": "Alle AH Zaanlander in plakken van de versafdelding",
+   "size": null,
+   "deal": "2e halve prijs",
+   "price": 2,
+   "normalPrice": null,
+   "note": "De actieprijs per kilo variëren van 27.43-42.18"
+  },
+  {
+   "product": "Alle Blue Band of Croma",
+   "size": null,
+   "deal": "25% korting",
+   "price": null,
+   "normalPrice": null,
+   "note": "De actieprijs variëren van 0.89-3.59"
+  },
+  {
+   "product": "Alle AH Goudse kaas 30+ in stukken van de versafdelding",
+   "size": null,
+   "deal": "1+1 gratis",
+   "price": null,
+   "normalPrice": null,
+   "note": "De actieprijs per kilo variëren van 15.39-17.79"
+  },
+  {
+   "product": "De Zaanse Hoeve jong 48+ plakken",
+   "size": "Pak 190 gram",
+   "deal": null,
+   "price": 2.19,
+   "normalPrice": null,
+   "note": "Altijd laag!"
+  },
+  {
+   "product": "AH Gele uien",
+   "size": "1 kilo",
+   "deal": null,
+   "price": 0.95,
+   "normalPrice": null,
+   "note": "Prijsfavoriet"
+  },
+  {
+   "product": "Alle Bolletje crackers en knäckebröd",
+   "size": null,
+   "deal": "1+1 gratis",
+   "price": null,
+   "normalPrice": null,
+   "note": "De actieprijzen variëren van 1.69-2.99"
+  },
+  {
+   "product": "Alpro Mild & Creamy",
+   "size": "2 stuks",
+   "deal": null,
+   "price": 3.99,
+   "normalPrice": 7.98,
+   "note": null
+  },
+  {
+   "product": "Alle Mona",
+   "size": null,
+   "deal": "50% korting",
+   "price": null,
+   "normalPrice": null,
+   "note": "De actieprijen variëren van 0.99-1.34"
+  },
+  {
+   "product": "Activia",
+   "size": "×4",
+   "deal": "1+1 gratis",
+   "price": null,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Alle Pickwick thee",
+   "size": null,
+   "deal": "25% korting",
+   "price": null,
+   "normalPrice": null,
+   "note": "*m.u.v. valuepacks. De actieprijen variëren van 1.04-5.24"
+  },
+  {
+   "product": "Alle DubbelFrisss en Van de Boom 1.5 liter",
+   "size": "1.5 liter",
+   "deal": "1+1 gratis",
+   "price": null,
+   "normalPrice": null,
+   "note": "*m.u.v. DubbelFrisss Boost. De actieprijen variëren van 1.99-2.89"
+  },
+  {
+   "product": "Alle Dr. Oetker Big Americans Diepvries",
+   "size": "2 stuks",
+   "deal": null,
+   "price": 5.99,
+   "normalPrice": null,
+   "note": "Tot wel 51% korting"
+  },
+  {
+   "product": "Alle Milka chocolate",
+   "size": null,
+   "deal": "2e halve prijs",
+   "price": 2.32,
+   "normalPrice": 7.48,
+   "note": null
+  },
+  {
+   "product": "Alle Unox soep in zak",
+   "size": null,
+   "deal": null,
+   "price": 5.99,
+   "normalPrice": null,
+   "note": "2 stuks"
+  },
+  {
+   "product": "Alle Unox Knaks",
+   "size": null,
+   "deal": "2e halve prijs",
+   "price": 2,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Alle Lindt*",
+   "size": null,
+   "deal": "25% korting",
+   "price": null,
+   "normalPrice": null,
+   "note": "*m.u.v. seuzens-assortiment"
+  },
+  {
+   "product": "Alle Kwekkeboom Diepvries",
+   "size": null,
+   "deal": null,
+   "price": 5.99,
+   "normalPrice": null,
+   "note": "2 stuks"
+  },
+  {
+   "product": "Alle Magnum ijs",
+   "size": null,
+   "deal": "25% korting",
+   "price": null,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Alle Perla",
+   "size": null,
+   "deal": "2+1 gratis",
+   "price": null,
+   "normalPrice": null,
+   "note": "M.u.v. Superiore capsules 10 stuks. De actieprijzen variëren van 4.98-35.98"
+  },
+  {
+   "product": "Alle Spa water en Touch Itterflessen",
+   "size": null,
+   "deal": "2e halve prijs",
+   "price": null,
+   "normalPrice": 1.63,
+   "note": null
+  },
+  {
+   "product": "Alle Fanta en Sprite",
+   "size": "1.5 literflesssen",
+   "deal": null,
+   "price": 4.49,
+   "normalPrice": 5.48,
+   "note": "2 stuks"
+  },
+  {
+   "product": "Alle Coca-Cola",
+   "size": "1.5 literflesssen",
+   "deal": null,
+   "price": 7.99,
+   "normalPrice": 9.98,
+   "note": "4 stuks"
+  },
+  {
+   "product": "Alle Simplie siropen",
+   "size": null,
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": 3.49,
+   "note": "per stuk"
+  },
+  {
+   "product": "Alle Sourcy Vitaminwater",
+   "size": "500 ml",
+   "deal": null,
+   "price": 0.99,
+   "normalPrice": 1.69,
+   "note": "per stuk"
+  },
+  {
+   "product": "Alle Heineken, Grolsch, Brand of Stella Artois multipacks of kratten",
+   "size": null,
+   "deal": "25% korting",
+   "price": null,
+   "normalPrice": null,
+   "note": "*M.u.v. gekoeId. De actijsprijzen variëren van 3.37-19.94"
+  },
+  {
+   "product": "Alle Affligem of Texels multipacks",
+   "size": null,
+   "deal": "25% korting",
+   "price": null,
+   "normalPrice": null,
+   "note": "*M.u.v. gekoeId. De actijsprijzen variëren van 5.54-10.49"
+  },
+  {
+   "product": "Alle AH Excellent Selectie wijnen",
+   "size": null,
+   "deal": "25% korting",
+   "price": null,
+   "normalPrice": null,
+   "note": "De actieprijzen variëren van 2.99-19.49"
+  },
+  {
+   "product": "AH Arabica plant in Perla-pot",
+   "size": null,
+   "deal": null,
+   "price": 6.99,
+   "normalPrice": 9,
+   "note": "Limited edition"
+  },
+  {
+   "product": "AH Trosanjers",
+   "size": "2 bossen",
+   "deal": null,
+   "price": 6,
+   "normalPrice": 7,
+   "note": null
+  },
+  {
+   "product": "Alle Klene 90-270 gram",
+   "size": "90-270 gram",
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": 2.28,
+   "note": null
+  },
+  {
+   "product": "Alle Haribo 160-260 gram",
+   "size": "160-260 gram",
+   "deal": null,
+   "price": 1.69,
+   "normalPrice": 1.99,
+   "note": null
+  },
+  {
+   "product": "Alle Lay's en Doritos party- en valuepacks",
+   "size": null,
+   "deal": "2 stuks",
+   "price": 4.49,
+   "normalPrice": 5.48,
+   "note": null
+  },
+  {
+   "product": "Alle Pringles 165 gram",
+   "size": "165 gram",
+   "deal": null,
+   "price": 1.69,
+   "normalPrice": 2.59,
+   "note": null
+  },
+  {
+   "product": "Alle Welmoed 0.75 liter Zuid-Afrika",
+   "size": "0.75 liter",
+   "deal": "korting",
+   "price": 1.5,
+   "normalPrice": null,
+   "note": "De actieprijs variëren van 4.49-6.49"
+  },
+  {
+   "product": "Alle Camden Park of Winemaker's Lot Australië/Chili",
+   "size": null,
+   "deal": null,
+   "price": 3.99,
+   "normalPrice": 4.99,
+   "note": "per fles"
+  },
+  {
+   "product": "Alle Robijn",
+   "size": null,
+   "deal": "2+3 gratis",
+   "price": null,
+   "normalPrice": null,
+   "note": "De actieprijzen variëren van 8.38-60.98"
+  },
+  {
+   "product": "Alle Witte Reus toiletblokken",
+   "size": null,
+   "deal": "2+4 gratis",
+   "price": null,
+   "normalPrice": null,
+   "note": "prijzen variëren van 7.98-22.58"
+  },
+  {
+   "product": "AH Extra zacht & sterk toiletpapier 4 laags 12+18 rollen",
+   "size": "12+18 rollen",
+   "deal": null,
+   "price": 13.99,
+   "normalPrice": 15.99,
+   "note": "2 pakken"
+  },
+  {
+   "product": "Alle Oral-B elektrisch poetsen",
+   "size": null,
+   "deal": "55% korting",
+   "price": null,
+   "normalPrice": null,
+   "note": "prijzen variëren van 10.79-85.49"
+  },
+  {
+   "product": "Alle A-merk allershuinigers en schoonmaaksprays",
+   "size": null,
+   "deal": "2+1 gratis",
+   "price": null,
+   "normalPrice": null,
+   "note": "De actieprijzen variëren van 2.50-49.97"
+  },
+  {
+   "product": "Alle Lenor",
+   "size": "3 stuks",
+   "deal": "64% korting",
+   "price": 14.99,
+   "normalPrice": null,
+   "note": "19,95 - 4,97"
+  },
+  {
+   "product": "Alle Omo wasmiddelen",
+   "size": "per stuk",
+   "deal": "72% korting",
+   "price": 8.99,
+   "normalPrice": 33.29,
+   "note": null
+  },
+  {
+   "product": "Alle Sun vaatwas-capsules en Finish",
+   "size": null,
+   "deal": "2+3 gratis",
+   "price": null,
+   "normalPrice": null,
+   "note": "De actieprijzen variëren van 8.58-59.90"
+  },
+  {
+   "product": "Alle Edet keukenpapier 6-8 rollen",
+   "size": null,
+   "deal": "1+1 gratis",
+   "price": null,
+   "normalPrice": null,
+   "note": "De actieprijzen variëren van 10.99-11.89"
+  },
+  {
+   "product": "Alle Dreft Platinum Miracle",
+   "size": null,
+   "deal": "60% korting",
+   "price": null,
+   "normalPrice": null,
+   "note": "De actieprijzen variëren van 8.00-17.20"
+  },
+  {
+   "product": "Alle Nivea",
+   "size": null,
+   "deal": "2+3 gratis",
+   "price": null,
+   "normalPrice": null,
+   "note": "De actieprijzen variëren van 4.98-52.98"
+  },
+  {
+   "product": "Alle Head & Shoulders",
+   "size": null,
+   "deal": "1+1 gratis",
+   "price": null,
+   "normalPrice": 6.99,
+   "note": "De actieprijen variëren van 6.99-15.49"
+  },
+  {
+   "product": "Alle Gillette",
+   "size": null,
+   "deal": "50% korting",
+   "price": null,
+   "normalPrice": 1.77,
+   "note": "M.u.v. wegwerpscheermesjes. De actieprijen variëren van 1.77-32.49"
+  },
+  {
+   "product": "Alle Tena en Libresse",
+   "size": null,
+   "deal": "2+2 gratis",
+   "price": null,
+   "normalPrice": 5.5,
+   "note": "De actieprijen variëren van 5.50-39.98"
+  },
+  {
+   "product": "Alle Sensodyne",
+   "size": null,
+   "deal": "1+1 gratis",
+   "price": null,
+   "normalPrice": 4.29,
+   "note": "De actieprijen variëren van 4.29-11.49"
+  },
+  {
+   "product": "Alle Palmolive en Unicura handzeep",
+   "size": null,
+   "deal": "2+3 gratis",
+   "price": null,
+   "normalPrice": 3.98,
+   "note": "De actieprijen variëren van 3.98-10.58"
+  },
+  {
+   "product": "Alle Odorex, Sanicur en Melkmeisje",
+   "size": null,
+   "deal": "2+3 gratis",
+   "price": null,
+   "normalPrice": 8.78,
+   "note": "De actieprijen variëren van 8.78-9.98"
+  },
+  {
+   "product": "Alle Pampers luiers en luierbroekjes",
+   "size": "3 stuks",
+   "deal": null,
+   "price": 27.99,
+   "normalPrice": null,
+   "note": "41⁷-47⁷"
+  },
+  {
+   "product": "Alle o.b.",
+   "size": "3 stuks",
+   "deal": "62% korting",
+   "price": 6.99,
+   "normalPrice": null,
+   "note": "7⁷-18⁷"
+  },
+  {
+   "product": "Alle Fa",
+   "size": "per stuk",
+   "deal": "66% korting",
+   "price": 1.49,
+   "normalPrice": null,
+   "note": "4⁸-4⁸"
+  },
+  {
+   "product": "Alle Always",
+   "size": null,
+   "deal": "2+1 gratis",
+   "price": null,
+   "normalPrice": null,
+   "note": "De actieprijs variëren van 4.58-16.58"
+  },
+  {
+   "product": "Alle Yoni en Sanature",
+   "size": null,
+   "deal": "1+1 gratis",
+   "price": null,
+   "normalPrice": null,
+   "note": "De actieprijs variëren van 3.79-8.69"
+  },
+  {
+   "product": "Alle Oral-B tandpasta",
+   "size": "2 stuks",
+   "deal": "64% korting",
+   "price": 5.99,
+   "normalPrice": null,
+   "note": "6⁸-17⁸"
+  },
+  {
+   "product": "Alle Parodontax Daily Care",
+   "size": "per stuk",
+   "deal": null,
+   "price": 2.99,
+   "normalPrice": null,
+   "note": "5⁶-5⁶"
+  },
+  {
+   "product": "Disney Adventure World in Disneyland Paris - 3 dagen/2 nachten",
+   "size": null,
+   "deal": null,
+   "price": 960,
+   "normalPrice": null,
+   "note": "Arrangement voor max. 4 personen, Seizoen A vanaf, inclusief overnachtingspakket"
+  },
+  {
+   "product": "Strawberry & Applesien loundepakken",
+   "size": null,
+   "deal": null,
+   "price": 19.99,
+   "normalPrice": null,
+   "note": "Verkrijgbaar in bruin of gebruiken wit op-op"
+  },
+  {
+   "product": "Greyhound suede sloffen of handschoenen",
+   "size": "L/XL",
+   "deal": null,
+   "price": 14.99,
+   "normalPrice": 24.99,
+   "note": "€15 lager, adviesprijs 29*"
+  },
+  {
+   "product": "Namba Regen- en sherpakleding",
+   "size": "Bijzonderheden crew antraciet maat 43-46",
+   "deal": null,
+   "price": 8.99,
+   "normalPrice": 34.99,
+   "note": "€9 lager, adviesprijs 17.98, op-op"
+  },
+  {
+   "product": "DERYAN Luxe Kinderstoel met baby bouncer",
+   "size": null,
+   "deal": null,
+   "price": 119,
+   "normalPrice": 199,
+   "note": "Gratis bezorging"
+  },
+  {
+   "product": "DERYAN Luxe Klimrek incl. kussen",
+   "size": null,
+   "deal": null,
+   "price": 69,
+   "normalPrice": 179,
+   "note": null
+  },
+  {
+   "product": "DERYAN Luxe Houten Leertoren met glijbaan",
+   "size": null,
+   "deal": null,
+   "price": 59,
+   "normalPrice": 99,
+   "note": null
+  },
+  {
+   "product": "DERYAN Colin luxe i-Size autostoel Isofix 360",
+   "size": null,
+   "deal": null,
+   "price": 99,
+   "normalPrice": 199,
+   "note": null
+  },
+  {
+   "product": "roborock Robotstofzuiger met leegsstation - zwart Q7 (S)",
+   "size": null,
+   "deal": null,
+   "price": 179,
+   "normalPrice": 399,
+   "note": "€220 lager dan de adviesprijs"
+  },
+  {
+   "product": "roborock Robotstofzuiger met dweilfunctie - wit Qrevo 2 Prox",
+   "size": null,
+   "deal": null,
+   "price": 449,
+   "normalPrice": 699,
+   "note": "€250 lager dan de adviesprijs"
+  }
+ ]
+}
