@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-10-17T08:44:20.731Z",
+ "generated": "2026-10-18T08:59:59.344Z",
  "shops": {
   "hoogvliet": {
    "name": "Hoogvliet",
@@ -6547,10 +6547,10 @@
    "name": "Aldi",
    "ok": true,
    "source": "https://www.aldi.nl/aanbiedingen.html",
-   "scraped": "2026-10-14",
-   "validFrom": null,
-   "validUntil": "2026-10-17",
-   "validUntilGuessed": false,
+   "scraped": "2026-10-18",
+   "validFrom": "2026-10-12",
+   "validUntil": "2026-10-24",
+   "validUntilGuessed": true,
    "pages": 35,
    "offers": [
     {
@@ -6562,7 +6562,7 @@
      "note": null
     },
     {
-     "product": "Spekflappen",
+     "product": "Speklappen",
      "size": "5 stuks, 400 g",
      "deal": "-35%",
      "price": 2.79,
@@ -6578,7 +6578,7 @@
      "note": null
     },
     {
-     "product": "Product",
+     "product": "Product 1",
      "size": "500 g",
      "deal": "-50%",
      "price": 1.19,
@@ -6586,7 +6586,7 @@
      "note": null
     },
     {
-     "product": "Product",
+     "product": "Product 2",
      "size": null,
      "deal": "-35%",
      "price": 2.79,
@@ -6594,15 +6594,15 @@
      "note": null
     },
     {
-     "product": "Product",
+     "product": "Product 3",
      "size": "500 g",
      "deal": "0F=0P",
      "price": 3.99,
-     "normalPrice": 6.38,
+     "normalPrice": 6.39,
      "note": null
     },
     {
-     "product": "Product",
+     "product": "Eetrijpe avocado's",
      "size": "2-pack",
      "deal": "0F=0P",
      "price": 2.49,
@@ -6610,7 +6610,7 @@
      "note": null
     },
     {
-     "product": "Product",
+     "product": "Komkommer",
      "size": "3 kg",
      "deal": "0F=0P",
      "price": 2.99,
@@ -6618,7 +6618,7 @@
      "note": null
     },
     {
-     "product": "Product",
+     "product": "Aardappelen",
      "size": "1 kg",
      "deal": "-33%",
      "price": 1.99,
@@ -6628,17 +6628,17 @@
     {
      "product": "KANZI Appels",
      "size": "6 stuks",
-     "deal": "-16%",
+     "deal": "-18%",
      "price": 2.49,
      "normalPrice": 2.99,
      "note": null
     },
     {
-     "product": "DAYLICIOUS Boerenk­ool",
+     "product": "DAYLICIOUS Boerenkool",
      "size": "300 g",
      "deal": "-49%",
      "price": 0.99,
-     "normalPrice": 1.99,
+     "normalPrice": 1.95,
      "note": null
     },
     {
@@ -6658,33 +6658,33 @@
      "note": null
     },
     {
-     "product": "Triosta oliebollen",
-     "size": null,
+     "product": "Triosta or",
+     "size": "per stuk",
      "deal": "-25%",
      "price": 0.89,
      "normalPrice": 1.19,
      "note": null
     },
     {
-     "product": "Product",
+     "product": "Onbekend product",
      "size": "300 g",
      "deal": null,
      "price": 0.99,
-     "normalPrice": 1.95,
-     "note": null
+     "normalPrice": 1.99,
+     "note": "-49%"
     },
     {
-     "product": "Product",
+     "product": "Onbekend product",
      "size": "300 g",
      "deal": null,
      "price": 1.49,
      "normalPrice": 1.99,
-     "note": null
+     "note": "-16%"
     },
     {
      "product": "Kruimige Aardappelen",
      "size": "10 kg",
-     "deal": null,
+     "deal": "5+ 5 KILO GRATIS",
      "price": 4.99,
      "normalPrice": null,
      "note": null
@@ -6716,7 +6716,7 @@
     {
      "product": "TRADER JOE'S WALNUTS",
      "size": null,
-     "deal": "NERGENS GOEDKOPER",
+     "deal": null,
      "price": 3.99,
      "normalPrice": 4.39,
      "note": null
@@ -6730,12 +6730,28 @@
      "note": "OP=OP"
     },
     {
-     "product": "Grillwors jalapeno",
+     "product": "Grillwors jalapenõ",
      "size": "150 g",
      "deal": null,
      "price": 1.99,
      "normalPrice": null,
      "note": "OP=OP"
+    },
+    {
+     "product": "Aardappelen",
+     "size": "250-300 g",
+     "deal": "TOT -29%",
+     "price": 2.49,
+     "normalPrice": 3.55,
+     "note": null
+    },
+    {
+     "product": "Boter",
+     "size": "1 kg",
+     "deal": null,
+     "price": 5.89,
+     "normalPrice": null,
+     "note": "UF=UP"
     },
     {
      "product": "CUCINA Mozzarella",
@@ -6746,7 +6762,7 @@
      "note": null
     },
     {
-     "product": "Waddenbocht",
+     "product": "Waddenbult",
      "size": "Heel",
      "deal": "-19%",
      "price": 1.69,
@@ -6778,7 +6794,7 @@
      "note": null
     },
     {
-     "product": "Product",
+     "product": "Frisse botter",
      "size": "800-820 g",
      "deal": null,
      "price": 3.99,
@@ -6802,7 +6818,7 @@
      "note": "OP=OP"
     },
     {
-     "product": "Frissebo",
+     "product": "Frisse botter",
      "size": "315 g",
      "deal": "-25%",
      "price": 1.49,
@@ -6827,46 +6843,22 @@
     },
     {
      "product": "TRADER JOE'S Mini-donutcakes",
-     "size": "inhoud: 6 stuks, 150 g",
+     "size": "150 g",
      "deal": null,
      "price": 1.49,
      "normalPrice": null,
      "note": "OP=OP"
     },
     {
-     "product": "BISSCITO Choco as",
-     "size": "inhoud: 682 stuks, 250 g",
+     "product": "BISCOTTO Choco as",
+     "size": "250 g",
      "deal": null,
      "price": 1.89,
      "normalPrice": null,
      "note": "OP=OP"
     },
     {
-     "product": "BISCOTTO Choco as",
-     "size": "258 g",
-     "deal": null,
-     "price": 1.89,
-     "normalPrice": null,
-     "note": null
-    },
-    {
-     "product": "MOSER ROTH Chocolade nougat",
-     "size": "125 g",
-     "deal": "TOT -14%",
-     "price": 2.09,
-     "normalPrice": 2.49,
-     "note": null
-    },
-    {
-     "product": "BARRISIMO Koffiebonen gustoso",
-     "size": "1.2 kg",
-     "deal": null,
-     "price": 9.99,
-     "normalPrice": null,
-     "note": null
-    },
-    {
-     "product": "SCHULTENBRAU Speciaalbi​er",
+     "product": "SCHULTENBRAU Speciaalbieer",
      "size": "0.33 l",
      "deal": "20% korting",
      "price": 0.79,
@@ -6876,7 +6868,7 @@
     {
      "product": "Muchas Manos rood, rosé of wit",
      "size": null,
-     "deal": "16% korting",
+     "deal": "16%",
      "price": 3.75,
      "normalPrice": null,
      "note": null
@@ -6884,18 +6876,42 @@
     {
      "product": "Velvet Touch Chardonnay of Double Oaked",
      "size": null,
-     "deal": null,
-     "price": 6.99,
+     "deal": "OP=OP",
+     "price": 4.99,
      "normalPrice": null,
-     "note": "OP=OP"
+     "note": null
     },
     {
-     "product": "SOLO Tissues X-Press",
+     "product": "SOLO Tissues X-press",
      "size": "100 vel",
-     "deal": null,
+     "deal": "OP=OP",
      "price": 2.49,
      "normalPrice": null,
-     "note": "OP=OP"
+     "note": null
+    },
+    {
+     "product": "ALMHOF Volle kwark",
+     "size": "500 g",
+     "deal": "OP=OP",
+     "price": 1.69,
+     "normalPrice": null,
+     "note": null
+    },
+    {
+     "product": "MONA Pudding",
+     "size": "250 ml",
+     "deal": "OP=OP",
+     "price": 1.19,
+     "normalPrice": null,
+     "note": null
+    },
+    {
+     "product": "HAK Groente en appelmoes",
+     "size": "370 ml",
+     "deal": "2 VOOR",
+     "price": 2,
+     "normalPrice": null,
+     "note": null
     },
     {
      "product": "ALMHOF Volle kwark",
@@ -6907,19 +6923,11 @@
     },
     {
      "product": "MONA Pudding",
-     "size": "250 ml",
+     "size": "450 ml",
      "deal": null,
      "price": 1.19,
      "normalPrice": null,
      "note": "OP=OP"
-    },
-    {
-     "product": "HAK Groente en appelmoes",
-     "size": "370 ml",
-     "deal": "2 VOOR",
-     "price": 2,
-     "normalPrice": null,
-     "note": null
     },
     {
      "product": "CALVE Mayonais",
@@ -6930,8 +6938,8 @@
      "note": "OP=OP"
     },
     {
-     "product": "SEN SER Kaffiepak",
-     "size": "16-36 grads",
+     "product": "SEN SER Koffiepads",
+     "size": "16-18 pads",
      "deal": null,
      "price": 4.49,
      "normalPrice": null,
@@ -6946,24 +6954,16 @@
      "note": "OP=OP"
     },
     {
-     "product": "Bier",
+     "product": "MONSTER Energydrink*",
      "size": null,
-     "deal": null,
-     "price": 1.05,
-     "normalPrice": 2.29,
-     "note": "TOT -24%"
-    },
-    {
-     "product": "MONSTER Energydrink",
-     "size": "0.5 l",
      "deal": "-50%",
      "price": 1.29,
-     "normalPrice": 2.59,
+     "normalPrice": null,
      "note": null
     },
     {
      "product": "Bier",
-     "size": "50 cl",
+     "size": null,
      "deal": "TOT -24%",
      "price": 1.05,
      "normalPrice": 2.29,
@@ -6994,11 +6994,11 @@
      "note": null
     },
     {
-     "product": "BARRISIMO Koffiebonen",
+     "product": "Koffiebonen",
      "size": "1 kg",
      "deal": "-11%",
      "price": 14.99,
-     "normalPrice": 16.99,
+     "normalPrice": 16.79,
      "note": null
     },
     {
@@ -7010,7 +7010,7 @@
      "note": null
     },
     {
-     "product": "SATESSA Integrumi",
+     "product": "SATESSA Integraal",
      "size": "Per pak",
      "deal": "-13%",
      "price": 0.79,
@@ -7026,76 +7026,44 @@
      "note": null
     },
     {
-     "product": "SATESSA DISCREET Incontinentiebroekjes",
-     "size": null,
-     "deal": null,
-     "price": 4.99,
-     "normalPrice": 5.99,
-     "note": "-13%"
-    },
-    {
-     "product": "BACK FAMILY Scharrelei",
-     "size": "20 stuks",
-     "deal": null,
-     "price": 4.49,
-     "normalPrice": null,
-     "note": "OP=OP"
-    },
-    {
      "product": "BACK FAMILY Tarweblöem",
      "size": "2 kg",
-     "deal": null,
+     "deal": "OP=OP",
      "price": 1.39,
      "normalPrice": null,
-     "note": "OP=OP"
+     "note": null
     },
     {
      "product": "BACK FAMILY Bak specialiteiten",
      "size": "75-150 g",
-     "deal": null,
+     "deal": "OP=OP",
      "price": 1.49,
      "normalPrice": null,
-     "note": "OP=OP"
+     "note": null
     },
     {
      "product": "BACK FAMILY Bakvulling",
      "size": "250 g",
-     "deal": null,
+     "deal": "OP=OP",
      "price": 1.49,
+     "normalPrice": null,
+     "note": null
+    },
+    {
+     "product": "BACK FAMILY Chocolade",
+     "size": "15-28 g",
+     "deal": null,
+     "price": 1.79,
      "normalPrice": null,
      "note": "OP=OP"
     },
     {
-     "product": "Chocoladerepen",
-     "size": "2 kg",
+     "product": "Pomoen",
+     "size": "300 g",
      "deal": null,
-     "price": 1.39,
-     "normalPrice": null,
-     "note": null
-    },
-    {
-     "product": "Chocolade",
-     "size": "75-150 g",
-     "deal": null,
-     "price": 1.49,
-     "normalPrice": null,
-     "note": null
-    },
-    {
-     "product": "BACK FAMILY Chocoladerepen",
-     "size": "15-28 g",
-     "deal": "OP=OP",
-     "price": 1.79,
-     "normalPrice": null,
-     "note": null
-    },
-    {
-     "product": "Pompoenstukken",
-     "size": "200 g",
-     "deal": "OP=OP",
      "price": 3.49,
      "normalPrice": null,
-     "note": null
+     "note": "OP=OP"
     },
     {
      "product": "CHO'CEUR Chocoladerepen",
@@ -7122,15 +7090,15 @@
      "note": null
     },
     {
-     "product": "CHO'CEUR Milk mousse",
-     "size": "46 stuks, 300 g",
+     "product": "CHO'CEUR Milk mou",
+     "size": "44 stuks, 300 g",
      "deal": "OP=OP",
      "price": 2.99,
      "normalPrice": null,
      "note": null
     },
     {
-     "product": "FINEST BAKERY Cream roll",
+     "product": "FINEST BAKERY Cream ro",
      "size": "350 g",
      "deal": "OP=OP",
      "price": 1.79,
@@ -7138,28 +7106,36 @@
      "note": null
     },
     {
-     "product": "BACK FAMILY Halloween bakdecoratie",
-     "size": "10-25 g",
-     "deal": "OP=OP",
-     "price": 1.49,
+     "product": "SUN SNACKS Tortilla chips",
+     "size": null,
+     "deal": null,
+     "price": 2.29,
      "normalPrice": null,
      "note": null
     },
     {
      "product": "Pasta",
-     "size": null,
-     "deal": "OP=OP",
-     "price": null,
+     "size": "500 g",
+     "deal": null,
+     "price": 1.49,
      "normalPrice": null,
      "note": null
     },
     {
-     "product": "BARISSIMO Koffiecapsules spice latte",
-     "size": "10 capsules",
-     "deal": "OP=OP",
+     "product": "Halloween bakdecoratie",
+     "size": "10-25g",
+     "deal": null,
+     "price": 1.49,
+     "normalPrice": null,
+     "note": "OP=OP"
+    },
+    {
+     "product": "Koffiecapsule spice latte",
+     "size": "16 capsules",
+     "deal": null,
      "price": 2.99,
      "normalPrice": null,
-     "note": null
+     "note": "OP=OP"
     },
     {
      "product": "Monstera",
@@ -7167,7 +7143,7 @@
      "deal": null,
      "price": 4.99,
      "normalPrice": null,
-     "note": null
+     "note": "OP=OP"
     },
     {
      "product": "Amaryllismix",
@@ -7175,7 +7151,7 @@
      "deal": null,
      "price": 2.99,
      "normalPrice": null,
-     "note": null
+     "note": "OP=OP"
     },
     {
      "product": "Chrysant",
@@ -7183,7 +7159,7 @@
      "deal": null,
      "price": 1.99,
      "normalPrice": null,
-     "note": null
+     "note": "OP=OP"
     },
     {
      "product": "AMBIANO 5-in-1 multistyler",
@@ -7191,7 +7167,7 @@
      "deal": null,
      "price": 17.99,
      "normalPrice": null,
-     "note": null
+     "note": "OP=OP"
     },
     {
      "product": "CARRERA Haar- en baardtrimmer",
@@ -7199,7 +7175,7 @@
      "deal": null,
      "price": 12.99,
      "normalPrice": null,
-     "note": null
+     "note": "OP=OP"
     },
     {
      "product": "AMBIANO Meetapparatuur",
@@ -7207,7 +7183,7 @@
      "deal": null,
      "price": 9.99,
      "normalPrice": null,
-     "note": null
+     "note": "OP=OP"
     },
     {
      "product": "AMBIANO 3D-rugzak",
@@ -7226,7 +7202,7 @@
      "note": "OP=OP"
     },
     {
-     "product": "Kersenspitkussen",
+     "product": "Kersenpitskussen",
      "size": null,
      "deal": null,
      "price": 4.99,
@@ -7248,30 +7224,6 @@
      "price": 5.99,
      "normalPrice": null,
      "note": "Per stuk"
-    },
-    {
-     "product": "HOME CREATION Led-kerstster",
-     "size": null,
-     "deal": "OP=OP",
-     "price": null,
-     "normalPrice": null,
-     "note": null
-    },
-    {
-     "product": "HOME CREATION Led-raamdecoratie",
-     "size": null,
-     "deal": "OP=OP",
-     "price": null,
-     "normalPrice": null,
-     "note": null
-    },
-    {
-     "product": "HOME CREATION Rustieke kaars",
-     "size": null,
-     "deal": "OP=OP",
-     "price": null,
-     "normalPrice": null,
-     "note": null
     },
     {
      "product": "Led-kerstster",
@@ -7330,7 +7282,7 @@
      "note": null
     },
     {
-     "product": "HOME CREATION Lijmpistool lijmpistoolset",
+     "product": "HOME CREATION Lijmpistool lijmpatronen",
      "size": null,
      "deal": null,
      "price": 3.49,
@@ -7367,7 +7319,7 @@
      "deal": null,
      "price": 9.99,
      "normalPrice": null,
-     "note": null
+     "note": "OP=OP"
     },
     {
      "product": "UP2FASHION Stretchjeans",
@@ -7375,7 +7327,7 @@
      "deal": null,
      "price": 9.99,
      "normalPrice": null,
-     "note": null
+     "note": "OP=OP"
     },
     {
      "product": "Sokken 7-pack",
@@ -7394,50 +7346,66 @@
      "note": "OP=OP"
     },
     {
-     "product": "Paprika",
-     "size": "1 kg",
-     "deal": null,
-     "price": 1.99,
-     "normalPrice": null,
-     "note": "OPSOP"
-    },
-    {
-     "product": "Beenham finteresse",
-     "size": "100 g",
-     "deal": "-32%",
-     "price": 1.19,
-     "normalPrice": 1.75,
+     "product": "Nederlandse aardbeien",
+     "size": "450 g",
+     "deal": "-16%",
+     "price": 2.49,
+     "normalPrice": 2.99,
      "note": null
     },
     {
-     "product": "KNORR Maaltijdmix",
-     "size": "35-65 g",
+     "product": "Soepballen",
+     "size": "300 g",
+     "deal": null,
+     "price": 3.49,
+     "normalPrice": null,
+     "note": "OP=ER"
+    },
+    {
+     "product": "Lasagne bolognese",
+     "size": "400 g",
+     "deal": "-35%",
+     "price": 1.59,
+     "normalPrice": 2.45,
+     "note": "CUCINA"
+    },
+    {
+     "product": "Lasagne bolognese",
+     "size": "400 g",
+     "deal": "35% korting",
+     "price": 1.59,
+     "normalPrice": 2.45,
+     "note": null
+    },
+    {
+     "product": "Maaltijd",
+     "size": "35-45 g",
      "deal": null,
      "price": 0.79,
      "normalPrice": null,
      "note": "OP=OP"
     },
     {
-     "product": "MAGGI Mix",
-     "size": null,
-     "deal": null,
-     "price": 0.99,
-     "normalPrice": null,
-     "note": "OP=OP"
-    },
-    {
-     "product": "SANFENS Sesamzaad",
-     "size": null,
-     "deal": null,
-     "price": 2.29,
-     "normalPrice": null,
-     "note": "OP=OP"
-    },
-    {
-     "product": "QUAKER Cruesli",
-     "size": "480 g",
+     "product": "Cruesli",
+     "size": "450 g",
      "deal": null,
      "price": 2.99,
+     "normalPrice": null,
+     "note": "OP=OP"
+    },
+    {
+     "product": "Cruesli",
+     "size": "450 g",
+     "deal": null,
+     "price": 1.49,
+     "normalPrice": null,
+     "note": "OP=OP"
+    },
+    {
+     "product": "Fudge",
+     "size": "180-220 g",
+     "deal": null,
+     "price": 1.69,
      "normalPrice": null,
      "note": "OP=OP"
     },
@@ -7450,23 +7418,39 @@
      "note": "OP=OP"
     },
     {
-     "product": "DUYVIS Borrel- of tijgernotjes",
-     "size": "275g",
+     "product": "DUYVÏS Barrel-o's",
+     "size": "275 g",
      "deal": null,
      "price": 1.99,
      "normalPrice": null,
      "note": "OP=OP"
     },
     {
-     "product": "BAVARIA 0.0 bier",
-     "size": "6x33ml",
+     "product": "BAVARIA 0.0 bier 6-pack",
+     "size": "6x330 ml",
      "deal": null,
      "price": 2.99,
      "normalPrice": null,
      "note": "OP=OP"
     },
     {
-     "product": "LUCOVITAAL Pre- en postvisolie",
+     "product": "Ice mixdrink",
+     "size": "0.7 l",
+     "deal": null,
+     "price": 2.99,
+     "normalPrice": null,
+     "note": "OP=OP"
+    },
+    {
+     "product": "Rosé 4-pack",
+     "size": "4x0.25 l",
+     "deal": null,
+     "price": 5.69,
+     "normalPrice": null,
+     "note": "OP=OP"
+    },
+    {
+     "product": "Lucovitaal Pre- en probiotica visolie",
      "size": "30-40 stuks",
      "deal": null,
      "price": 5.99,
@@ -7475,14 +7459,126 @@
     },
     {
      "product": "CIF Schuurmiddel",
-     "size": "0.75L",
+     "size": "0.75l",
      "deal": null,
      "price": 1.49,
      "normalPrice": null,
      "note": "OP=OP"
     },
     {
-     "product": "AMBIANO Automatische broodbakmachine",
+     "product": "AMBIANO Automatische citruspers",
+     "size": null,
+     "deal": "OP=OP",
+     "price": 12.99,
+     "normalPrice": null,
+     "note": "Per stuk"
+    },
+    {
+     "product": "CROFTON Gietijzeren braadpan",
+     "size": null,
+     "deal": "OP=OP",
+     "price": 21.99,
+     "normalPrice": null,
+     "note": "Per stuk"
+    },
+    {
+     "product": "CROFTON Gietijzeren ronde braadpan",
+     "size": null,
+     "deal": "OP=OP",
+     "price": 24.99,
+     "normalPrice": null,
+     "note": "per stuk"
+    },
+    {
+     "product": "AMBIANO Multicooker",
+     "size": null,
+     "deal": "OP=OP",
+     "price": 9.99,
+     "normalPrice": null,
+     "note": "Per stuk"
+    },
+    {
+     "product": "CROFTON Siliconen ovenschaal",
+     "size": null,
+     "deal": "OP=OP",
+     "price": 3.99,
+     "normalPrice": null,
+     "note": "het stukper set"
+    },
+    {
+     "product": "CROFTON 3-delige keukenmes",
+     "size": null,
+     "deal": null,
+     "price": 3.99,
+     "normalPrice": null,
+     "note": "OP=OP"
+    },
+    {
+     "product": "Product 9.99",
+     "size": null,
+     "deal": null,
+     "price": 9.99,
+     "normalPrice": null,
+     "note": null
+    },
+    {
+     "product": "Product 3.99",
+     "size": null,
+     "deal": null,
+     "price": 3.99,
+     "normalPrice": null,
+     "note": null
+    },
+    {
+     "product": "CROFTON Keukenmessen pack",
+     "size": "3-pack",
+     "deal": null,
+     "price": 2.99,
+     "normalPrice": null,
+     "note": "OP=OP"
+    },
+    {
+     "product": "HOME CREATION Keukentrolly",
+     "size": null,
+     "deal": null,
+     "price": 4.99,
+     "normalPrice": null,
+     "note": "OP=OP"
+    },
+    {
+     "product": "HOME CREATION Pedaalemmer 30L",
+     "size": "30L",
+     "deal": null,
+     "price": 19.99,
+     "normalPrice": null,
+     "note": "OP=OP"
+    },
+    {
+     "product": "LILY & DAN Fleeceshirt",
+     "size": null,
+     "deal": null,
+     "price": 3.99,
+     "normalPrice": null,
+     "note": "OP=OP"
+    },
+    {
+     "product": "CRANE Sneeuwpak",
+     "size": null,
+     "deal": null,
+     "price": 14.99,
+     "normalPrice": null,
+     "note": "OP=OP"
+    },
+    {
+     "product": "Winterjas",
+     "size": "2-pack",
+     "deal": null,
+     "price": 9.99,
+     "normalPrice": null,
+     "note": null
+    },
+    {
+     "product": "Winterjas",
      "size": null,
      "deal": null,
      "price": 12.99,
@@ -7490,140 +7586,36 @@
      "note": "OP=OP"
     },
     {
-     "product": "CROFTON Braadpan",
+     "product": "LILY & DAN Fleecebrock",
+     "size": null,
+     "deal": null,
+     "price": 2.99,
+     "normalPrice": null,
+     "note": "OP=OP"
+    },
+    {
+     "product": "DISNEY, MARVEL, PEPPA PIG Peuterpuzzel",
+     "size": null,
+     "deal": null,
+     "price": 3.99,
+     "normalPrice": null,
+     "note": null
+    },
+    {
+     "product": "Speelset",
      "size": null,
      "deal": null,
      "price": 6.99,
      "normalPrice": null,
-     "note": "Per stuk"
+     "note": null
     },
     {
-     "product": "TEFAL Pannenset",
+     "product": "Squishmallows mystery box",
      "size": null,
      "deal": null,
-     "price": 9.99,
+     "price": 6.99,
      "normalPrice": null,
-     "note": "Per stuk"
-    },
-    {
-     "product": "CROFTON Gietijzeren ovale braadpan",
-     "size": null,
-     "deal": null,
-     "price": 21.99,
-     "normalPrice": null,
-     "note": "OP=OP"
-    },
-    {
-     "product": "CROFTON Gietijzeren braadpan",
-     "size": null,
-     "deal": null,
-     "price": 24.99,
-     "normalPrice": null,
-     "note": "OP=OP"
-    },
-    {
-     "product": "CROFTON 3-delige keukenmessenset",
-     "size": null,
-     "deal": null,
-     "price": 3.99,
-     "normalPrice": null,
-     "note": "OP=OP"
-    },
-    {
-     "product": "Antibacteriële snijplank",
-     "size": null,
-     "deal": null,
-     "price": 2.99,
-     "normalPrice": null,
-     "note": "OP=OP"
-    },
-    {
-     "product": "CROFTON RVS snijplank",
-     "size": null,
-     "deal": null,
-     "price": 4.99,
-     "normalPrice": null,
-     "note": "OP=OP"
-    },
-    {
-     "product": "OP=OP",
-     "size": null,
-     "deal": null,
-     "price": 3.99,
-     "normalPrice": null,
-     "note": "Per set"
-    },
-    {
-     "product": "Product",
-     "size": null,
-     "deal": null,
-     "price": 2.99,
-     "normalPrice": null,
-     "note": "Per stuk/set"
-    },
-    {
-     "product": "Product",
-     "size": null,
-     "deal": null,
-     "price": 4.99,
-     "normalPrice": null,
-     "note": "Per stuk/set"
-    },
-    {
-     "product": "CROFTON Keukenhamer pack",
-     "size": null,
-     "deal": "OP=OP",
-     "price": 2.99,
-     "normalPrice": null,
-     "note": "3-pack"
-    },
-    {
-     "product": "HOMECRUSH Keukentextiel",
-     "size": null,
-     "deal": "OP=OP",
-     "price": 4.99,
-     "normalPrice": null,
-     "note": "Per stuk"
-    },
-    {
-     "product": "LILY & DAN Fleeceshirt",
-     "size": null,
-     "deal": "OP=OP",
-     "price": 3.99,
-     "normalPrice": null,
-     "note": "Per stuk"
-    },
-    {
-     "product": "Jurk met tule rok",
-     "size": null,
-     "deal": null,
-     "price": 5.99,
-     "normalPrice": null,
-     "note": "VA. ZA. 17.10."
-    },
-    {
-     "product": "Sweatshirt",
-     "size": null,
-     "deal": null,
-     "price": 5.99,
-     "normalPrice": null,
-     "note": "VA. ZA. 17.10."
-    },
-    {
-     "product": "CRANE Sneeuwpop",
-     "size": null,
-     "deal": "OP=OP",
-     "price": 14.99,
-     "normalPrice": null,
-     "note": "Per stuk"
-    },
-    {
-     "product": "LILY & DAN Fleecebr",
-     "size": null,
-     "deal": "OP=OP",
-     "price": 2.99,
-     "normalPrice": null,
-     "note": "Per stuk"
+     "note": null
     },
     {
      "product": "Kinderpuzzel",
@@ -7634,20 +7626,12 @@
      "note": null
     },
     {
-     "product": "DISNEY, MARVEL Peuterpuzzel",
-     "size": null,
-     "deal": null,
-     "price": 3.99,
-     "normalPrice": null,
-     "note": null
-    },
-    {
-     "product": "MATTEL Monster High pop",
+     "product": "MATTEL Monster high",
      "size": null,
      "deal": null,
      "price": 9.99,
      "normalPrice": null,
-     "note": null
+     "note": "Per stuk"
     }
    ]
   },
