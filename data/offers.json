@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-10-19T10:09:53.898Z",
+ "generated": "2026-10-20T09:34:39.698Z",
  "shops": {
   "hoogvliet": {
    "name": "Hoogvliet",
@@ -6364,7 +6364,7 @@
   },
   "aldi": {
    "name": "Aldi",
-   "ok": true,
+   "ok": false,
    "source": "https://www.aldi.nl/aanbiedingen.html",
    "scraped": "2026-10-18",
    "validFrom": "2026-10-12",
@@ -7452,7 +7452,9 @@
      "normalPrice": null,
      "note": "Per stuk"
     }
-   ]
+   ],
+   "error": "vision API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+   "failedOn": "2026-10-20"
   },
   "nettorama": {
    "name": "Nettorama",
