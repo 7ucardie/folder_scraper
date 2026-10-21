@@ -1,10 +1,10 @@
 {
  "format": 1,
- "generated": "2026-10-20T09:34:39.698Z",
+ "generated": "2026-10-21T09:30:30.339Z",
  "shops": {
   "hoogvliet": {
    "name": "Hoogvliet",
-   "ok": true,
+   "ok": false,
    "source": "https://www.hoogvliet.com/aanbiedingen",
    "scraped": "2026-10-14",
    "validFrom": "2026-10-14",
@@ -2222,11 +2222,13 @@
      "normalPrice": null,
      "note": null
     }
-   ]
+   ],
+   "error": "vision API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+   "failedOn": "2026-10-21"
   },
   "jumbo": {
    "name": "Jumbo",
-   "ok": true,
+   "ok": false,
    "source": "https://www.jumbo.com/aanbiedingen",
    "scraped": "2026-10-14",
    "validFrom": "2026-10-14",
@@ -4624,7 +4626,9 @@
       "absolut-vodka-sprite-watermelon-250-ml-679246BLK"
      ]
     }
-   ]
+   ],
+   "error": "vision API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+   "failedOn": "2026-10-21"
   },
   "ah": {
    "name": "Albert Heijn",
@@ -7454,7 +7458,7 @@
     }
    ],
    "error": "vision API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-   "failedOn": "2026-10-20"
+   "failedOn": "2026-10-21"
   },
   "nettorama": {
    "name": "Nettorama",
