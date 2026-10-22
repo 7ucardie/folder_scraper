@@ -1,0 +1,1028 @@
+{
+ "name": "Aldi",
+ "ok": true,
+ "source": "https://www.aldi.nl/aanbiedingen.html",
+ "scraped": "2026-10-22",
+ "validFrom": "2026-10-19",
+ "validUntil": "2026-10-28",
+ "validUntilGuessed": true,
+ "pages": 28,
+ "offers": [
+  {
+   "product": "Conference peren",
+   "size": "1 kg",
+   "deal": "-50%",
+   "price": 0.89,
+   "normalPrice": 1.79,
+   "note": null
+  },
+  {
+   "product": "Slagersrookworst",
+   "size": "275 g",
+   "deal": "-44%",
+   "price": 1.49,
+   "normalPrice": 2.69,
+   "note": null
+  },
+  {
+   "product": "Product",
+   "size": "1 kg",
+   "deal": "-50%",
+   "price": 0.89,
+   "normalPrice": 1.79,
+   "note": null
+  },
+  {
+   "product": "Product",
+   "size": "275 g",
+   "deal": "-44%",
+   "price": 1.49,
+   "normalPrice": 2.69,
+   "note": null
+  },
+  {
+   "product": "Bladmango",
+   "size": "750 g",
+   "deal": "OP=OP",
+   "price": 1.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Product",
+   "size": "400 g",
+   "deal": "-12%",
+   "price": 3.49,
+   "normalPrice": 3.99,
+   "note": null
+  },
+  {
+   "product": "Product",
+   "size": "500 g",
+   "deal": null,
+   "price": 1.69,
+   "normalPrice": 2.39,
+   "note": null
+  },
+  {
+   "product": "Kakifruit",
+   "size": "1 kg",
+   "deal": null,
+   "price": 2.49,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Courgette",
+   "size": null,
+   "deal": "-21%",
+   "price": 0.59,
+   "normalPrice": 0.75,
+   "note": "Per stuk"
+  },
+  {
+   "product": "Prei",
+   "size": null,
+   "deal": "3 VOOR",
+   "price": 1,
+   "normalPrice": 1.45,
+   "note": "Per stuk"
+  },
+  {
+   "product": "DAYLICIOUS Hutspotgroenten",
+   "size": null,
+   "deal": "-21%",
+   "price": 1.49,
+   "normalPrice": 1.89,
+   "note": null
+  },
+  {
+   "product": "DAYLICIOUS Soepgroenten basis",
+   "size": null,
+   "deal": "-13%",
+   "price": 0.99,
+   "normalPrice": 1.15,
+   "note": null
+  },
+  {
+   "product": "4 VOOR",
+   "size": null,
+   "deal": null,
+   "price": 1,
+   "normalPrice": 1.65,
+   "note": "Per stuk"
+  },
+  {
+   "product": "DAYLICIOUS Stamppot",
+   "size": "1 kg",
+   "deal": "-33%",
+   "price": 0.99,
+   "normalPrice": 1.49,
+   "note": "kg = 0.99"
+  },
+  {
+   "product": "Gyros met",
+   "size": "750 g",
+   "deal": "40% GOEDKOPER",
+   "price": 4.49,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Scharrelei",
+   "size": "400 g",
+   "deal": "-20%",
+   "price": 3.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Extra mager rundgehakt",
+   "size": "750 g",
+   "deal": null,
+   "price": 8.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "LYTTOS Griekse yoghurt",
+   "size": "1.1 kg",
+   "deal": null,
+   "price": 1.79,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "MILSANI High prot-of",
+   "size": "500 ml",
+   "deal": null,
+   "price": 1.59,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "DAYLICIOUS Aardappelgratin",
+   "size": "450 g",
+   "deal": "-30%",
+   "price": 1.49,
+   "normalPrice": 2.15,
+   "note": null
+  },
+  {
+   "product": "Kaasfondue",
+   "size": null,
+   "deal": "-14%",
+   "price": null,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Slagersachterham",
+   "size": null,
+   "deal": "0P=0P",
+   "price": null,
+   "normalPrice": null,
+   "note": "50 GRAM GRATIS"
+  },
+  {
+   "product": "MOLEKALAND Goudse kaas belegen",
+   "size": "300 g",
+   "deal": "-22%",
+   "price": 6.19,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "GOLDEN SEAFOOD Tonjnfilet 3-pack",
+   "size": "330 g",
+   "deal": "-28%",
+   "price": 1.99,
+   "normalPrice": 2.79,
+   "note": null
+  },
+  {
+   "product": "GOLDEN SEAFOOD High protein zalm- of tonjnsalade",
+   "size": "160 g",
+   "deal": "0P=0P",
+   "price": 1.69,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "MILSANI Gecondenseerde melk",
+   "size": "397 g",
+   "deal": "0P=0P",
+   "price": 1.59,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Appelmoes ALL SEASONS",
+   "size": "12x 100 g",
+   "deal": "28% korting",
+   "price": 1.99,
+   "normalPrice": 2.79,
+   "note": null
+  },
+  {
+   "product": "Cookies",
+   "size": "150 g",
+   "deal": "OP=OP",
+   "price": 1.69,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Jam FOLLAIN Framboise",
+   "size": "377 g",
+   "deal": "OP=OP",
+   "price": 1.59,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "BELASAN Olijfolie",
+   "size": "3 l",
+   "deal": "OP=OP",
+   "price": 15.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "COCOVITE Vloeibaar eiwit",
+   "size": "500 g",
+   "deal": "OP=OP",
+   "price": 2.29,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "RISSOTTO Choco wafer",
+   "size": "inhoud: 6 stuks, 144 g",
+   "deal": "OP=OP",
+   "price": 1.79,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "HALLOWEEN Fruitfoes",
+   "size": "300 g",
+   "deal": "OP=OP",
+   "price": 1.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "COCOVITE Vloebaar eiwit",
+   "size": "300 g",
+   "deal": null,
+   "price": 2.29,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "BISCOTTO Choco wafer",
+   "size": "inhoud: 5 stuks, 144 g",
+   "deal": null,
+   "price": 1.79,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "HALLOWEEN Fruittoffees",
+   "size": "300 g",
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "CHOCEUR Chocolade",
+   "size": "185 g",
+   "deal": null,
+   "price": 2.29,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "BARISSIMO Koffiecapsules",
+   "size": "50 capsules",
+   "deal": null,
+   "price": 6.99,
+   "normalPrice": 9.98,
+   "note": null
+  },
+  {
+   "product": "TRADER JOE'S Feestmix",
+   "size": null,
+   "deal": null,
+   "price": 4.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "LAY'S OF CHEETOS Chips",
+   "size": null,
+   "deal": null,
+   "price": 2.19,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "ASIA GREEN GARDEN Samosa's",
+   "size": null,
+   "deal": null,
+   "price": 2.49,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "ASIA GREEN GARDEN Kip karaage",
+   "size": null,
+   "deal": null,
+   "price": 2.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "Winter crème",
+   "size": "0.5 l",
+   "deal": null,
+   "price": 6.49,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "PREMIUM DUTCH Cocktail, mixdrank of hard ice tea",
+   "size": "250 ml",
+   "deal": "2 VOOR",
+   "price": 2,
+   "normalPrice": 2.58,
+   "note": null
+  },
+  {
+   "product": "LACURA SPA Mystique bodymousse",
+   "size": "200 ml",
+   "deal": null,
+   "price": 2.49,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "POWER FORCE Airfryer spray",
+   "size": "750 ml",
+   "deal": null,
+   "price": 1.69,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "ROMEO Hondenkoekjes",
+   "size": "1.3 kg / kg = 3.45",
+   "deal": null,
+   "price": 4.49,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "CACHET Crispy kattensnacks",
+   "size": "200 g",
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "UF-ÖL",
+   "size": "750 ml",
+   "deal": null,
+   "price": 1.69,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "UF-ÖL",
+   "size": "1.3 kg",
+   "deal": null,
+   "price": 4.49,
+   "normalPrice": null,
+   "note": "kg = 3.45"
+  },
+  {
+   "product": "UF-ÖL",
+   "size": "250 g",
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "PATAURAIN Roomkaas",
+   "size": "90 g",
+   "deal": "OP=OP",
+   "price": 1.49,
+   "normalPrice": null,
+   "note": "kg = 16.54"
+  },
+  {
+   "product": "CROMA Bakken en",
+   "size": "750 ml",
+   "deal": "-30%",
+   "price": 2.99,
+   "normalPrice": 4.29,
+   "note": "= 1.99"
+  },
+  {
+   "product": "GRANDITALIA Pasta of pastasaus",
+   "size": "250-1kg",
+   "deal": null,
+   "price": 1.69,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "HARIBO Halloweee",
+   "size": "350-500g",
+   "deal": null,
+   "price": 3.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "LOTUS Biscoff ijs",
+   "size": "3-4 stuks",
+   "deal": null,
+   "price": 2.49,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "Tropisch fruit",
+   "size": "1.5 l",
+   "deal": null,
+   "price": 0.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "HERTOG JAN Bier 6-pack",
+   "size": "6x330 ml",
+   "deal": "-24%",
+   "price": 4.99,
+   "normalPrice": 6.65,
+   "note": null
+  },
+  {
+   "product": "DREFT Wasmiddel",
+   "size": "40-52 wasbeurten",
+   "deal": "OP=OP",
+   "price": 6.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "BACK FAMILY Gemalen amandelen",
+   "size": null,
+   "deal": "OP=OP",
+   "price": null,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "BACK FAMILY Kokosrasp",
+   "size": null,
+   "deal": "OP=OP",
+   "price": null,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "BACK FAMILY Glazuur",
+   "size": null,
+   "deal": "OP=OP",
+   "price": null,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "BACK FAMILY Gemalen amandelen",
+   "size": "100 g",
+   "deal": null,
+   "price": 0.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "BACK FAMILY Kokosrasp",
+   "size": "200 g",
+   "deal": null,
+   "price": 0.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "BACK FAMILY Glazuur",
+   "size": "200 g",
+   "deal": null,
+   "price": 3.49,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Heideplant",
+   "size": null,
+   "deal": null,
+   "price": 2.29,
+   "normalPrice": null,
+   "note": "Per stuk"
+  },
+  {
+   "product": "Conifeer",
+   "size": null,
+   "deal": null,
+   "price": 3.29,
+   "normalPrice": null,
+   "note": "Per stuk"
+  },
+  {
+   "product": "Gaultheria",
+   "size": null,
+   "deal": null,
+   "price": 2.29,
+   "normalPrice": null,
+   "note": "Per stuk"
+  },
+  {
+   "product": "Heidelplant",
+   "size": null,
+   "deal": "OP=OP",
+   "price": 2.29,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Conifeer",
+   "size": null,
+   "deal": "OP=OP",
+   "price": 3.29,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Gaultheria",
+   "size": null,
+   "deal": "OP=OP",
+   "price": 2.29,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Struikhei",
+   "size": null,
+   "deal": "OP=OP",
+   "price": 4.79,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Houten poppenhuis",
+   "size": null,
+   "deal": null,
+   "price": 29.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Houten schrijfstation of alfabet",
+   "size": null,
+   "deal": null,
+   "price": 9.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Magnetische bouwset",
+   "size": null,
+   "deal": null,
+   "price": 9.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "TOYLINO Houten schakelbouwstenen",
+   "size": null,
+   "deal": null,
+   "price": 9.99,
+   "normalPrice": null,
+   "note": "Per set"
+  },
+  {
+   "product": "TOYLINO Houten konstruktie knikkerbaan",
+   "size": null,
+   "deal": null,
+   "price": 9.99,
+   "normalPrice": null,
+   "note": "Per set"
+  },
+  {
+   "product": "MAGINON Quadrocopter-drone",
+   "size": null,
+   "deal": null,
+   "price": 29.99,
+   "normalPrice": null,
+   "note": "Per stuk"
+  },
+  {
+   "product": "TOYLINO Retro bouwset",
+   "size": null,
+   "deal": null,
+   "price": 9.99,
+   "normalPrice": null,
+   "note": "Per set"
+  },
+  {
+   "product": "Quadrocopter-drone",
+   "size": null,
+   "deal": null,
+   "price": 29.99,
+   "normalPrice": null,
+   "note": "V.A. WO. 21.10."
+  },
+  {
+   "product": "Retro bouwset",
+   "size": null,
+   "deal": null,
+   "price": 9.99,
+   "normalPrice": null,
+   "note": "V.A. WO. 21.10."
+  },
+  {
+   "product": "TOYLING Transform bouwset",
+   "size": null,
+   "deal": null,
+   "price": 12.99,
+   "normalPrice": null,
+   "note": "V.A. WO. 21.10. Per set"
+  },
+  {
+   "product": "RIDE-50 Oplaadbare luchtcompressor",
+   "size": null,
+   "deal": null,
+   "price": 14.99,
+   "normalPrice": null,
+   "note": "OP=OP Per stuk"
+  },
+  {
+   "product": "Accu-startbooster",
+   "size": null,
+   "deal": null,
+   "price": 39.99,
+   "normalPrice": null,
+   "note": "OP=OP Per stuk"
+  },
+  {
+   "product": "Autostarthulp",
+   "size": null,
+   "deal": null,
+   "price": 19.99,
+   "normalPrice": null,
+   "note": "OP=OP Per set"
+  },
+  {
+   "product": "RIDE+GO Autostoelverkleiner",
+   "size": null,
+   "deal": "OP=OP",
+   "price": 4.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "RIDE+GO Zitverhoger",
+   "size": null,
+   "deal": "OP=OP",
+   "price": 9.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "RIDE+GO Autohoes",
+   "size": null,
+   "deal": "OP=OP",
+   "price": 12.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Zitkussen of lendesteun",
+   "size": null,
+   "deal": "OP=OP",
+   "price": 6.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "RIDE+GO Thermische ruitbeschermer",
+   "size": null,
+   "deal": "OP=OP",
+   "price": 2.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Semi-geroostde tomaten of zoete pepers",
+   "size": "120 g",
+   "deal": "22% korting",
+   "price": 1.39,
+   "normalPrice": 1.79,
+   "note": null
+  },
+  {
+   "product": "Gelderse worst of grillworst",
+   "size": "175 g",
+   "deal": "20% korting",
+   "price": 1.59,
+   "normalPrice": 1.99,
+   "note": null
+  },
+  {
+   "product": "Chow Mein of bami knoflookchili",
+   "size": "300 g",
+   "deal": "25% korting",
+   "price": 2.99,
+   "normalPrice": 3.99,
+   "note": null
+  },
+  {
+   "product": "Product",
+   "size": "120 g",
+   "deal": null,
+   "price": 1.39,
+   "normalPrice": 1.99,
+   "note": null
+  },
+  {
+   "product": "Product",
+   "size": "175 g",
+   "deal": null,
+   "price": 1.59,
+   "normalPrice": 1.99,
+   "note": null
+  },
+  {
+   "product": "Product",
+   "size": "500 g",
+   "deal": "25% korting",
+   "price": 2.99,
+   "normalPrice": 3.99,
+   "note": null
+  },
+  {
+   "product": "DUO PENOTTI Hazelnooten",
+   "size": null,
+   "deal": "OP=OP",
+   "price": 1.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "JORDANS Granola",
+   "size": "500-700 g",
+   "deal": "OP=OP",
+   "price": 1.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Product",
+   "size": "80 g",
+   "deal": null,
+   "price": 1.79,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Product",
+   "size": "150 g",
+   "deal": null,
+   "price": 0.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "OREO Enrobed koekjes melk of wit",
+   "size": "292 g",
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "RITTER SPORT Chocolade",
+   "size": "100 g",
+   "deal": null,
+   "price": 1.39,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "VAN DE BOOM Groene ijsthee",
+   "size": "1 L",
+   "deal": null,
+   "price": 0.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "GROLSCH Speciaalbier",
+   "size": "6 x 1 l",
+   "deal": "OP=OP",
+   "price": 1.59,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "COLGATE Tandpastels 4-pack",
+   "size": "75 ml",
+   "deal": "OP=OP",
+   "price": 0.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "CROFTON Siliconen deksets 5-pack",
+   "size": null,
+   "deal": null,
+   "price": 1.49,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "AMBIANO Multifunctionele keukenmachine",
+   "size": null,
+   "deal": null,
+   "price": 3.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "NOVITESSE Hoofdkussen",
+   "size": null,
+   "deal": null,
+   "price": 9.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "LILY & DAN Sokken 2-pack",
+   "size": "2-pack",
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "LILY & DAN Badstof pyjama",
+   "size": null,
+   "deal": null,
+   "price": 4.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "UP2FASHION Badstof",
+   "size": null,
+   "deal": null,
+   "price": 9.99,
+   "normalPrice": null,
+   "note": "Per stuk"
+  },
+  {
+   "product": "KRONTALER Radiogratogramprojectie",
+   "size": null,
+   "deal": null,
+   "price": 9.99,
+   "normalPrice": null,
+   "note": "Per stuk"
+  },
+  {
+   "product": "Houten parasol",
+   "size": null,
+   "deal": null,
+   "price": 6.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Wildcamera",
+   "size": null,
+   "deal": null,
+   "price": 24.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Bewegingsmelder/sensor",
+   "size": null,
+   "deal": null,
+   "price": 7.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Telescoop",
+   "size": null,
+   "deal": null,
+   "price": 7.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Tuinschommel",
+   "size": null,
+   "deal": null,
+   "price": 16.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Telescopische bezem",
+   "size": null,
+   "deal": null,
+   "price": 7.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Leren tuinhandschoenen",
+   "size": null,
+   "deal": null,
+   "price": 2.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Borsteldeurmat",
+   "size": null,
+   "deal": null,
+   "price": 7.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "GARDENLINE Telescopische bezem",
+   "size": null,
+   "deal": null,
+   "price": 7.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "GARDENLINE Leren tuinhandschoenen",
+   "size": null,
+   "deal": null,
+   "price": 2.99,
+   "normalPrice": null,
+   "note": "OP=OP, Per paar"
+  },
+  {
+   "product": "HOME CREATION Borsteldeurmat",
+   "size": null,
+   "deal": null,
+   "price": 7.99,
+   "normalPrice": null,
+   "note": "OP=OP, Per stuk"
+  },
+  {
+   "product": "GARDENLINE Winterbeschermer",
+   "size": null,
+   "deal": null,
+   "price": 6.99,
+   "normalPrice": null,
+   "note": "OP=OP, Per stuk"
+  },
+  {
+   "product": "WORKZONE Transportwagen",
+   "size": null,
+   "deal": null,
+   "price": 19.99,
+   "normalPrice": null,
+   "note": "OP=OP, Per stuk"
+  },
+  {
+   "product": "Transporttrolley",
+   "size": null,
+   "deal": null,
+   "price": 19.99,
+   "normalPrice": null,
+   "note": "WERKZONE"
+  },
+  {
+   "product": "Vogelvoederhuisje",
+   "size": null,
+   "deal": null,
+   "price": 6.99,
+   "normalPrice": null,
+   "note": "BELAVI"
+  }
+ ]
+}
