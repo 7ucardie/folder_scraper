@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-10-31T10:31:30.893Z",
+ "generated": "2026-11-01T11:26:31.772Z",
  "shops": {
   "hoogvliet": {
    "name": "Hoogvliet",
@@ -6144,9 +6144,9 @@
    "name": "Aldi",
    "ok": true,
    "source": "https://www.aldi.nl/aanbiedingen.html",
-   "scraped": "2026-10-28",
+   "scraped": "2026-11-01",
    "validFrom": "2026-10-26",
-   "validUntil": "2026-10-31",
+   "validUntil": "2026-11-01",
    "validUntilGuessed": false,
    "pages": 30,
    "offers": [
@@ -6180,7 +6180,7 @@
      "deal": "-25%",
      "price": 1.49,
      "normalPrice": 1.99,
-     "note": "Per stuk"
+     "note": null
     },
     {
      "product": "Uien",
@@ -6240,19 +6240,43 @@
     },
     {
      "product": "Gehaktballen met jus",
-     "size": "6 stuks, 340 g",
-     "deal": null,
+     "size": "6 stuks, 540 g",
+     "deal": "-16%",
      "price": 4.99,
      "normalPrice": 5.99,
-     "note": "-16%"
+     "note": null
     },
     {
      "product": "Scharrelkip",
-     "size": "300 g",
-     "deal": null,
+     "size": "800 g",
+     "deal": "-15%",
      "price": 5.49,
      "normalPrice": 6.49,
-     "note": "-15%"
+     "note": null
+    },
+    {
+     "product": "Stamppot",
+     "size": null,
+     "deal": "-12%",
+     "price": null,
+     "normalPrice": null,
+     "note": null
+    },
+    {
+     "product": "Goudse kaasplakken 48+",
+     "size": null,
+     "deal": "-34%",
+     "price": null,
+     "normalPrice": null,
+     "note": null
+    },
+    {
+     "product": "Geraspt kaas",
+     "size": null,
+     "deal": "-31%",
+     "price": null,
+     "normalPrice": null,
+     "note": null
     },
     {
      "product": "DAYLICIOUS Stamppot",
@@ -6275,23 +6299,39 @@
      "size": null,
      "deal": "-31%",
      "price": 1.19,
-     "normalPrice": 1.75,
+     "normalPrice": 1.73,
      "note": null
     },
     {
-     "product": "Spekreeën",
-     "size": "21 stuks 9 g",
+     "product": "Spekruip",
+     "size": "250 g",
      "deal": "-37%",
      "price": 2.39,
      "normalPrice": 3.89,
      "note": null
     },
     {
-     "product": "DELFIN Gekookte",
+     "product": "DËLFIN Gekookte Mosselen",
      "size": "250 g",
      "deal": "OP=OP",
      "price": 1.69,
      "normalPrice": null,
+     "note": null
+    },
+    {
+     "product": "Zeevruchten Cocktail",
+     "size": "100 g",
+     "deal": null,
+     "price": 1.89,
+     "normalPrice": null,
+     "note": null
+    },
+    {
+     "product": "Lardons",
+     "size": "200-220 g",
+     "deal": "-49%",
+     "price": 0.99,
+     "normalPrice": 1.99,
      "note": null
     },
     {
@@ -6300,7 +6340,7 @@
      "deal": "-20%",
      "price": 1.59,
      "normalPrice": 1.99,
-     "note": "Heel"
+     "note": "Hier"
     },
     {
      "product": "GOLDEN BRIDGE Havermout",
@@ -6312,7 +6352,7 @@
     },
     {
      "product": "ALL SEASONS Deense komkommersalade of...",
-     "size": "478g/720ml",
+     "size": "479g/720ml",
      "deal": "VANAF",
      "price": 1.59,
      "normalPrice": null,
@@ -6328,75 +6368,51 @@
     },
     {
      "product": "HOFSTEE DE DRIE EIKEN Mini-salami Parmezaan of japaleños",
-     "size": "250g",
-     "deal": "OP=OP",
-     "price": 3.69,
-     "normalPrice": null,
-     "note": null
-    },
-    {
-     "product": "VANAF",
-     "size": "670 g/720 ml",
-     "deal": null,
-     "price": 1.59,
-     "normalPrice": null,
-     "note": null
-    },
-    {
-     "product": "OP=OP",
-     "size": "2 stuks, 800 g",
-     "deal": null,
-     "price": 2.99,
-     "normalPrice": null,
-     "note": null
-    },
-    {
-     "product": "OP=OP",
      "size": "250 g",
-     "deal": null,
+     "deal": "OP=OP",
      "price": 3.69,
      "normalPrice": null,
      "note": null
     },
     {
-     "product": "LANDECK Mini-drozijns",
-     "size": "350 g",
-     "deal": "OP=OP",
+     "product": "LANDBECK Mini-droewors",
+     "size": "280 g",
+     "deal": null,
      "price": 3.99,
      "normalPrice": null,
-     "note": null
+     "note": "OP=OP"
     },
     {
-     "product": "GOLDEN SEARA Sardientjes",
+     "product": "GOLDEN SEAKR Sardientjes",
      "size": "125 g",
-     "deal": "OP=OP",
+     "deal": null,
      "price": 1.19,
      "normalPrice": null,
-     "note": null
+     "note": "OP=OP"
     },
     {
      "product": "JACK'S FARM Mini-kipschnitzel",
      "size": "425 g",
-     "deal": "OP=OP",
+     "deal": null,
      "price": 4.99,
      "normalPrice": null,
-     "note": null
+     "note": "OP=OP"
     },
     {
-     "product": "CHO'CUR Mini- of maxi-choco zoenen",
+     "product": "CHO'EUR Mini- of maxi-choco zoenen",
      "size": "266-300 g",
-     "deal": "OP=OP",
+     "deal": null,
      "price": 2.69,
      "normalPrice": null,
-     "note": null
+     "note": "OP=OP"
     },
     {
      "product": "TRADER JOE'S Mini-cakes",
      "size": "6 stuks, 228 g",
-     "deal": "OP=OP",
+     "deal": null,
      "price": 1.79,
      "normalPrice": null,
-     "note": null
+     "note": "OP=OP"
     },
     {
      "product": "JACK'S FARM Mini-kipschnitzels",
@@ -6407,31 +6423,23 @@
      "note": "OP=OP"
     },
     {
-     "product": "CHO'EUR Mini- of maxi-choco zoenen",
-     "size": "244 - 300 g",
+     "product": "CHOCEUR Mini- of maxi-choco zoenen",
+     "size": "244-300 g",
      "deal": null,
      "price": 2.69,
      "normalPrice": null,
      "note": "OP=OP"
     },
     {
-     "product": "TRADER JOE'S Mini-cakes",
-     "size": "4 stuks, 228 g",
-     "deal": null,
-     "price": 1.79,
-     "normalPrice": null,
-     "note": "OP=OP"
-    },
-    {
-     "product": "CHO'EUR Choco & kokosnoot bites",
+     "product": "CHOCEUR Choco & hazelnoot",
      "size": "3 stuks, 300 g",
-     "deal": "-13%",
+     "deal": "-11%",
      "price": 3.19,
-     "normalPrice": 3.69,
+     "normalPrice": 3.59,
      "note": null
     },
     {
-     "product": "BISCOTTO Deense butter koekjes",
+     "product": "BISCOTTO Deense butter cookies",
      "size": "750 g",
      "deal": null,
      "price": 4.99,
@@ -6467,7 +6475,7 @@
      "size": "0.75 l",
      "deal": "-25%",
      "price": 3.75,
-     "normalPrice": 5,
+     "normalPrice": null,
      "note": null
     },
     {
@@ -6496,15 +6504,15 @@
     },
     {
      "product": "40 pastilles",
-     "size": null,
-     "deal": "OP=OP",
+     "size": "40 pastilles",
+     "deal": "UP=OP",
      "price": 1.99,
      "normalPrice": null,
      "note": null
     },
     {
-     "product": "35 pastilles",
-     "size": null,
+     "product": "36 pastilles",
+     "size": "36 pastilles",
      "deal": null,
      "price": 2.49,
      "normalPrice": null,
@@ -6512,15 +6520,15 @@
     },
     {
      "product": "20 ml",
-     "size": null,
+     "size": "20 ml",
      "deal": null,
      "price": 1.69,
      "normalPrice": null,
      "note": null
     },
     {
-     "product": "MULTINORM Medische vitamine-",
-     "size": "30 ml, 1 = 4,63",
+     "product": "MULTINORM Medische vitamines",
+     "size": "30 ml, 1 = 4.63",
      "deal": "OP=OP",
      "price": 1.99,
      "normalPrice": null,
@@ -6536,7 +6544,7 @@
     },
     {
      "product": "500 g",
-     "size": null,
+     "size": "500 g",
      "deal": null,
      "price": 0.99,
      "normalPrice": null,
@@ -6544,7 +6552,7 @@
     },
     {
      "product": "150 g",
-     "size": null,
+     "size": "150 g",
      "deal": null,
      "price": 0.89,
      "normalPrice": null,
@@ -6556,15 +6564,15 @@
      "deal": null,
      "price": 4.49,
      "normalPrice": null,
-     "note": "OP=OP"
+     "note": null
     },
     {
      "product": "Heks'nkaas",
      "size": null,
      "deal": null,
-     "price": 4.19,
+     "price": 4.49,
      "normalPrice": null,
-     "note": "OP=OP"
+     "note": null
     },
     {
      "product": "DEL MONTE Fruit op",
@@ -6572,7 +6580,7 @@
      "deal": null,
      "price": 1.49,
      "normalPrice": null,
-     "note": "OP=OP"
+     "note": null
     },
     {
      "product": "CARBONELL Zon & olijf",
@@ -6580,7 +6588,7 @@
      "deal": null,
      "price": 4.99,
      "normalPrice": null,
-     "note": "OP=OP"
+     "note": null
     },
     {
      "product": "Wavy blends paprika of knoflook & kruiden",
@@ -6588,7 +6596,7 @@
      "deal": null,
      "price": 0.99,
      "normalPrice": null,
-     "note": "OP=OP"
+     "note": null
     },
     {
      "product": "Super Crunch airfryer-friet",
@@ -6596,61 +6604,21 @@
      "deal": null,
      "price": 0.99,
      "normalPrice": null,
-     "note": "OP=OP"
+     "note": null
     },
     {
      "product": "Mars, Twix, Snickers of Milky Way ijs 5-pack",
      "size": "5-pack",
-     "deal": "OP=OP",
+     "deal": null,
      "price": 1.99,
      "normalPrice": null,
-     "note": null
-    },
-    {
-     "product": "Snickers of Mars",
-     "size": "400 g",
-     "deal": null,
-     "price": 0.99,
-     "normalPrice": null,
-     "note": null
-    },
-    {
-     "product": "Trolli Gummibeest of Trolli Frogs",
-     "size": "350 g",
-     "deal": null,
-     "price": 0.99,
-     "normalPrice": null,
-     "note": null
+     "note": "OP=OP"
     },
     {
      "product": "LAY'S Chips",
      "size": "300 g",
      "deal": "2 VOOR",
      "price": 3,
-     "normalPrice": null,
-     "note": null
-    },
-    {
-     "product": "PICKWICK Engelse blend thee",
-     "size": "20 x 2 gr les",
-     "deal": "OP=OP",
-     "price": 0.99,
-     "normalPrice": null,
-     "note": null
-    },
-    {
-     "product": "Fanta, Fanta zero of Sprite",
-     "size": "1.5 l",
-     "deal": "-21%",
-     "price": 1.79,
-     "normalPrice": 2.29,
-     "note": null
-    },
-    {
-     "product": "HERO Cassis",
-     "size": "1.25 l",
-     "deal": "OP=OP",
-     "price": 1.49,
      "normalPrice": null,
      "note": null
     },
@@ -6663,6 +6631,14 @@
      "note": "OP=OP"
     },
     {
+     "product": "Fanta, Fanta zero of Sprite",
+     "size": "1.5 l",
+     "deal": "-21%",
+     "price": 1.79,
+     "normalPrice": 2.29,
+     "note": null
+    },
+    {
      "product": "HERO Cassis",
      "size": "1.25 l",
      "deal": null,
@@ -6672,11 +6648,11 @@
     },
     {
      "product": "LIPTON Ice tea",
-     "size": null,
+     "size": "1.5 l",
      "deal": null,
      "price": 1.49,
      "normalPrice": null,
-     "note": "NU VAN"
+     "note": "NU VOOR"
     },
     {
      "product": "LENOR Wasverzachter",
@@ -6688,19 +6664,11 @@
     },
     {
      "product": "LUCOVITAAL Magnesium",
-     "size": "20-40 stuks/200 ml/1 kg per stuk",
+     "size": "20-60 stuks/200 ml/1 kg/per stuk",
      "deal": null,
      "price": 4.99,
      "normalPrice": null,
      "note": "OP=OP"
-    },
-    {
-     "product": "BIO Biologische muesli",
-     "size": "375 g",
-     "deal": "-10%",
-     "price": 1.29,
-     "normalPrice": 1.49,
-     "note": "Per stuk"
     },
     {
      "product": "BIO Biologische yoghurt met muesli",
@@ -6729,64 +6697,80 @@
     {
      "product": "Biologische yoghurt met muesli",
      "size": "150 g",
-     "deal": null,
+     "deal": "-10%",
      "price": 0.89,
      "normalPrice": null,
-     "note": "-10%"
+     "note": null
     },
     {
      "product": "Biologische roomboter",
      "size": "250 g",
-     "deal": null,
+     "deal": "-11%",
      "price": 2.29,
      "normalPrice": 2.59,
-     "note": "-11%"
+     "note": null
     },
     {
      "product": "Biologische tofu",
      "size": "500 g",
-     "deal": null,
+     "deal": "-17 CENT",
      "price": 1.69,
-     "normalPrice": 1.99,
-     "note": "-17 CENT"
+     "normalPrice": 1.86,
+     "note": null
     },
     {
-     "product": "Biologische extra vierge olijfolie",
+     "product": "Biologische extra vruchtenyoghurt",
      "size": "500 ml",
-     "deal": null,
+     "deal": "-18%",
      "price": 4.99,
-     "normalPrice": null,
-     "note": "-18%"
+     "normalPrice": 6.29,
+     "note": null
     },
     {
      "product": "Potlelie",
      "size": "Per stuk",
-     "deal": null,
+     "deal": "OP=OP",
      "price": 3.39,
      "normalPrice": null,
-     "note": "OP=OP"
+     "note": null
     },
     {
      "product": "Gaultheria",
      "size": "Per stuk",
-     "deal": null,
+     "deal": "OP=OP",
      "price": 2.49,
      "normalPrice": null,
-     "note": "OP=OP"
+     "note": null
     },
     {
      "product": "Amaryllismix",
      "size": "Per stuk",
-     "deal": null,
+     "deal": "OP=OP",
      "price": 2.99,
      "normalPrice": null,
-     "note": "OP=OP"
+     "note": null
     },
     {
      "product": "Pottelie",
      "size": null,
      "deal": null,
      "price": 3.39,
+     "normalPrice": null,
+     "note": "Per stuk"
+    },
+    {
+     "product": "Gaultheria",
+     "size": null,
+     "deal": null,
+     "price": 2.49,
+     "normalPrice": null,
+     "note": "Per stuk"
+    },
+    {
+     "product": "Amaryllismix",
+     "size": null,
+     "deal": null,
+     "price": 2.99,
      "normalPrice": null,
      "note": "Per stuk"
     },
@@ -6799,7 +6783,7 @@
      "note": "Per stuk"
     },
     {
-     "product": "Led lichtslinger",
+     "product": "Led lichtdraad",
      "size": null,
      "deal": null,
      "price": 6.99,
@@ -6807,7 +6791,7 @@
      "note": "Per stuk"
     },
     {
-     "product": "HOME CREATION Led lichtslinger",
+     "product": "Led lichtdraad",
      "size": null,
      "deal": null,
      "price": 8.99,
@@ -6815,7 +6799,7 @@
      "note": "Per stuk"
     },
     {
-     "product": "HOME CREATION Led lichtslinger",
+     "product": "Led lichtdraad",
      "size": null,
      "deal": null,
      "price": 1.49,
@@ -6823,7 +6807,7 @@
      "note": "Per stuk"
     },
     {
-     "product": "HOME CREATION Led-lichtketting",
+     "product": "HOME CREATION Led-Lichtketting",
      "size": null,
      "deal": null,
      "price": 14.99,
@@ -6831,7 +6815,7 @@
      "note": "OP=OP"
     },
     {
-     "product": "HOME CREATION Paperkoker",
+     "product": "HOME CREATION Paperkoo",
      "size": null,
      "deal": null,
      "price": 4.99,
@@ -6908,7 +6892,7 @@
      "deal": null,
      "price": 7.99,
      "normalPrice": null,
-     "note": "HOME CREATION"
+     "note": "VANAF"
     },
     {
      "product": "Teddy of rib dekbedovertrek",
@@ -6916,7 +6900,7 @@
      "deal": null,
      "price": 12.99,
      "normalPrice": null,
-     "note": "NOVITESSE"
+     "note": "VANAF"
     },
     {
      "product": "Jersey hoeslaken",
@@ -6924,15 +6908,15 @@
      "deal": null,
      "price": 7.99,
      "normalPrice": null,
-     "note": "NOVITESSE"
+     "note": "VANAF"
     },
     {
-     "product": "Bamboe rolgordijn",
+     "product": "Bamboe handdoeken",
      "size": null,
      "deal": null,
      "price": 7.99,
      "normalPrice": null,
-     "note": "HOME CREATION"
+     "note": "OP=OP"
     },
     {
      "product": "Loungewear",
@@ -6940,18 +6924,18 @@
      "deal": null,
      "price": 7.99,
      "normalPrice": null,
-     "note": "UP2FASHION"
+     "note": "OP=OP"
     },
     {
-     "product": "Persinasapjes",
-     "size": "3 kg",
+     "product": "Perssinakoken XXL",
+     "size": null,
      "deal": null,
      "price": 2.99,
      "normalPrice": null,
      "note": "OP=OP"
     },
     {
-     "product": "Hele gegrilde kip",
+     "product": "Hele gegaarde kip",
      "size": "1.25 kg",
      "deal": null,
      "price": 8.99,
@@ -6959,7 +6943,7 @@
      "note": "OP=OP"
     },
     {
-     "product": "UNOX Soep in zak",
+     "product": "UNOX Soep in zakje",
      "size": "570 ml",
      "deal": null,
      "price": 1.89,
@@ -6976,14 +6960,14 @@
     },
     {
      "product": "SPORTLIFE Kauwgom",
-     "size": "58-68 stuks, 97-102 g",
+     "size": "50-66 stuks, 97-102 g",
      "deal": null,
      "price": 2.29,
      "normalPrice": null,
      "note": "OP=OP"
     },
     {
-     "product": "SKITTLES OF AUTODROOP Uitdeelzak Skittles of Mini cadilacs",
+     "product": "SKITTLES OF AUTOMOOP Uitdeelzak Skittles of Mini cadilacs",
      "size": "198-200 g",
      "deal": null,
      "price": 2.19,
@@ -7007,8 +6991,8 @@
      "note": "OP=OP"
     },
     {
-     "product": "Uitdeelzak Skittles of Mini cadillacs",
-     "size": "170-200 g",
+     "product": "Uitdeelzak Skittles of Mini cadilacs",
+     "size": "175-200 g",
      "deal": null,
      "price": 2.19,
      "normalPrice": null,
@@ -7055,7 +7039,7 @@
      "note": "OP=OP"
     },
     {
-     "product": "ALWAYS Discreet incontinentieverband",
+     "product": "ALWAYS Discreet incontinentieVerband",
      "size": "8-12 stuks",
      "deal": null,
      "price": 1.99,
@@ -7071,8 +7055,8 @@
      "note": "OP=OP"
     },
     {
-     "product": "UP2FASHION Pilotenjas",
-     "size": null,
+     "product": "UP2FASHION Piotenjas",
+     "size": "Per stuk",
      "deal": null,
      "price": 17.99,
      "normalPrice": null,
@@ -7080,7 +7064,7 @@
     },
     {
      "product": "UP2FASHION Lichtgewatteerde jas",
-     "size": null,
+     "size": "Per stuk",
      "deal": null,
      "price": 14.99,
      "normalPrice": null,
@@ -7088,6 +7072,14 @@
     },
     {
      "product": "UP2FASHION Gewatteerde lange jas",
+     "size": "Per stuk",
+     "deal": null,
+     "price": 17.99,
+     "normalPrice": null,
+     "note": "OP=OP"
+    },
+    {
+     "product": "UP2FASHION Pilotenjas",
      "size": null,
      "deal": null,
      "price": 17.99,
@@ -7103,7 +7095,7 @@
      "note": "OP=OP"
     },
     {
-     "product": "UP2FASHION Chenille sweater",
+     "product": "UP2FASHION Chenille sjaal",
      "size": null,
      "deal": null,
      "price": 8.99,
@@ -7135,7 +7127,7 @@
      "note": "OP=OP"
     },
     {
-     "product": "UP2FASHION Punto",
+     "product": "UP2FASHION Punto longsleeve",
      "size": null,
      "deal": null,
      "price": 8.99,
@@ -7159,7 +7151,7 @@
      "note": "OP=OP"
     },
     {
-     "product": "UP2FASHION Leren veterlaarzen",
+     "product": "UP2FASHION Leren veterbots",
      "size": null,
      "deal": null,
      "price": 19.99,
@@ -7180,7 +7172,7 @@
      "deal": null,
      "price": 19.99,
      "normalPrice": null,
-     "note": "Per paar"
+     "note": "OP=OP, Per paar"
     },
     {
      "product": "Themapuzzel",
@@ -7199,7 +7191,7 @@
      "note": "Per stuk"
     },
     {
-     "product": "Luxtaelier Spel",
+     "product": "Lauächer Spet",
      "size": null,
      "deal": null,
      "price": 2.99,
@@ -7207,7 +7199,7 @@
      "note": null
     },
     {
-     "product": "Luxtaelier Spel",
+     "product": "Lauächer Spet",
      "size": null,
      "deal": null,
      "price": 6.99,
@@ -7223,7 +7215,7 @@
      "note": null
     },
     {
-     "product": "Creatieve speelset",
+     "product": "Creativevakantie kaarten fietsbord",
      "size": null,
      "deal": null,
      "price": 3.99,
@@ -7239,7 +7231,7 @@
      "note": null
     },
     {
-     "product": "TOYLING Speelgoedvaatwasser of -wasmachine",
+     "product": "TOYLING Speelgoedvaatswasser of -wasmachine",
      "size": null,
      "deal": null,
      "price": 8.99,
@@ -7255,15 +7247,7 @@
      "note": null
     },
     {
-     "product": "TOYLING Speelgoedvaatswasser of -wasmachine",
-     "size": null,
-     "deal": null,
-     "price": 8.99,
-     "normalPrice": null,
-     "note": "Per stuk, V.A. ZA. 31.10"
-    },
-    {
-     "product": "TOYLING Mini knuffel",
+     "product": "TOYLING Mini knutselen",
      "size": "Per set",
      "deal": null,
      "price": 4.99,
