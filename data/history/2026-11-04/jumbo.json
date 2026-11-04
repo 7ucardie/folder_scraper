@@ -1,0 +1,980 @@
+{
+ "name": "Jumbo",
+ "ok": true,
+ "source": "https://www.jumbo.com/aanbiedingen",
+ "scraped": "2026-11-04",
+ "validFrom": null,
+ "validUntil": "2026-11-10",
+ "validUntilGuessed": false,
+ "pages": 11,
+ "offers": [
+  {
+   "product": "Samen spellen spelen",
+   "size": null,
+   "deal": "50% korting",
+   "price": null,
+   "normalPrice": null,
+   "note": "Online spellencampagne, wo 4 nov t/m di 5 jan"
+  },
+  {
+   "product": "Alle Nalys",
+   "size": null,
+   "deal": "1+1 gratis",
+   "price": null,
+   "normalPrice": null,
+   "note": "wo 4 t/m di 10 nov"
+  },
+  {
+   "product": "Milka",
+   "size": null,
+   "deal": null,
+   "price": 3.49,
+   "normalPrice": null,
+   "note": "wo 4 t/m di 10 nov"
+  },
+  {
+   "product": "Chio chips",
+   "size": null,
+   "deal": "2 voor 2,99",
+   "price": null,
+   "normalPrice": null,
+   "note": "wo 4 t/m di 10 nov"
+  },
+  {
+   "product": "Alle Appetina, Castell Garlan",
+   "size": null,
+   "deal": "25% korting",
+   "price": null,
+   "normalPrice": null,
+   "note": "wo 4 t/m di 10 nov"
+  },
+  {
+   "product": "Piloze witte druiven",
+   "size": null,
+   "deal": "2 voor 3.99",
+   "price": 3.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Ijsbergsla",
+   "size": null,
+   "deal": null,
+   "price": 0.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Avocado",
+   "size": null,
+   "deal": null,
+   "price": 2.79,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Zespri kiwi Sungold of Green",
+   "size": null,
+   "deal": "25% korting",
+   "price": null,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Alle zakken aardappelen à 2,5 of 3 kilo",
+   "size": null,
+   "deal": "1+1 gratis",
+   "price": null,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Sperzlebonen",
+   "size": null,
+   "deal": null,
+   "price": 1.79,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Mandarijnen",
+   "size": null,
+   "deal": null,
+   "price": 2.49,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Wortelen",
+   "size": null,
+   "deal": null,
+   "price": 1.49,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Slabonen",
+   "size": null,
+   "deal": null,
+   "price": 1.49,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Frambozen of bramen",
+   "size": null,
+   "deal": null,
+   "price": 2.49,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Alle ongekoelde 4 persoons maaltijdpakketten",
+   "size": null,
+   "deal": "25% korting",
+   "price": null,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Ooserse maaltijden",
+   "size": null,
+   "deal": "2 voor 7.49",
+   "price": 7.49,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Verse maaltijden uit Jumbo's keuken",
+   "size": null,
+   "deal": "25% korting",
+   "price": null,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Jumbo Ooserse maaltijden",
+   "size": null,
+   "deal": "2 voor 5.50",
+   "price": 5.5,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Jumbo verse soep",
+   "size": null,
+   "deal": "2 voor 6.00",
+   "price": 6,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Beyond meat vleesvervangers",
+   "size": null,
+   "deal": "1+1 gratis",
+   "price": null,
+   "normalPrice": null,
+   "note": "wo 4 t/m di 10 nov"
+  },
+  {
+   "product": "Gehakt",
+   "size": null,
+   "deal": "1+1 gratis",
+   "price": null,
+   "normalPrice": null,
+   "note": "wo 4 t/m di 10 nov"
+  },
+  {
+   "product": "Jumbo zalmfilet",
+   "size": null,
+   "deal": null,
+   "price": 7.99,
+   "normalPrice": null,
+   "note": "wo 4 t/m di 10 nov"
+  },
+  {
+   "product": "Ribleap",
+   "size": null,
+   "deal": "1+1 gratis",
+   "price": null,
+   "normalPrice": null,
+   "note": "wo 4 t/m di 10 nov"
+  },
+  {
+   "product": "Kip schnitzel, kip krokant schnitzel, kip saté schnitzel, kipfilet naturel of ui-roomsaus",
+   "size": null,
+   "deal": "2 voor 5.00",
+   "price": null,
+   "normalPrice": null,
+   "note": "wo 7 jan t/m di 1 dec"
+  },
+  {
+   "product": "Hamburgers",
+   "size": null,
+   "deal": "2 voor 6.00",
+   "price": null,
+   "normalPrice": null,
+   "note": "wo 7 jan t/m di 1 dec"
+  },
+  {
+   "product": "Alle schotelbroden",
+   "size": null,
+   "deal": "25% korting",
+   "price": null,
+   "normalPrice": null,
+   "note": "wo 4 t/m di 10 nov"
+  },
+  {
+   "product": "Campina Ijs",
+   "size": null,
+   "deal": "2 voor 3.49",
+   "price": null,
+   "normalPrice": null,
+   "note": "wo 4 t/m di 10 nov"
+  },
+  {
+   "product": "Almhof yoghurt",
+   "size": null,
+   "deal": "2 voor 2.89",
+   "price": null,
+   "normalPrice": null,
+   "note": "wo 4 t/m di 10 nov"
+  },
+  {
+   "product": "Crema of Blue Band",
+   "size": null,
+   "deal": null,
+   "price": 2.99,
+   "normalPrice": null,
+   "note": "wo 4 t/m di 10 nov"
+  },
+  {
+   "product": "Oatly haverdrink",
+   "size": null,
+   "deal": "2 voor 3.99",
+   "price": null,
+   "normalPrice": null,
+   "note": "wo 4 t/m di 10 nov"
+  },
+  {
+   "product": "Becel",
+   "size": null,
+   "deal": "1+1 gratis",
+   "price": null,
+   "normalPrice": null,
+   "note": "wo 4 t/m di 10 nov"
+  },
+  {
+   "product": "Alle HiPRO",
+   "size": null,
+   "deal": "2 voor 3,49",
+   "price": 3.49,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Danio Kwark",
+   "size": null,
+   "deal": "2 voor 3,99",
+   "price": 3.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Campina, Optimel en Vifft",
+   "size": null,
+   "deal": "10% korting",
+   "price": null,
+   "normalPrice": null,
+   "note": "Alleen online"
+  },
+  {
+   "product": "Chocomel, Fristi, Friesche vlag en Campina Slagroom",
+   "size": null,
+   "deal": "10% korting",
+   "price": null,
+   "normalPrice": null,
+   "note": "Alleen online"
+  },
+  {
+   "product": "Kookwekkier bij aankoop van 2 Becel Croma of Blue Band",
+   "size": null,
+   "deal": "Gratis",
+   "price": null,
+   "normalPrice": null,
+   "note": "Alleen online - Op-OP"
+  },
+  {
+   "product": "Alfa Alpetato, Castello of Garlan",
+   "size": null,
+   "deal": "25% korting",
+   "price": null,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Tapas",
+   "size": null,
+   "deal": "5 voor 6,00",
+   "price": 6,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Jumbo Filet of paté",
+   "size": null,
+   "deal": "2 voor 5,00",
+   "price": 5,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Jumbo brood en toast salades 200 gram",
+   "size": "200 gram",
+   "deal": "2 voor 4,50",
+   "price": 4.5,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Voorverpakte vleeswaren",
+   "size": null,
+   "deal": "2 voor 5,00",
+   "price": 5,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Bonduelle",
+   "size": null,
+   "deal": "3 voor 2,99",
+   "price": 2.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Unox soep in blik",
+   "size": null,
+   "deal": "1+1 gratis",
+   "price": null,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "John West",
+   "size": null,
+   "deal": "2+1 gratis",
+   "price": null,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Alle Jumbo's groenten toppings",
+   "size": null,
+   "deal": "50% korting",
+   "price": null,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Alle Jumbo's pasta speciaal",
+   "size": null,
+   "deal": "25% korting",
+   "price": null,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Alle sauzen",
+   "size": null,
+   "deal": "2e halve prijs",
+   "price": null,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Alle Jumbo's pasta",
+   "size": null,
+   "deal": "2e halve prijs",
+   "price": null,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "La Morena",
+   "size": null,
+   "deal": "2e halve prijs",
+   "price": null,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Quaker Cruesli",
+   "size": null,
+   "deal": null,
+   "price": 2.99,
+   "normalPrice": null,
+   "note": "voor 2,99"
+  },
+  {
+   "product": "Chio chips",
+   "size": null,
+   "deal": "2 voor 2,99",
+   "price": 2.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Cashewnoten",
+   "size": null,
+   "deal": "2 voor 4,69",
+   "price": 4.69,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Lindt excellent of Lindor",
+   "size": null,
+   "deal": "25% korting",
+   "price": null,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Red Band of Venco",
+   "size": null,
+   "deal": "2 voor 3,99",
+   "price": 3.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Lay's",
+   "size": null,
+   "deal": "2 voor 2,99",
+   "price": 2.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Lay's",
+   "size": null,
+   "deal": "2 voor 3,89",
+   "price": 3.89,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Haribo",
+   "size": null,
+   "deal": "2e halve prijs",
+   "price": null,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Sloggi",
+   "size": null,
+   "deal": "alleen online",
+   "price": 12,
+   "normalPrice": null,
+   "note": "voor 12,00"
+  },
+  {
+   "product": "Smaak",
+   "size": null,
+   "deal": "3 voor 5,00",
+   "price": 5,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Lay's Max",
+   "size": null,
+   "deal": "2 voor 2,99",
+   "price": 2.99,
+   "normalPrice": null,
+   "note": "wo 4 t/m di 10 nov"
+  },
+  {
+   "product": "Alle Sultana",
+   "size": null,
+   "deal": "2 voor 3,99",
+   "price": 3.99,
+   "normalPrice": null,
+   "note": "wo 4 t/m di 10 nov"
+  },
+  {
+   "product": "Alle A-merk chocolade of snoep uitdeelzakken",
+   "size": null,
+   "deal": "2e halve prijs",
+   "price": null,
+   "normalPrice": null,
+   "note": "wo 21 okt t/m wo 11 nov"
+  },
+  {
+   "product": "Duyvis",
+   "size": null,
+   "deal": null,
+   "price": 12,
+   "normalPrice": null,
+   "note": "Alleen online, wo 4 t/m di 1 dec"
+  },
+  {
+   "product": "Jumbo koek",
+   "size": null,
+   "deal": "5 voor 5,00",
+   "price": 5,
+   "normalPrice": null,
+   "note": "wo 11 mrt t/m di 1 dec"
+  },
+  {
+   "product": "Verse noten",
+   "size": null,
+   "deal": "2 voor 5,00",
+   "price": 5,
+   "normalPrice": null,
+   "note": "wo 11 mrt t/m di 1 dec"
+  },
+  {
+   "product": "Alle Jumbo's Kaffiebonen",
+   "size": null,
+   "deal": "2e halve prijs",
+   "price": null,
+   "normalPrice": null,
+   "note": "wo 4 t/m di 10 nov"
+  },
+  {
+   "product": "Douwe Egberts: Aroma Rood filterkoffie",
+   "size": "450g",
+   "deal": null,
+   "price": 4.99,
+   "normalPrice": null,
+   "note": "Alleen in de winkel, wo 4 t/m di 17 nov"
+  },
+  {
+   "product": "Nescafé Dolce Gusto",
+   "size": null,
+   "deal": null,
+   "price": 14,
+   "normalPrice": null,
+   "note": "Alleen online, wo 4 nov t/m di 1 dec"
+  },
+  {
+   "product": "Douwe Egberts en L'OR",
+   "size": null,
+   "deal": "10% korting",
+   "price": null,
+   "normalPrice": null,
+   "note": "Alleen online, wo 4 nov t/m di 1 dec"
+  },
+  {
+   "product": "Innocent",
+   "size": null,
+   "deal": "1+1 gratis",
+   "price": null,
+   "normalPrice": null,
+   "note": "wo 4 t/m di 10 nov"
+  },
+  {
+   "product": "Alle Karvan Cevitam",
+   "size": null,
+   "deal": "2 voor 5.99",
+   "price": null,
+   "normalPrice": null,
+   "note": "wo 4 t/m di 10 nov"
+  },
+  {
+   "product": "Fuze Tea",
+   "size": null,
+   "deal": "1+1 gratis",
+   "price": null,
+   "normalPrice": null,
+   "note": "wo 4 t/m di 10 nov"
+  },
+  {
+   "product": "Lipton",
+   "size": null,
+   "deal": "15% korting",
+   "price": null,
+   "normalPrice": null,
+   "note": "Alleen online - wo 20 mei t/m di 1 dec"
+  },
+  {
+   "product": "2x gratis Winter Edition bij aankoop van een multipack",
+   "size": null,
+   "deal": "2 gratis bijkjes bij 1 multipack",
+   "price": null,
+   "normalPrice": null,
+   "note": "Alleen online - OP=OP - wo 4 nov t/m di 1 dec"
+  },
+  {
+   "product": "Coca-Cola",
+   "size": null,
+   "deal": "5+1 gratis",
+   "price": null,
+   "normalPrice": null,
+   "note": "wo 7 jan t/m di 29 dec"
+  },
+  {
+   "product": "Texels",
+   "size": null,
+   "deal": "10+2 gratis",
+   "price": null,
+   "normalPrice": null,
+   "note": "wo 4 t/m di 10 nov"
+  },
+  {
+   "product": "Texels",
+   "size": null,
+   "deal": "25% korting",
+   "price": null,
+   "normalPrice": null,
+   "note": "wo 4 t/m di 10 nov"
+  },
+  {
+   "product": "Orbea Pinot Grigio",
+   "size": null,
+   "deal": "1.00 korting",
+   "price": null,
+   "normalPrice": null,
+   "note": "wo 4 t/m di 17 nov"
+  },
+  {
+   "product": "Barton & Guestier Reserve",
+   "size": null,
+   "deal": "voor 4.99",
+   "price": 4.99,
+   "normalPrice": null,
+   "note": "wo 4 t/m di 10 nov"
+  },
+  {
+   "product": "Jopen, Uiltje, Brewdog of TwoChefs",
+   "size": null,
+   "deal": "25% korting",
+   "price": null,
+   "normalPrice": null,
+   "note": "wo 4 t/m di 10 nov"
+  },
+  {
+   "product": "Alpaca",
+   "size": null,
+   "deal": "voor 3.75",
+   "price": 3.75,
+   "normalPrice": null,
+   "note": "wo 4 t/m di 10 nov"
+  },
+  {
+   "product": "Pils van Alfa, Warsteiner, Stella Artois of Corona",
+   "size": null,
+   "deal": "25% korting",
+   "price": null,
+   "normalPrice": null,
+   "note": "wo 4 t/m di 10 nov"
+  },
+  {
+   "product": "Primitivo wijn",
+   "size": null,
+   "deal": "25% korting",
+   "price": null,
+   "normalPrice": null,
+   "note": "wo 4 t/m di 10 nov"
+  },
+  {
+   "product": "Hartsvelt",
+   "size": null,
+   "deal": "voor 12.49",
+   "price": 12.49,
+   "normalPrice": null,
+   "note": "Alleen in de slijterij - wo 4 t/m di 10 nov"
+  },
+  {
+   "product": "Glen Talloch whisky, Esbjærg vodka of Old Captain rum",
+   "size": null,
+   "deal": "5.00 korting",
+   "price": null,
+   "normalPrice": null,
+   "note": "Alleen in de slijterij - wo 4 t/m di 10 nov"
+  },
+  {
+   "product": "Heineken 0.0",
+   "size": null,
+   "deal": "voor 18.99",
+   "price": 18.99,
+   "normalPrice": null,
+   "note": "Alleen online - wo 21 jan t/m di 1 dec"
+  },
+  {
+   "product": "Amstel",
+   "size": null,
+   "deal": "voor 18.99",
+   "price": 18.99,
+   "normalPrice": null,
+   "note": "Alleen online - wo 21 jan t/m di 1 dec"
+  },
+  {
+   "product": "Heineken",
+   "size": null,
+   "deal": "voor 19.99",
+   "price": 19.99,
+   "normalPrice": null,
+   "note": "Alleen online - do 1 jan t/"
+  },
+  {
+   "product": "Hertog Jan",
+   "size": "24 x 330ml",
+   "deal": "Alleen online",
+   "price": 23.99,
+   "normalPrice": null,
+   "note": "do 1 jan t/m di 1 dec"
+  },
+  {
+   "product": "Tray Grolsch pils blik",
+   "size": null,
+   "deal": "Alleen online",
+   "price": 17.99,
+   "normalPrice": null,
+   "note": "wo 20 jun t/m di 1 dec"
+  },
+  {
+   "product": "Alle iglo visticks",
+   "size": null,
+   "deal": "25% korting",
+   "price": null,
+   "normalPrice": null,
+   "note": "wo 4 t/m di 10 nov"
+  },
+  {
+   "product": "Dove, Axe, Rexona of Vaseline",
+   "size": null,
+   "deal": "1+1 gratis",
+   "price": null,
+   "normalPrice": null,
+   "note": "wo 4 t/m di 17 nov"
+  },
+  {
+   "product": "Alle Sanex of Palmolive",
+   "size": null,
+   "deal": "1+1 gratis",
+   "price": null,
+   "normalPrice": null,
+   "note": "wo 4 t/m di 17 nov"
+  },
+  {
+   "product": "Colgate of Listerine",
+   "size": null,
+   "deal": "1+1 gratis",
+   "price": null,
+   "normalPrice": null,
+   "note": "wo 4 t/m di 17 nov"
+  },
+  {
+   "product": "Alle Head & Shoulders of Borotalco",
+   "size": null,
+   "deal": "1+1 gratis",
+   "price": null,
+   "normalPrice": null,
+   "note": "wo 4 t/m di 17 nov"
+  },
+  {
+   "product": "Alle Elvive, Loving Blends of Studio Line",
+   "size": null,
+   "deal": "1+1 gratis",
+   "price": null,
+   "normalPrice": null,
+   "note": "wo 4 t/m di 17 nov"
+  },
+  {
+   "product": "Oral-B",
+   "size": null,
+   "deal": "1+1 gratis",
+   "price": null,
+   "normalPrice": null,
+   "note": "wo 4 t/m di 17 nov"
+  },
+  {
+   "product": "Alle Valdispert, Shiepz, Isla, Nisita of A.Vogel Echinaforce",
+   "size": null,
+   "deal": "2e halve prijs",
+   "price": null,
+   "normalPrice": null,
+   "note": "wo 4 t/m di 17 nov"
+  },
+  {
+   "product": "Alle Taft of Got2B",
+   "size": null,
+   "deal": "1+1 gratis",
+   "price": null,
+   "normalPrice": null,
+   "note": "wo 4 t/m di 17 nov"
+  },
+  {
+   "product": "Alle Always",
+   "size": null,
+   "deal": "5 voor 9,99",
+   "price": null,
+   "normalPrice": null,
+   "note": "wo 4 t/m di 10 nov"
+  },
+  {
+   "product": "Alle Always",
+   "size": null,
+   "deal": null,
+   "price": 9.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Alle Nutrilon",
+   "size": null,
+   "deal": "2 voor 27,99",
+   "price": null,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Alle Pampers",
+   "size": null,
+   "deal": "3+1 gratis",
+   "price": null,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Alle Pampers Swaddlers",
+   "size": null,
+   "deal": "2+2 gratis",
+   "price": null,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Alle Johnson's",
+   "size": null,
+   "deal": "1+1 gratis",
+   "price": null,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Alle Little Steps, Nestlé baby of kids, De kleine Keuken,...",
+   "size": null,
+   "deal": "2e halve prijs",
+   "price": null,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Alle snackboxen Catisfactions of Pedigree Megabox",
+   "size": null,
+   "deal": null,
+   "price": 9.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Alle Sun vaatwastabletten of capsules",
+   "size": null,
+   "deal": "1+1 gratis",
+   "price": null,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Alle Dreft",
+   "size": null,
+   "deal": "1+1 gratis",
+   "price": null,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Alle Marcel's Green Soap of Dubro",
+   "size": null,
+   "deal": "1+1 gratis",
+   "price": null,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Alle Lenor wasverzachter, geurparels of wasmiddel",
+   "size": null,
+   "deal": "1+1 gratis",
+   "price": null,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Alle Robijn wasverzachter of wasperfum",
+   "size": null,
+   "deal": "1+1 gratis",
+   "price": null,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Ariel Pods of The Big One",
+   "size": null,
+   "deal": "1+2 gratis",
+   "price": null,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Robijn, Glorix of Sun",
+   "size": null,
+   "deal": "50% korting",
+   "price": null,
+   "normalPrice": null,
+   "note": "Alleen online"
+  },
+  {
+   "product": "Neutral",
+   "size": null,
+   "deal": "30% korting",
+   "price": null,
+   "normalPrice": null,
+   "note": "Alleen online"
+  },
+  {
+   "product": "Alle Lenor wasverzachter, geurparpels of Ariel",
+   "size": null,
+   "deal": "1+1 gratis",
+   "price": null,
+   "normalPrice": null,
+   "note": "wo 4 t/m di 17 nov"
+  },
+  {
+   "product": "Tefal x HEMA hapjes- of koekenpan",
+   "size": null,
+   "deal": "30% korting",
+   "price": null,
+   "normalPrice": null,
+   "note": "wo 4 t/m di 17 nov"
+  },
+  {
+   "product": "HEMA sfeerlichtten",
+   "size": null,
+   "deal": "1+1 gratis",
+   "price": null,
+   "normalPrice": null,
+   "note": "wo 4 t/m di 17 nov"
+  },
+  {
+   "product": "HEMA handdoeken",
+   "size": null,
+   "deal": "2+1 gratis",
+   "price": null,
+   "normalPrice": null,
+   "note": "wo 4 t/m di 17 nov"
+  },
+  {
+   "product": "Welke biermerken zijn bij jouw Jumbo in de aanbieding?",
+   "size": null,
+   "deal": "2e halve prijs",
+   "price": null,
+   "normalPrice": null,
+   "note": "wo 4 feb t/m wo 30 dec"
+  }
+ ]
+}
