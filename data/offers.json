@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-06T12:22:28.927Z",
+ "generated": "2026-11-07T11:15:32.337Z",
  "shops": {
   "hoogvliet": {
    "name": "Hoogvliet",
@@ -2212,7 +2212,7 @@
      "normalPrice": null,
      "note": null,
      "products": [
-      "jumbo-ijsbergsla-1-stuk-129391STK",
+      "jumbo-ijsbergsla-1-stuk-221138STK",
       "jumbo-ijsbergsla-melange-100-g-790878ZK"
      ]
     },
@@ -2288,8 +2288,7 @@
      "normalPrice": null,
      "note": null,
      "products": [
-      "jumbo-mandarijnen-1-kg-752487NET",
-      "jumbo-mandarijnen-groot-1,5-kg-762716NET"
+      "jumbo-mandarijnen-1-kg-752487NET"
      ]
     },
     {
@@ -2377,8 +2376,8 @@
      "products": [
       "jumbo-s-verse-soep-bospaddenstoel-truffelsmaak-500-g-723700EM",
       "jumbo-s-verse-soep-indiase-stijl-linzen-500-g-730199BKR",
+      "jumbo-s-verse-soep-mosterd-spekjes-500-g-723669EM",
       "jumbo-s-verse-soep-oosterse-stijl-pompoen-500-g-729880BKR",
-      "jumbo-s-verse-soep-tom-kha-kai-500-g-729882EM",
       "jumbo-s-verse-soep-tomaat-basilicum-500-g-729881BKR",
       "jumbo-verse-soep-champignon-creme-500-g-729336BKR",
       "jumbo-verse-soep-chinese-tomaat-met-kip-500-g-729334BAK",
@@ -2408,7 +2407,7 @@
       "inproba-gehakte-knoflook-200-g-79839FLS",
       "jumbo-gehakt-extra-mager-rund-300-g-771112TRA",
       "jumbo-gehakte-spinazie-450-g-766199ZK",
-      "jumbo-gehakte-spinazie-voordeelverpakking-750-g-713747ZK",
+      "jumbo-gehakte-spinazie-800-g-766252ZK",
       "redefine-gehakt-250-g-693102STK"
      ]
     },
@@ -2420,15 +2419,17 @@
      "normalPrice": null,
      "note": "wo 4 t/m di 10 nov",
      "products": [
+      "jumbo-biologische-zalmfilet-met-huid-175-g-782942TRA",
       "jumbo-wilde-zalmfilet-2-x-125-g-76159PAK",
       "jumbo-zalmfilet-met-huid-2-x-125-g-723226DS",
       "jumbo-zalmfilet-met-huid-4-x-125-g-723101STK",
+      "jumbo-zalmfilet-met-huid-naturel-270-g-715172STK",
+      "jumbo-zalmfilet-met-huid-naturel-360-g-715170STK",
       "jumbo-zalmfilet-met-huid-naturel-500-g-769823TRA",
       "jumbo-zalmfilet-met-huid-naturel-ca-125-g-715171STK",
-      "jumbo-zalmfilet-met-huid-naturel-ca-270-g-715172STK",
-      "jumbo-zalmfilet-met-huid-naturel-ca-360-g-715170STK",
-      "jumbo-zalmfilet-zonder-huid-naturel-230-g-715166STK",
-      "jumbo-zalmfilet-zonder-huid-naturel-ca-160-g-715173STK"
+      "jumbo-zalmfilet-warmgerookt-125-g-681123STK",
+      "jumbo-zalmfilet-zonder-huid-naturel-160-g-715173STK",
+      "jumbo-zalmfilet-zonder-huid-naturel-230-g-715166STK"
      ]
     },
     {
@@ -2463,7 +2464,6 @@
      "normalPrice": null,
      "note": "wo 7 jan t/m di 1 dec",
      "products": [
-      "beckers-hamburgers-12-stuks-670188DS",
       "beckers-hamburgers-4-stuks-670483DS",
       "jumbo-hamburger-broodjes-4-stuks-705337ZK",
       "jumbo-hamburgers-12-stuks-772784DS",
@@ -2534,6 +2534,7 @@
       "lavazza-crema-e-gusto-koffiebonen-1-kg-155960ZK",
       "marsigny-cremant-de-bourgogne-brut-750-ml-96790FLS",
       "mengazolli-crema-di-balsamico-truffel-681364FLS",
+      "nescafe-crema-instant-koffie-100-g-201098POT",
       "red-band-juicy-bites-blue-berries-145-g-544331ZK"
      ]
     },
@@ -2586,6 +2587,7 @@
      "normalPrice": null,
      "note": null,
      "products": [
+      "hipro-bar-chocolade-45-g-787745STK",
       "hipro-protein-drink-banaan-300-ml-607868FLS",
       "hipro-protein-drink-bosbes-300-ml-585526FLS",
       "hipro-protein-drink-framboos-aardbei-300ml-433886DSL",
@@ -2706,8 +2708,6 @@
      "note": null,
      "products": [
       "jumbo-ansjovis-filets-in-olijfolie-46-g-717189BLK",
-      "jumbo-eendenborst-filet-ca-100-g-457584KGR",
-      "jumbo-eendenborst-filet-ca-220-g-457587KGR",
       "jumbo-filet-a-la-minute-gemarineerd-kip-ca-230-g-635915KGR",
       "jumbo-filet-americain-3-x-35-g-294765ZK",
       "jumbo-filet-americain-carpaccio-150-g-141853BAK",
@@ -2727,13 +2727,18 @@
       "jumbo-filet-de-saxe-ca-100-g-214904KGR",
       "jumbo-koolvis-filet-400-g-713748DS",
       "jumbo-pate-met-eend-adult-100-g-789903CUP",
+      "jumbo-pate-met-fazant-ca-125-g-768209KGR",
+      "jumbo-pate-met-gekonfijte-uitjes-ca-140-g-381019KGR",
+      "jumbo-pate-met-haas-rijke-wildsmaak-ca-125-g-768210KGR",
+      "jumbo-pate-met-ree-lichte-wildsmaak-ca-125-g-768208KGR",
+      "jumbo-pate-met-rund-adult-100-g-777271ZK",
+      "jumbo-pate-wildzijn-cranberry-ca-125-g-768206KGR",
       "jumbo-roompate-en-filet-americain-441118STK",
       "jumbo-scharrelkip-filet-ca-415g-596700KGR",
       "jumbo-scharrelkip-filet-gemarineerd-2-stuks-596716KGR",
       "jumbo-vegetarische-filet-americain-175-g-719274TRA",
       "jumbo-vegetarische-filet-americain-peper-175-g-719273TRA",
       "jumbo-wilde-zalm-filet-675-g-487780ZK",
-      "sheba-in-pate-met-zalm-22-x-85-g-190659DSL",
       "sheba-in-pate-met-zalm-85-g-190659CUP"
      ]
     },
@@ -2800,6 +2805,7 @@
       "john-west-ansjovis-in-olijfolie-95g-648620POT",
       "john-west-haringfilets-in-tomatensaus-170g-181090STK",
       "john-west-horsmakreel-tomaat-msc-115-g-761538BLK",
+      "john-west-kabeljauwlever-in-eigen-olie-msc-120-gram-144388BLK",
       "john-west-plantaardige-tonijn-ovengedroogde-tomaat-85-g-736431ZK",
       "john-west-protein-bowl-tonijn-bonen-msc-220-g-648623DS",
       "john-west-protein-bowl-tonijn-quinoa-msc-220-g-648589DS",
@@ -2807,6 +2813,7 @@
       "john-west-protein-tonijnmoot-vleugje-water-120-g-648624BLK",
       "john-west-sardines-in-olie-120g-529150BLK",
       "john-west-sardines-in-olijfolie-120g-529151BLK",
+      "john-west-sardines-in-tomatensaus-135-g-529153BLK",
       "john-west-tonijn-twist-met-franse-dressing-85g-421556ZK",
       "john-west-tonijn-twist-met-honing-mosterd-85g-421505ZK",
       "john-west-tonijn-twist-met-ovengedroogde-tomaten-en-kruidendressing-85g-421555ZK",
@@ -2825,7 +2832,6 @@
       "john-west-tonijnstukken-met-groenten-in-pikante-tomatensaus-150g-366953BLK",
       "john-west-wilde-rode-zalm-105g-305328BLK",
       "john-west-wilde-rode-zalm-213g-305327BLK",
-      "john-west-wilde-roze-zalm-213g-305323BLK",
       "john-west-wilde-roze-zalm-418g-305324BLK",
       "john-west-wilde-roze-zalm-zonder-vel-en-graat-170g-305325BLK",
       "john-west-zalmpate-125g-844489BLK"
@@ -2986,6 +2992,7 @@
      "products": [
       "lindor-chocoladetablet-wit-100-gram-779439RP",
       "lindt-lindor-chocolade-70-cacao-100-g-585002DS",
+      "lindt-lindor-cornet-pistachio-200g-745672DS",
       "lindt-lindor-donker-70-cacao-bonbons-200-g-709385DS",
       "lindt-lindor-gemengde-chocolade-bonbons-200-gram-396087DS",
       "lindt-lindor-melkchocolade-bonbons-200-g-396086DS",
@@ -3059,6 +3066,7 @@
       "haribo-super-party-uitdeelzakjes-480-g-565757ZK",
       "haribo-sweet-mix-250-g-715349ZK",
       "haribo-tangfastics-250-g-213215STK",
+      "haribo-trick-or-treat-uitdeelzakjes-512-g-377887ZK",
       "haribo-zoute-rijen-175-g-370012ZK"
      ]
     },
@@ -3091,7 +3099,6 @@
       "smaakt-bio-jong-jackfruit-400-g-623854POT",
       "smaakt-bio-mango-reepjes-250-g-491259ZK",
       "smaakt-bio-tomatensap-750-ml-624053FLS",
-      "smaakt-bio-volkoren-havervlokken-500-g-626468ZK",
       "smaakt-bio-wijnsteenbakpoeder-150-g-624001POT",
       "smaakt-bio-zuurkool-gember-kurkuma-350-g-623941POT",
       "smaakt-biologische-haverzemelen-500-g-464814STK",
@@ -3133,15 +3140,15 @@
      "products": [
       "sultana-crunchers-kaas-ui-5x3-stuks-672362PAK",
       "sultana-crunchers-tomaat-kaas-5x3-stuks-672339PAK",
+      "sultana-fruitbiscuit-aardbei-appel-30-minder-suiker-koek-5x3-stuks-743035PAK",
       "sultana-fruitbiscuit-appel-koek-5x3-stuks-672336PAK",
       "sultana-fruitbiscuit-appel-voordeelpak-koek-7x3-stuks-547702PAK",
+      "sultana-fruitbiscuit-banaan-appel-30-minder-suiker-koek-5x3-stuks-743034PAK",
       "sultana-fruitbiscuit-bosvruchten-koek-5x3-stuks-672335PAK",
       "sultana-fruitbiscuit-naturel-koek-5x3-stuks-672797PAK",
       "sultana-fruitbiscuit-naturel-voordeelpak-koek-7x3-stuks-547707PAK",
-      "sultana-fruitbiscuits-aardbei-appel-30-minder-suiker-koek-5x3-stuks-743035PAK",
-      "sultana-fruitbiscuits-banaan-appel-30-minder-suiker-koek-5x3-stuks-743034PAK",
+      "sultana-fruitbiscuit-tropical-koek-5x3-stuks-763167PAK",
       "sultana-fruitbiscuits-bosvruchten-523-g-673003PAK",
-      "sultana-fruitbiscuits-mangopassievrucht-218-g-763167PAK",
       "sultana-havermoutsticks-chocolade-5x2-stuks-610227DS",
       "sultana-havermoutsticks-naturel-5x2-stuks-610226DS",
       "sultana-knapperige-biscuit-kaneel-5x3-stuks-672333PAK",
@@ -3166,6 +3173,7 @@
      "products": [
       "duyvis-borrelnootjes-cheetos-chipito-200-g-760305ZK",
       "duyvis-borrelnootjes-cocktail-pinda-noten-125-gr-201430STK",
+      "duyvis-borrelnootjes-cocktail-pinda-noten-12x125-gr-201430DSL",
       "duyvis-borrelnootjes-cocktail-pinda-noten-275-gr-354722ZK",
       "duyvis-borrelnootjes-cocktail-pinda-noten-450-gr-711680ZK",
       "duyvis-borrelnootjes-doritos-sweet-chilli-pepper-200-g-760303ZK",
@@ -3200,12 +3208,13 @@
      "products": [
       "jumbo-appel-rondo-koeken-6-stuks-300887PAK",
       "jumbo-appelkruimel-koeken-met-roomboter-300-g-192779PAK",
-      "jumbo-gevulde-koek-gluten-vrij-60-g-336478PAK",
       "jumbo-gevulde-koeken-met-roomboter-400-g-543216TRA",
       "jumbo-kokoskransen-koeken-6-stuks-292080STK",
-      "jumbo-lekker-vrij-van-gluten-roze-koek-50-g-741981TRA",
+      "jumbo-lekker-vrij-van-gluten-gevulde-koek-60-g-336478PAK",
       "jumbo-mini-gevulde-koeken-met-roomboter-270-g-468323TRA",
+      "jumbo-mini-roze-koek-6-stuks-605499PAK",
       "jumbo-pinda-koeken-met-melkchocolade-200-g-571808TRA",
+      "jumbo-roze-koek-6-stuks-605501PAK",
       "jumbo-taai-koeken-ambachtelijk-250-g-184380ZK"
      ]
     },
@@ -3241,35 +3250,35 @@
      "normalPrice": null,
      "note": "Alleen online, wo 4 nov t/m di 1 dec",
      "products": [
-      "nescafe-dolce-gusto-cafe-au-lait-16-koffiecapsules-74807STK",
-      "nescafe-dolce-gusto-cafe-au-lait-3-x-16-koffiecups-74807DSL",
-      "nescafe-dolce-gusto-cafe-au-lait-30-koffiecapsules-176053DS",
+      "nescafe-dolce-gusto-cafe-au-lait-16-capsules-160-gr-74807STK",
+      "nescafe-dolce-gusto-cafe-au-lait-capsules-3-x-16-koffiecups-74807DSL",
       "nescafe-dolce-gusto-caffe-lungo-intenso-3-x-16-koffiecups-128202DSL",
       "nescafe-dolce-gusto-cappuccino-3-x-16-stuks-201096DSL",
       "nescafe-dolce-gusto-cappuccino-3-x-30-koffiecapsules-201095DSL",
       "nescafe-dolce-gusto-cappuccino-30-koffiecapsules-201095DS",
       "nescafe-dolce-gusto-cappuccino-koffiecups-16-capsules-1864-gram-doos-201096DS",
-      "nescafe-dolce-gusto-caramel-macchiato-16-koffiecups-352864DS",
+      "nescafe-dolce-gusto-caramel-macchiato-16-capsules-146-gr-352864DS",
       "nescafe-dolce-gusto-caramel-macchiato-3-x-8-stuks-352864DSL",
       "nescafe-dolce-gusto-cortado-16-koffiecups-92258DS",
       "nescafe-dolce-gusto-cortado-koffiecups-30-capsules-189g-212672STK",
-      "nescafe-dolce-gusto-espresso-intenso-30-koffiecups-236855STK",
-      "nescafe-dolce-gusto-flat-white-16-koffiecups-275918STK",
+      "nescafe-dolce-gusto-flat-white-16-capsules-187,2-gr-275918STK",
       "nescafe-dolce-gusto-grande-3-x-16-koffiecapsules-38991DSL",
-      "nescafe-dolce-gusto-grande-30-koffiecups-176054DS",
       "nescafe-dolce-gusto-iced-frappe-16-koffiecups-745638DS",
+      "nescafe-dolce-gusto-koffiecapsules-cafe-au-lait-30-cups-300-gr-176053DS",
       "nescafe-dolce-gusto-koffiecapsules-espresso-intenso-16-cups-112-gr-236854STK",
+      "nescafe-dolce-gusto-koffiecapsules-espresso-intenso-30-cups-210-gr-236855STK",
       "nescafe-dolce-gusto-koffiecapsules-grande-16-cups-136-gr-38991DS",
+      "nescafe-dolce-gusto-koffiecapsules-grande-30-cups-255-gr-176054DS",
       "nescafe-dolce-gusto-koffiecapsules-lungo-16-cups-896-gr-352848DS",
+      "nescafe-dolce-gusto-koffiecapsules-lungo-16-cups-896-gr-47400PAK",
+      "nescafe-dolce-gusto-koffiecapsules-lungo-intenso-16-cups-144-gr-128202DS",
       "nescafe-dolce-gusto-latte-latte-macchiato-30-koffiecups-372101DS",
       "nescafe-dolce-gusto-latte-macchiato-16-koffiecups-352849DS",
       "nescafe-dolce-gusto-latte-macchiato-capsules-3-x-16-koffiecups-352849DSL",
       "nescafe-dolce-gusto-latte-macchiatto-caramel-30-koffiecups-691952DS",
       "nescafe-dolce-gusto-lungo-3-x-30-koffiecups-352850DSL",
       "nescafe-dolce-gusto-lungo-30-koffiecups-352850DS",
-      "nescafe-dolce-gusto-lungo-caffeinevrij-16-koffiecups-47400PAK",
-      "nescafe-dolce-gusto-lungo-intenso-16-koffiecups-128202DS",
-      "nescafe-dolce-gusto-nesquik-16-koffiecups-67193PAK",
+      "nescafe-dolce-gusto-nesquik-16-capsules-256-gr-67193PAK",
       "nescafe-dolce-gusto-verwen-koffie-cups-3-x-16-stuks-454688STK",
       "nescafe-dolce-gusto-vitality-blend-12-stuks-781004DS",
       "starbucks-by-nescafe-dolce-gusto-cappuccino-12-koffiecups-233339STK",
@@ -3362,12 +3371,12 @@
       "fuze-tea-green-iced-tea-mango-chamomile-1,25-l-428482FLS",
       "fuze-tea-green-iced-tea-mango-chamomile-1,5-l-196447PAK",
       "fuze-tea-green-tea-tropical-passionfruit-taste-400-ml-740468FLS",
+      "fuze-tea-green-tropical-passionfruit-taste-1,25-l-740550FLS",
       "fuze-tea-infused-green-tea-frisdrank-400-ml-557604FLS",
       "fuze-tea-infused-iced-green-tea-12-x-400-ml-557604PKL",
       "fuze-tea-infused-iced-tea-black-tea-peach-hibiscus-4-x-250-ml-533231TRA",
       "fuze-tea-infused-mango-chamomile-4-x-250-ml-533230TRA",
       "fuze-tea-infused-mango-chamomile-with-green-tea-400-ml-432258FLS",
-      "fuze-tea-sparkling-black-tea-1,25-l-740550FLS",
       "fuze-tea-sparkling-lemon-black-tea-1,25-l-428476FLS",
       "fuze-tea-tropical-passionfruit-taste-with-green-tea-extract-1,5-l-754235PAK"
      ]
@@ -3481,9 +3490,8 @@
      "note": "wo 4 t/m di 10 nov",
      "products": [
       "brewdog-elvis-juice-ipa-blik-330ml-539102BLK",
+      "brewdog-hazy-jane-new-england-ipa-bier-blik-330ml-791128BLK",
       "brewdog-punk-ipa-alcoholvrij-05-blik-330ml-539095BLK",
-      "brewdog-punk-ipa-blik-330ml-539106BLK",
-      "brewdog-wingman-session-ipa-bier-blik-330-ml-604150BLK",
       "jopen-4-granen-bokbier-blik-330ml-634865BLK",
       "jopen-adriaan-wit-330ml-733499BLK",
       "jopen-blond-bio-craft-beer-organic-blik-330ml-603601BLK",
@@ -3504,7 +3512,6 @@
       "uiltje-bird-of-prey-non-alcoholic-0,2-ipa-bier-blik-330-ml-606438BLK",
       "uiltje-blond-blik-330ml-615239BLK",
       "uiltje-boogey-bockman-bier-blik-330-ml-771265BLK",
-      "uiltje-chai-lama-tripel-330ml-731442BLK",
       "uiltje-juicy-lucy-02-neipa-bier-blik-330-ml-740885BLK",
       "uiltje-juicy-lucy-330ml-715738BLK",
       "uiltje-neipa-gele-rakker-blik-330ml-584599BLK",
@@ -3769,6 +3776,7 @@
      "products": [
       "borotalco-deodorant-invisible-spray-150-ml-767179BUS",
       "borotalco-deodorant-original-spray-150-ml-767178BUS",
+      "borotalco-intensive-deo-roller-50ml-780763FLS",
       "borotalco-intensive-deo-spray-150ml-780761BUS",
       "borotalco-original-deo-roller-50ml-780762FLS",
       "borotalco-soft-deo-spray-150ml-768372BUS",
@@ -3982,7 +3990,10 @@
      "deal": null,
      "price": 9.99,
      "normalPrice": null,
-     "note": null
+     "note": null,
+     "products": [
+      "pedigree-megabox-rodeo-jumbone-780g-628745DS"
+     ]
     },
     {
      "product": "Alle Sun vaatwastabletten of capsules",
@@ -4039,7 +4050,49 @@
      "deal": "1+1 gratis",
      "price": null,
      "normalPrice": null,
-     "note": null
+     "note": null,
+     "products": [
+      "dubro-antikalk-hygiene-spray-650ml-631884FLS",
+      "dubro-badkamer-reiniger-spray-650ml-631883FLS",
+      "dubro-geconcentreerd-afwasmiddel-limoen-550ml-369820FLS",
+      "dubro-geconcentreerd-afwasmiddel-original-citroen-550ml-197490STK",
+      "dubro-hygiene-ontvetter-doekjes-80-stuks-723011PAK",
+      "dubro-keuken-ontvetter-650-ml-631888FLS",
+      "dubro-multi-ontvetter-650-ml-631882FLS",
+      "dubro-multi-ontvetter-doekjes-80-stuks-723012PAK",
+      "dubro-snel-ontkalker-500ml-178011FLS",
+      "marcel-s-green-soap-alles-in-een-vaatwastabletten-25st-533421DS",
+      "marcel-s-green-soap-allesreiniger-sinaasappel-jasmijn-750ml-533420FLS",
+      "marcel-s-green-soap-allesreiniger-spray-lavendel-kruidnagel-500-ml-621673FLS",
+      "marcel-s-green-soap-allesreiniger-spray-sandalwood-cardamom-refill-pack-500-ml-618597FLS",
+      "marcel-s-green-soap-allesreiniger-spray-sandelhout-kardemom-500ml-533399FLS",
+      "marcel-s-green-soap-douchegel-ceder-granaatappel-300-ml-759266FLS",
+      "marcel-s-green-soap-glazen-fles-handzeep-500-ml-746310FLS",
+      "marcel-s-green-soap-handzeep-ceder-granaatappel-navulling-500-ml-759271ZK",
+      "marcel-s-green-soap-handzeep-sandelhout-kardemom-250ml-367545FLS",
+      "marcel-s-green-soap-handzeep-vanilla-amber-navulling-500-ml-759263ZK",
+      "marcel-s-green-soap-lavender-rosemary-handsoap-250-ml-367544FLS",
+      "marcel-s-green-soap-orange-jasmine-afwasmiddel-refill-pack-500-ml-618590FLS",
+      "marcel-s-green-soap-orange-jasmine-handsoap-250-ml-616665FLS",
+      "marcel-s-green-soap-orange-jasmine-handzeep-refill-pack-500-ml-616693ZK",
+      "marcel-s-green-soap-sandalwood-cardamom-allesreiniger-750-ml-618598FLS",
+      "marcel-s-green-soap-shampoo-vanilla-amber-elke-dag-300-ml-786143FLS",
+      "marcel-s-green-soap-showergel-argan-oudh-300-ml-759268FLS",
+      "marcel-s-green-soap-showergel-argan-oudh-navulling-500-ml-759287ZK",
+      "marcel-s-green-soap-showergel-vanille-amber-300-ml-759267FLS",
+      "marcel-s-green-soap-toiletreiniger-sinaasappel-jasmijn-750ml-757882FLS",
+      "marcel-s-green-soap-universeel-wasmiddel-patchouli-cranberry-23-wasbeurten-565281FLS",
+      "marcel-s-green-soap-universeel-wasmiddel-perzik-jasmijn-23-wasbeurten-562961FLS",
+      "marcel-s-green-soap-universeel-wasmiddel-vanille-katoen-23-wasbeurten-565239FLS",
+      "marcel-s-green-soap-universeel-wasmiddel-vanille-katoen-navulling-23-wasbeurten-617009ZK",
+      "marcel-s-green-soap-vaatwascapsules-alles-in-een-25-stuks-693704ZK",
+      "marcel-s-green-soap-wasverzachter-patchouli-cranberry-750ml-553609FLS",
+      "marcel-s-green-soap-wasverzachter-vanille-katoen-750ml-507466FLS",
+      "marcels-green-soap-afwasmiddel-sinaasappel-jasmijn-500ml-533422FLS",
+      "marcels-green-soap-handzeep-lavendel-rozemarijn-navulling-500ml-527695ZK",
+      "marcels-green-soap-handzeep-sandelhout-kardemom-navulling-500ml-527694ZK",
+      "marcels-green-soap-hygienische-schoonmaakdoekjes-patchouli-cranberry-60st-783339ZK"
+     ]
     },
     {
      "product": "Alle Lenor wasverzachter, geurparels of wasmiddel",
@@ -4049,6 +4102,7 @@
      "normalPrice": null,
      "note": null,
      "products": [
+      "ariel-wasmiddel-actieve-geurbescherming-25-wasbeurten-739539FLS",
       "ariel-wasmiddel-color-20-wasbeurten-761667FLS",
       "ariel-wasmiddel-color-30-wasbeurten-739534FLS",
       "ariel-wasmiddel-original-20-wasbeurten-745283FLS",
@@ -4057,9 +4111,11 @@
       "ariel-wasmiddel-touch-of-lenor-unstoppables-color-25-wasbeurten-739535FLS",
       "ariel-wasmiddel-ultra-vlekverwijdering-25-wasbeurten-739540FLS",
       "ariel-wasmiddel-zwart-bescherming-25-wasbeurten-739536FLS",
-      "lenor-fresh-air-wasverzachter-50-wasbeurten-712149FLS",
+      "lenor-fresh-air-wasverzachter-50-wasbeurten-739565FLS",
       "lenor-fresh-air-wasverzachter-50-wasbeurten-739566FLS",
       "lenor-fresh-air-wasverzachter-50-wasbeurten-739568FLS",
+      "lenor-geurparels-zeebries-155g-669930TUB",
+      "lenor-geurparels-zeebries-6-x-155-g-669930DSL",
       "lenor-vloeibaar-wasverzachter-amber-orchidee-55-wasbeurten-739563FLS",
       "lenor-vloeibaar-wasverzachter-zeebries-55-wasbeurten-739564FLS",
       "lenor-wasmiddel-vloeibaar-detergent-20-wasbeurten-zeebries-739051FLS",
@@ -4069,7 +4125,9 @@
       "robijn-wasmiddel-capsules-black-velvet-26-wasbeurten-770832DS",
       "robijn-wasmiddel-capsules-color-26-wasbeurten-770838DS",
       "robijn-wasmiddel-capsules-color-40-wasbeurten-770839DS",
-      "robijn-wasmiddel-capsules-stralend-wit-26-wasbeurten-770833BAK"
+      "robijn-wasmiddel-capsules-stralend-wit-26-wasbeurten-770833BAK",
+      "seepje-wasmiddel-universeel-945ml-bnl-781723FLS",
+      "seepje-wasmiddel-universeel-945ml-refill-pak-781722PAK"
      ]
     },
     {
@@ -4144,6 +4202,8 @@
       "neutral-vloeibaar-wasmiddel-kleur-20-wasbeurten-474844FLS",
       "neutral-vloeibaar-wasmiddel-kleur-6-x-20-wasbeurten-474844DSL",
       "neutral-vloeibaar-wasmiddel-wit-20-wasbeurten-474845FLS",
+      "neutral-vloeibaar-wasmiddel-wit-6-x-20-wasbeurten-474845DSL",
+      "neutral-vloeibaar-wasmiddel-zwart-20-wasbeurten-474843FLS",
       "neutral-vloeibaar-wasmiddel-zwart-6-x-20-wasbeurten-474843DSL",
       "neutral-vloeibare-handzeep-0-250-ml-174978STK",
       "neutral-vloeibare-handzeep-parfumvrij-6-x-250-ml-174978DSL",
@@ -4178,7 +4238,7 @@
       "ariel-all-in-1-pods-wasmiddel-unstoppable-kleur-15-wasbeurten-739546DS",
       "ariel-the-big-one-pods-15-original-678180DS",
       "ariel-the-big-one-pods-15-stralende-kleuren-678181DS",
-      "ariel-vloeibaar-wasmiddel-actief-20-wasbeurten-669600FLS",
+      "ariel-wasmiddel-actieve-geurbescherming-25-wasbeurten-739539FLS",
       "ariel-wasmiddel-color-20-wasbeurten-761667FLS",
       "ariel-wasmiddel-color-30-wasbeurten-739534FLS",
       "ariel-wasmiddel-original-20-wasbeurten-745283FLS",
@@ -4189,7 +4249,7 @@
       "ariel-wasmiddel-zwart-bescherming-25-wasbeurten-739536FLS",
       "ariel-waspoeder-color-style-125kg-25-wasbeurten-739530DS",
       "ariel-waspoeder-original-125kg-25-wasbeurten-739531DS",
-      "lenor-fresh-air-wasverzachter-50-wasbeurten-712149FLS",
+      "lenor-fresh-air-wasverzachter-50-wasbeurten-739565FLS",
       "lenor-fresh-air-wasverzachter-50-wasbeurten-739566FLS",
       "lenor-fresh-air-wasverzachter-50-wasbeurten-739568FLS",
       "lenor-vloeibaar-wasverzachter-amber-orchidee-55-wasbeurten-739563FLS",
@@ -4206,6 +4266,7 @@
      "note": "wo 4 t/m di 17 nov",
      "products": [
       "hema-koekenpan-20-cm-679989STK",
+      "hema-koekenpan-24cm-tefal-x-hema-778128STK",
       "hema-koekenpan-28cm-tefal-x-hema-778085STK"
      ]
     },
