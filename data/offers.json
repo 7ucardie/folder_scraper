@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-07T11:15:32.337Z",
+ "generated": "2026-11-08T11:27:29.593Z",
  "shops": {
   "hoogvliet": {
    "name": "Hoogvliet",
@@ -5576,10 +5576,10 @@
    "name": "Aldi",
    "ok": true,
    "source": "https://www.aldi.nl/aanbiedingen.html",
-   "scraped": "2026-11-04",
+   "scraped": "2026-11-08",
    "validFrom": null,
-   "validUntil": "2026-11-07",
-   "validUntilGuessed": false,
+   "validUntil": "2026-11-14",
+   "validUntilGuessed": true,
    "pages": 32,
    "offers": [
     {
@@ -5627,7 +5627,7 @@
      "size": "400 g",
      "deal": null,
      "price": 1.49,
-     "normalPrice": null,
+     "normalPrice": 3.73,
      "note": null
     },
     {
@@ -5657,13 +5657,13 @@
     {
      "product": "Granaatappel",
      "size": null,
-     "deal": null,
+     "deal": "OFE-OP",
      "price": 0.99,
      "normalPrice": null,
      "note": "Per stuk"
     },
     {
-     "product": "Product",
+     "product": "1 kg",
      "size": "1 kg",
      "deal": "-15%",
      "price": 1.59,
@@ -5671,7 +5671,7 @@
      "note": null
     },
     {
-     "product": "Product",
+     "product": "300 g",
      "size": "300 g",
      "deal": "-12%",
      "price": 3.49,
@@ -5679,12 +5679,12 @@
      "note": null
     },
     {
-     "product": "Product",
+     "product": "Per stuk",
      "size": null,
      "deal": null,
      "price": 0.99,
      "normalPrice": null,
-     "note": "Per stuk"
+     "note": null
     },
     {
      "product": "Blauwe bessen",
@@ -5695,7 +5695,7 @@
      "note": null
     },
     {
-     "product": "Product gehakt",
+     "product": "gehakt",
      "size": "500 g",
      "deal": "-13%",
      "price": 3.99,
@@ -5715,11 +5715,11 @@
      "size": "500 g",
      "deal": null,
      "price": 4.99,
-     "normalPrice": 7.98,
+     "normalPrice": null,
      "note": null
     },
     {
-     "product": "Verse worstjes",
+     "product": "Fris gewogen uit kraam raclette smakelijk",
      "size": null,
      "deal": "14% GOEDKOPER",
      "price": 5.99,
@@ -5727,7 +5727,15 @@
      "note": null
     },
     {
-     "product": "Kipfiletblokjes",
+     "product": "Verse worst",
+     "size": "2 stuks, 1 kg",
+     "deal": null,
+     "price": 5.99,
+     "normalPrice": null,
+     "note": null
+    },
+    {
+     "product": "Kipsaté",
      "size": "4 stuks, 500 g",
      "deal": null,
      "price": 4.99,
@@ -5743,47 +5751,39 @@
      "note": null
     },
     {
-     "product": "Goudse kaas jong belegen 48+ stuk",
+     "product": "Goudse kaas jong belegen",
      "size": "350 g",
-     "deal": null,
-     "price": 5.49,
-     "normalPrice": 8.16,
-     "note": "-32%"
-    },
-    {
-     "product": "Goudse kaas belegen",
-     "size": "350 g",
-     "deal": null,
+     "deal": "OP=OP",
      "price": 3.49,
      "normalPrice": null,
-     "note": "OP=OP"
+     "note": null
     },
     {
      "product": "Leverworst",
      "size": "1 kg",
-     "deal": null,
+     "deal": "OP=OP",
      "price": 1.99,
      "normalPrice": null,
-     "note": "OP=OP"
+     "note": null
     },
     {
      "product": "Roasted pork",
      "size": "100 g",
-     "deal": null,
+     "deal": "OP=OP",
      "price": 1.59,
      "normalPrice": 1.85,
-     "note": "OP=OP"
+     "note": null
     },
     {
-     "product": "CURRYSTAR Curryworst in pittie curry-ketchup",
-     "size": "460 g",
-     "deal": null,
+     "product": "CURRYSTAR Curryworst in pittje curry-ketchup",
+     "size": "400 g",
+     "deal": "OP=OP",
      "price": 1.79,
      "normalPrice": null,
-     "note": "OP=OP"
+     "note": null
     },
     {
-     "product": "3-vaks Huismerk maaltijd",
+     "product": "3-vaks Hamburger maaltijd",
      "size": "500 g",
      "deal": "-19%",
      "price": 3.69,
@@ -5791,8 +5791,8 @@
      "note": null
     },
     {
-     "product": "Extra vez volkorenbrood",
-     "size": "1 kg",
+     "product": "Extra vez volkorenmeel",
+     "size": "1 kgeel",
      "deal": "-17%",
      "price": 1.89,
      "normalPrice": 2.29,
@@ -5804,15 +5804,15 @@
      "deal": "-15%",
      "price": 1.69,
      "normalPrice": 1.99,
-     "note": null
+     "note": "DO IT ORGANIC"
     },
     {
      "product": "Gerookte hotdogworsten XXL",
-     "size": "4 stuks, 900 g",
+     "size": "4 stuks, 800 g",
      "deal": null,
      "price": 2.99,
      "normalPrice": null,
-     "note": null
+     "note": "OP=OP"
     },
     {
      "product": "Biologische Weense worstjes",
@@ -5820,47 +5820,39 @@
      "deal": null,
      "price": 3.99,
      "normalPrice": null,
-     "note": null
+     "note": "OP=OP, BIO"
     },
     {
      "product": "DO IT ORGANIC Biologische spliterwten",
      "size": "500 g",
-     "deal": "-15%",
+     "deal": null,
      "price": 1.69,
      "normalPrice": 1.99,
-     "note": null
-    },
-    {
-     "product": "Gerookte hotdogworsten XXL",
-     "size": "5 stuks, 400 g",
-     "deal": "OP=OP",
-     "price": 2.99,
-     "normalPrice": null,
-     "note": null
+     "note": "-15%"
     },
     {
      "product": "BIO Biologische Weense worstjes",
      "size": "10 stuks, 250 g",
-     "deal": "OP=OP",
+     "deal": null,
      "price": 3.99,
      "normalPrice": null,
-     "note": null
+     "note": "OP=OP"
     },
     {
-     "product": "ALMÄRE SEAFOOD Tonijn-smaak spread",
-     "size": "125-200 g",
-     "deal": "OP=OP",
+     "product": "ALMÄRE SEAFOOD Tonijn-smaak salade",
+     "size": "200 g",
+     "deal": null,
      "price": 1.79,
-     "normalPrice": null,
-     "note": null
+     "normalPrice": 2.39,
+     "note": "OP=OP"
     },
     {
      "product": "CUCINA Tapenade",
-     "size": "130-148 g",
-     "deal": "-23%",
+     "size": "135-148 g",
+     "deal": null,
      "price": 0.99,
      "normalPrice": 1.29,
-     "note": null
+     "note": "-23%"
     },
     {
      "product": "TRADER JOE'S Gedroogde dadels",
@@ -5883,11 +5875,11 @@
      "size": null,
      "deal": "-14%",
      "price": 2.99,
-     "normalPrice": 3.49,
+     "normalPrice": null,
      "note": null
     },
     {
-     "product": "HEERLIJCK BÄR Kano's",
+     "product": "HEERLIJCK BROOD Kano's",
      "size": "14 stuks, 450 g",
      "deal": "OP=OP",
      "price": 2.49,
@@ -5899,6 +5891,22 @@
      "size": "300 g",
      "deal": "OP=OP",
      "price": 1.99,
+     "normalPrice": null,
+     "note": null
+    },
+    {
+     "product": "Product",
+     "size": "642 stuks, 120 g",
+     "deal": "OP=OP",
+     "price": 1.39,
+     "normalPrice": null,
+     "note": null
+    },
+    {
+     "product": "Cereals Mix",
+     "size": "500 g",
+     "deal": "OP=OP",
+     "price": 3.39,
      "normalPrice": null,
      "note": null
     },
@@ -5920,7 +5928,7 @@
     },
     {
      "product": "TROPICAL Nata de coco",
-     "size": "250 ml",
+     "size": "330 ml",
      "deal": null,
      "price": 0.79,
      "normalPrice": null,
@@ -5943,31 +5951,31 @@
      "note": null
     },
     {
-     "product": "Rabarber/sap",
+     "product": "OP=OP",
      "size": "250 ml",
      "deal": null,
      "price": 0.79,
      "normalPrice": null,
-     "note": "OP=OP"
+     "note": null
     },
     {
-     "product": "rabarber/sap",
+     "product": "rabarber sap",
      "size": "1 L",
-     "deal": null,
+     "deal": "OP=OP",
      "price": 1.99,
      "normalPrice": null,
-     "note": "OP=OP"
+     "note": null
     },
     {
      "product": "pack",
-     "size": "6x130 ml",
+     "size": "6x1.30 ml",
      "deal": "-16%",
      "price": 2.49,
      "normalPrice": 2.99,
      "note": null
     },
     {
-     "product": "Negroamaro Maria Colli",
+     "product": "Negroamaro Maria Costanza",
      "size": "0.75 L",
      "deal": "2 VOOR",
      "price": 6,
@@ -5977,14 +5985,30 @@
     {
      "product": "El Mojón",
      "size": "0.75 L",
-     "deal": null,
+     "deal": "OP=OP",
      "price": 5.49,
      "normalPrice": null,
-     "note": "OP=OP"
+     "note": null
     },
     {
      "product": "UNA Ontkalker of reiniger",
-     "size": "225 ml-1 L",
+     "size": "225 ml; 1 L",
+     "deal": "OP=OP",
+     "price": 1.59,
+     "normalPrice": null,
+     "note": null
+    },
+    {
+     "product": "LACURA SKIN Gezichtsreinigingsboter of -olie",
+     "size": null,
+     "deal": "OP=OP",
+     "price": 3.49,
+     "normalPrice": null,
+     "note": null
+    },
+    {
+     "product": "UNA Ontkalker of reiniger",
+     "size": "275 ml",
      "deal": null,
      "price": 1.59,
      "normalPrice": null,
@@ -6008,7 +6032,7 @@
     },
     {
      "product": "BLUE BAND Halvarine of goede start",
-     "size": "250 g",
+     "size": "500 g",
      "deal": "TOT -30%",
      "price": 1.39,
      "normalPrice": 1.99,
@@ -6016,7 +6040,7 @@
     },
     {
      "product": "BLUE BAND Vloeibaar of wikkel voor koken, bakken en braden",
-     "size": "700 ml/500 g",
+     "size": "750 ml/500 g",
      "deal": "TOT -28%",
      "price": 2.49,
      "normalPrice": 3.49,
@@ -6048,7 +6072,7 @@
     },
     {
      "product": "Knakworsten",
-     "size": "400 g, kg ± 4.73",
+     "size": "400 g, kg = 4.73",
      "deal": "-24%",
      "price": 1.89,
      "normalPrice": 2.49,
@@ -6056,7 +6080,7 @@
     },
     {
      "product": "Rookworst",
-     "size": "275-285 g, kg ± 8.74",
+     "size": "275-285 g, kg = 8.74",
      "deal": "TOT -43%",
      "price": 2.49,
      "normalPrice": null,
@@ -6064,7 +6088,7 @@
     },
     {
      "product": "Kruidnoot originele",
-     "size": "9 krepm, 155 g",
+     "size": "9 ringen, 155 g",
      "deal": "OP=OP",
      "price": 1.69,
      "normalPrice": null,
@@ -6119,12 +6143,12 @@
      "note": "NIEUW"
     },
     {
-     "product": "AMSTEL HEINEKEN Radler 0,0 pilsener",
-     "size": "4x33 cl",
+     "product": "AMSTEL HERRITAGE Radler O. pilsener b...",
+     "size": "4x330 ml",
      "deal": null,
      "price": 2.99,
      "normalPrice": null,
-     "note": "TOT 50% KORTING"
+     "note": "TOT -50%"
     },
     {
      "product": "FINISH Vaatwastabletten",
@@ -6135,8 +6159,16 @@
      "note": "OP=OP"
     },
     {
-     "product": "Color 60 caps",
-     "size": "60 stuks",
+     "product": "Frisse Blokjes",
+     "size": "750 ml",
+     "deal": null,
+     "price": 2.5,
+     "normalPrice": null,
+     "note": "2 VOOR"
+    },
+    {
+     "product": "Ettes",
+     "size": "80 stuks",
      "deal": null,
      "price": 1.99,
      "normalPrice": null,
@@ -6207,7 +6239,7 @@
      "note": "-16%"
     },
     {
-     "product": "SWEET-LAND Suikervrij mini-drop",
+     "product": "SWEET-LAND Suikervriendelijk mini- drops",
      "size": "100 g",
      "deal": null,
      "price": 1.09,
@@ -6223,7 +6255,7 @@
      "note": "-14%"
     },
     {
-     "product": "WÄSSI EN JAN VAN HAASTEREN Puzzel",
+     "product": "Puzzel",
      "size": null,
      "deal": "OP=OP",
      "price": 6.99,
@@ -6231,7 +6263,7 @@
      "note": "Per set"
     },
     {
-     "product": "TOYLINO Houten dierenpuzzel",
+     "product": "TOYLING Houten dierenpuzzel",
      "size": null,
      "deal": "OP=OP",
      "price": 2.99,
@@ -6239,7 +6271,7 @@
      "note": "Per stuk"
     },
     {
-     "product": "TOYLINO Montessori educatief houten speelgoed",
+     "product": "TOYLING Montessori educatief houten speelgoed",
      "size": null,
      "deal": "OP=OP",
      "price": 14.99,
@@ -6247,7 +6279,7 @@
      "note": "Per stuk"
     },
     {
-     "product": "WASDU JAN VAN HAASTEREN Puzzel",
+     "product": "WASDUEIN JAN VAN HAASTEREN Puzzel",
      "size": null,
      "deal": null,
      "price": 6.99,
@@ -6313,42 +6345,34 @@
     {
      "product": "TOYLING Dierenfiguren",
      "size": null,
-     "deal": "OP=OP",
+     "deal": null,
      "price": 9.99,
      "normalPrice": null,
-     "note": "Per set"
+     "note": "OP=OP"
     },
     {
      "product": "TOYLING Stapelbaar houten speelgoed",
      "size": null,
-     "deal": "OP=OP",
+     "deal": null,
      "price": 3.99,
      "normalPrice": null,
-     "note": "Per stuk"
-    },
-    {
-     "product": "CRANE Dartbord",
-     "size": null,
-     "deal": "OP=OP",
-     "price": 14.99,
-     "normalPrice": null,
-     "note": "Per stuk"
+     "note": "OP=OP"
     },
     {
      "product": "CRANE Softbal",
      "size": null,
-     "deal": "OP=OP",
+     "deal": null,
      "price": 3.99,
      "normalPrice": null,
-     "note": "Per stuk"
+     "note": "OP=OP"
     },
     {
      "product": "TOYLING Instrumentenset",
      "size": null,
-     "deal": "OP=OP",
+     "deal": null,
      "price": 4.99,
      "normalPrice": null,
-     "note": "Per stuk"
+     "note": "OP=OP"
     },
     {
      "product": "TOYLING Stuntauto",
@@ -6367,7 +6391,7 @@
      "note": "OP=OP"
     },
     {
-     "product": "NOVITESSE Dekbed",
+     "product": "NOVITESSE Dekbedovertrek",
      "size": null,
      "deal": null,
      "price": 12.99,
@@ -6399,12 +6423,12 @@
      "note": "OP=OP"
     },
     {
-     "product": "AMBIANO Elektrische glazen waterkoker",
+     "product": "AMBIANO Elektrische friteuse",
      "size": null,
      "deal": null,
      "price": 17.99,
      "normalPrice": null,
-     "note": "Per stuk"
+     "note": "OP=OP"
     },
     {
      "product": "HOME CREATION Geurkaars in bonbonglas",
@@ -6412,7 +6436,7 @@
      "deal": null,
      "price": 3.99,
      "normalPrice": null,
-     "note": "Per stuk"
+     "note": "OP=OP"
     },
     {
      "product": "HOME CREATION Geurkaars in glas",
@@ -6420,18 +6444,18 @@
      "deal": null,
      "price": 1.99,
      "normalPrice": null,
-     "note": "Per stuk"
+     "note": "OP=OP"
     },
     {
      "product": "HOME CREATION Ledkaars van echte was",
-     "size": "5-3 stuks",
+     "size": "3-3 stuks",
      "deal": null,
      "price": 4.99,
      "normalPrice": null,
-     "note": null
+     "note": "OP=OP"
     },
     {
-     "product": "Eetrije appelgebak",
+     "product": "Eetrije aardappelen",
      "size": "2 pak",
      "deal": "-20%",
      "price": 1.99,
@@ -6440,7 +6464,7 @@
     },
     {
      "product": "ASIA GREEN GARDEN Indiase maaltijd",
-     "size": "300 g",
+     "size": "330 g",
      "deal": "-23%",
      "price": 1.99,
      "normalPrice": 2.59,
@@ -6449,9 +6473,9 @@
     {
      "product": "Drooge worst",
      "size": "125 g",
-     "deal": "-23%",
+     "deal": "-24%",
      "price": 1.99,
-     "normalPrice": 2.6,
+     "normalPrice": 2.49,
      "note": null
     },
     {
@@ -6496,7 +6520,7 @@
     },
     {
      "product": "CANISIUS Appelkaneelstroop met rozijn",
-     "size": "330 g",
+     "size": "350 g",
      "deal": "OP=OP",
      "price": 1.99,
      "normalPrice": null,
@@ -6508,7 +6532,7 @@
      "deal": null,
      "price": 2.49,
      "normalPrice": null,
-     "note": null
+     "note": "OP=OP"
     },
     {
      "product": "Crunchy",
@@ -6516,7 +6540,7 @@
      "deal": null,
      "price": 1.99,
      "normalPrice": null,
-     "note": null
+     "note": "OP=OP"
     },
     {
      "product": "Drop",
@@ -6524,23 +6548,23 @@
      "deal": null,
      "price": 1.19,
      "normalPrice": null,
-     "note": null
+     "note": "OP=OP"
     },
     {
      "product": "Crystal Clear",
      "size": "1.5 l",
-     "deal": "2 voor",
+     "deal": "2 VOOR",
      "price": 3,
      "normalPrice": null,
      "note": null
     },
     {
-     "product": "Vezelrijk vruchtendrank",
+     "product": "Vezetijk vruchtendrank",
      "size": "1 l",
      "deal": null,
      "price": 1.99,
      "normalPrice": null,
-     "note": null
+     "note": "OP=OP"
     },
     {
      "product": "OLDTIMERS Drop",
@@ -6567,7 +6591,7 @@
      "note": "OP=OP"
     },
     {
-     "product": "HG Schimmelverwijderaar",
+     "product": "H6 Schimmel weerplak",
      "size": "500 ml",
      "deal": null,
      "price": 5.99,
@@ -6674,33 +6698,33 @@
      "product": "CRANE Multifunctionele doek",
      "size": null,
      "deal": null,
-     "price": 2.99,
+     "price": 1.99,
      "normalPrice": null,
-     "note": "Per stuk"
-    },
-    {
-     "product": "UP2FASHION Gebreide handschoenen",
-     "size": null,
-     "deal": null,
-     "price": 7.99,
-     "normalPrice": null,
-     "note": "Per stuk"
-    },
-    {
-     "product": "CUNDA Gebreide sjaal",
-     "size": null,
-     "deal": null,
-     "price": 5.99,
-     "normalPrice": null,
-     "note": "2-pack"
+     "note": "OP=OP"
     },
     {
      "product": "UP2FASHION Gebreide muts",
      "size": null,
      "deal": null,
+     "price": 7.99,
+     "normalPrice": null,
+     "note": "OP=OP"
+    },
+    {
+     "product": "CRANE Handschoenen 2-pack",
+     "size": "2-pack",
+     "deal": null,
+     "price": 5.99,
+     "normalPrice": null,
+     "note": "OP=OP"
+    },
+    {
+     "product": "UP2FASHION Gebreide sjaal",
+     "size": null,
+     "deal": null,
      "price": 9.99,
      "normalPrice": null,
-     "note": "Per stuk"
+     "note": "OP=OP"
     },
     {
      "product": "UP2FASHION Corduroy",
