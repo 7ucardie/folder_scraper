@@ -1,0 +1,1084 @@
+{
+ "name": "Nettorama",
+ "ok": true,
+ "source": "https://www.nettorama.nl/actiefolder",
+ "scraped": "2026-11-09",
+ "validFrom": "2026-11-09",
+ "validUntil": "2026-11-15",
+ "validUntilGuessed": false,
+ "pages": 19,
+ "offers": [
+  {
+   "product": "Rundergehakt",
+   "size": "500 gram",
+   "deal": null,
+   "price": 3.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Dr. Oetker Ristorante pizza's",
+   "size": null,
+   "deal": "DISCOUNTPRIJS",
+   "price": 5.99,
+   "normalPrice": null,
+   "note": "alle varianten"
+  },
+  {
+   "product": "Galia meloen",
+   "size": null,
+   "deal": "DISCOUNTPRIJS",
+   "price": 0.99,
+   "normalPrice": null,
+   "note": "per stuk"
+  },
+  {
+   "product": "Rode druiven of blauwe bessen",
+   "size": "500 gram of kleiner",
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": null,
+   "note": "per schaal"
+  },
+  {
+   "product": "Broccoli",
+   "size": "500 gram",
+   "deal": null,
+   "price": 0.99,
+   "normalPrice": null,
+   "note": "nieuwe oogst!"
+  },
+  {
+   "product": "Paprika mix",
+   "size": "3 stuks",
+   "deal": null,
+   "price": 1.49,
+   "normalPrice": null,
+   "note": "per zak"
+  },
+  {
+   "product": "Verse spruitjes of broccoli bloten",
+   "size": "500 gram",
+   "deal": null,
+   "price": 0.99,
+   "normalPrice": null,
+   "note": "per stuk"
+  },
+  {
+   "product": "Wortelen",
+   "size": "500 gram",
+   "deal": "DISCOUNTPRIJS!",
+   "price": 0.29,
+   "normalPrice": null,
+   "note": "per zak"
+  },
+  {
+   "product": "Bosui",
+   "size": null,
+   "deal": null,
+   "price": 0.69,
+   "normalPrice": null,
+   "note": "per bos"
+  },
+  {
+   "product": "Del Monte ananas of mango",
+   "size": null,
+   "deal": null,
+   "price": 1.49,
+   "normalPrice": null,
+   "note": "per stuk"
+  },
+  {
+   "product": "Geshoonde spruiten, sperziebonen, gesneden snijbonen of pompoenblokken",
+   "size": "250/400 gram",
+   "deal": null,
+   "price": 1.19,
+   "normalPrice": null,
+   "note": "per zak"
+  },
+  {
+   "product": "Verspakket soepen alle varianten",
+   "size": null,
+   "deal": null,
+   "price": 2.99,
+   "normalPrice": null,
+   "note": "per stuk"
+  },
+  {
+   "product": "Gemengde groenten, broccoli- of bloemkoolroosjes",
+   "size": "350/400 gram",
+   "deal": null,
+   "price": 1.79,
+   "normalPrice": null,
+   "note": "per zak"
+  },
+  {
+   "product": "Rodekruiten alle varianten",
+   "size": "500 gram",
+   "deal": null,
+   "price": 1.69,
+   "normalPrice": null,
+   "note": "zak 500 gram"
+  },
+  {
+   "product": "Beefstkroenten alle varianten",
+   "size": "400 gram",
+   "deal": null,
+   "price": 1.69,
+   "normalPrice": null,
+   "note": "zak 400 gram"
+  },
+  {
+   "product": "Beefstkroenten alle varianten Italiaans champignon",
+   "size": "400 gram",
+   "deal": null,
+   "price": 1.69,
+   "normalPrice": null,
+   "note": "zak 400 gram"
+  },
+  {
+   "product": "2 zakken assortiment",
+   "size": null,
+   "deal": null,
+   "price": 2.5,
+   "normalPrice": null,
+   "note": "2 zakken"
+  },
+  {
+   "product": "Kipfilet",
+   "size": "400 GRAM",
+   "deal": null,
+   "price": 4.5,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Sucadelapgen",
+   "size": "400 GRAM",
+   "deal": null,
+   "price": 5.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Rollade ham, procureur of varkensfilet",
+   "size": "750 GRAM",
+   "deal": null,
+   "price": 6.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Ambachtelijk geboeterd gekruide rookwoorst",
+   "size": "100 GRAM",
+   "deal": null,
+   "price": 1.75,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Ambachtelijk slagerrookworst",
+   "size": "PER STUK",
+   "deal": null,
+   "price": 2.5,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Schafkaese boerderkaas",
+   "size": "250 GRAM",
+   "deal": null,
+   "price": 2.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Kaasplateau schaal ca. 500 gram",
+   "size": "PER SCHAAL",
+   "deal": null,
+   "price": 6,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Filet Americain alle sojabotten rode bakdoe 's blg gram",
+   "size": "2 STUKS",
+   "deal": null,
+   "price": 4,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Donker volkoren of pompoenbrood",
+   "size": null,
+   "deal": "HEEL BROOD",
+   "price": 1.69,
+   "normalPrice": null,
+   "note": "WIJ BLIJVEN GOEDKOOP"
+  },
+  {
+   "product": "Meibrötchen of zwart graan petits of witte bollen met sesam of 1 stuk",
+   "size": "2 ZAKKEN",
+   "deal": null,
+   "price": 2.5,
+   "normalPrice": null,
+   "note": "WIJ BLIJVEN GOEDKOOP"
+  },
+  {
+   "product": "Kipnuggetbroodje OP=OP",
+   "size": "2 STUKS",
+   "deal": null,
+   "price": 1.5,
+   "normalPrice": null,
+   "note": "WIJ BLIJVEN GOEDKOOP"
+  },
+  {
+   "product": "Mini stokjes spinazie of kaas",
+   "size": "PAK 4 STUKS",
+   "deal": null,
+   "price": 3.49,
+   "normalPrice": null,
+   "note": "WIJ BLIJVEN GOEDKOOP"
+  },
+  {
+   "product": "American cookies* of chocolate chip cookies* of witte chocola en cranberry of speculoos, OP=OP",
+   "size": "2 STUKS",
+   "deal": null,
+   "price": 1.25,
+   "normalPrice": null,
+   "note": "VERS OP Z'N BEST"
+  },
+  {
+   "product": "Zulvelhoeve Boer'n",
+   "size": "450 ml",
+   "deal": null,
+   "price": 1,
+   "normalPrice": null,
+   "note": "DISCOUNTPRIJS PER BEKER"
+  },
+  {
+   "product": "Paring pasgatie kaas poeder",
+   "size": "raclette 150 gram",
+   "deal": null,
+   "price": 1.49,
+   "normalPrice": null,
+   "note": "PER ZAKJE"
+  },
+  {
+   "product": "Kips",
+   "size": "2 stuks",
+   "deal": null,
+   "price": 2.5,
+   "normalPrice": null,
+   "note": "alle varianten"
+  },
+  {
+   "product": "Optimel drink",
+   "size": "alle varianten",
+   "deal": null,
+   "price": 1.39,
+   "normalPrice": null,
+   "note": "PER PAK"
+  },
+  {
+   "product": "Almhof volle kwark",
+   "size": "500 ml, bak 500 gram",
+   "deal": "2 BAKKEN",
+   "price": 2.5,
+   "normalPrice": null,
+   "note": "aardbei, vanille"
+  },
+  {
+   "product": "Johma brood & toast salade",
+   "size": "175 gram",
+   "deal": null,
+   "price": 1.49,
+   "normalPrice": null,
+   "note": "PER BAK"
+  },
+  {
+   "product": "Stegeman geslookte Goldense gebraaden",
+   "size": "pak 150 gram",
+   "deal": "2 PAKKEN",
+   "price": 2.5,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Maaskaas",
+   "size": "jong of jong belegen, ongeveer 300-350 g",
+   "deal": null,
+   "price": 3.49,
+   "normalPrice": null,
+   "note": "PER STUK"
+  },
+  {
+   "product": "Dr. Oetker Ristorante pizza's",
+   "size": "3 pakken",
+   "deal": "DISCOUNTPRIJS!",
+   "price": 5.49,
+   "normalPrice": null,
+   "note": "alle varianten"
+  },
+  {
+   "product": "Aviko aardappelschotel",
+   "size": "2 zakken",
+   "deal": null,
+   "price": 3.99,
+   "normalPrice": null,
+   "note": "alle varianten, ca. 450 gram"
+  },
+  {
+   "product": "Queens panga- of alska havsfilets",
+   "size": null,
+   "deal": "PER ZAK",
+   "price": 2.69,
+   "normalPrice": null,
+   "note": "ca. 375 gram, OP=OP!"
+  },
+  {
+   "product": "Bami Goreng",
+   "size": null,
+   "deal": "PER BAK",
+   "price": 4.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Zalmfilet met huid",
+   "size": "PAK 2 STUKS",
+   "deal": null,
+   "price": 4.99,
+   "normalPrice": null,
+   "note": "250 gram"
+  },
+  {
+   "product": "Mosselen",
+   "size": "schaal 1 kilo",
+   "deal": "PER SCHAAL",
+   "price": 5.95,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Alaskaoliës",
+   "size": "500 GRAM",
+   "deal": null,
+   "price": 7.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Gebakken kibbeling",
+   "size": "schaal 400 gram",
+   "deal": "PER SCHAAL",
+   "price": 6,
+   "normalPrice": null,
+   "note": "OP=OP!"
+  },
+  {
+   "product": "Tiramisu",
+   "size": "350 gram",
+   "deal": null,
+   "price": 2.99,
+   "normalPrice": null,
+   "note": "PER PAK"
+  },
+  {
+   "product": "Chocolade truffels",
+   "size": null,
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": null,
+   "note": "PER PAK"
+  },
+  {
+   "product": "Chocolade truffels",
+   "size": "225 gram",
+   "deal": null,
+   "price": 2.99,
+   "normalPrice": null,
+   "note": "PER PAK"
+  },
+  {
+   "product": "Espresso",
+   "size": null,
+   "deal": null,
+   "price": 13.95,
+   "normalPrice": null,
+   "note": "KILOZAK"
+  },
+  {
+   "product": "Espresso bonbons",
+   "size": "200 gram",
+   "deal": null,
+   "price": 6.99,
+   "normalPrice": null,
+   "note": "PER BAK"
+  },
+  {
+   "product": "Cabaretmozzarella",
+   "size": "150 gram",
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": null,
+   "note": "PER STUK"
+  },
+  {
+   "product": "Toffee mijolnaire",
+   "size": null,
+   "deal": null,
+   "price": 1.49,
+   "normalPrice": null,
+   "note": "PER STUK"
+  },
+  {
+   "product": "Ambachtelijke chocoladepralines",
+   "size": "200 gram",
+   "deal": null,
+   "price": 2.49,
+   "normalPrice": null,
+   "note": "PER BAK"
+  },
+  {
+   "product": "Grolsch Herfstbok",
+   "size": "6 x 30cl",
+   "deal": null,
+   "price": 4.99,
+   "normalPrice": null,
+   "note": "PER PAK"
+  },
+  {
+   "product": "Hollandse kaas",
+   "size": "170-250 gram",
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": null,
+   "note": "PER BAK"
+  },
+  {
+   "product": "Tapas",
+   "size": null,
+   "deal": null,
+   "price": 5,
+   "normalPrice": null,
+   "note": "KIES & MIX 3 STUKS"
+  },
+  {
+   "product": "Cheetos spinners",
+   "size": "uit 10g gram",
+   "deal": null,
+   "price": 1.34,
+   "normalPrice": 1.49,
+   "note": "10% extra korting"
+  },
+  {
+   "product": "Pickwick thee assortiment",
+   "size": "XL PAK",
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": null,
+   "note": "DISCOUNTPRIJS!"
+  },
+  {
+   "product": "Volkorenmeel",
+   "size": "2 PAKKEN",
+   "deal": null,
+   "price": 2.49,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Côte d'Or",
+   "size": "PETIT PLAISIR",
+   "deal": "PER REEP",
+   "price": 1.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "L'Or koffiecapsules",
+   "size": "pak 20 stuks",
+   "deal": "2 PAKKEN",
+   "price": 8.99,
+   "normalPrice": null,
+   "note": "alle varianten, EXTRA LANG LAAG!"
+  },
+  {
+   "product": "Unox soep in zak",
+   "size": "570 ml",
+   "deal": null,
+   "price": 1.89,
+   "normalPrice": null,
+   "note": "DISCOUNTPRIJS PER ZAK"
+  },
+  {
+   "product": "Geesplburke",
+   "size": "2 BUIKEN",
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Santa Maria tortilla, taco shells, chips of fajita dressing",
+   "size": "2 STUKS",
+   "deal": null,
+   "price": 2.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Santa Maria polenta, enchilada sauce, burrito",
+   "size": "2 ZAKJES",
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Heineken",
+   "size": null,
+   "deal": "25% EXTRA KORTING",
+   "price": 14.22,
+   "normalPrice": null,
+   "note": "DAG-IN, DAG-UIT ACTIE"
+  },
+  {
+   "product": "Brand (appears to be beer/beverage)",
+   "size": null,
+   "deal": "25% EXTRA KORTING",
+   "price": 14.22,
+   "normalPrice": null,
+   "note": "DAG-IN, DAG-UIT ACTIE"
+  },
+  {
+   "product": "Grolsch",
+   "size": null,
+   "deal": "25% EXTRA KORTING",
+   "price": 13.22,
+   "normalPrice": null,
+   "note": "DAG-IN, DAG-UIT ACTIE"
+  },
+  {
+   "product": "Warsteiner",
+   "size": null,
+   "deal": "25% EXTRA KORTING",
+   "price": 12.25,
+   "normalPrice": null,
+   "note": "DAG-IN, DAG-UIT ACTIE"
+  },
+  {
+   "product": "Amstel",
+   "size": null,
+   "deal": "25% EXTRA KORTING",
+   "price": 12.25,
+   "normalPrice": null,
+   "note": "DAG-IN, DAG-UIT ACTIE"
+  },
+  {
+   "product": "Brand (appears to be beer/beverage)",
+   "size": null,
+   "deal": "25% EXTRA KORTING",
+   "price": 9.22,
+   "normalPrice": null,
+   "note": "DAG-IN, DAG-UIT ACTIE"
+  },
+  {
+   "product": "Brand (appears to be beer/beverage)",
+   "size": null,
+   "deal": "25% EXTRA KORTING",
+   "price": 6.48,
+   "normalPrice": null,
+   "note": "DAG-IN, DAG-UIT ACTIE"
+  },
+  {
+   "product": "Heineken 0.0",
+   "size": null,
+   "deal": "25% EXTRA KORTING",
+   "price": 9.22,
+   "normalPrice": null,
+   "note": "DAG-IN, DAG-UIT ACTIE"
+  },
+  {
+   "product": "Oliehoorn",
+   "size": "alle varianten (fles 465 ml)",
+   "deal": "3 FLESSEN DISCOUNTPRIJS",
+   "price": 5,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "Remia satesaus & ketchup",
+   "size": null,
+   "deal": "PER BAK",
+   "price": 0.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Remia ketchup, mayonaise, of kip gehakt",
+   "size": "2 BUSSEN",
+   "deal": null,
+   "price": 3.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Leffe blond, tripel of bruin",
+   "size": "6-PACK",
+   "deal": null,
+   "price": 5.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "La Trappe alle varianten",
+   "size": "2 PAKKEN",
+   "deal": null,
+   "price": 9.22,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Grolsch kerstbak",
+   "size": "6-PACK",
+   "deal": null,
+   "price": 4.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Hertog Jan Grand prestige",
+   "size": "6-PACK",
+   "deal": null,
+   "price": 5.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Tripel Karmeliet",
+   "size": "4 flesjes à 33 cl",
+   "deal": "PER PAK",
+   "price": 5.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Dubbelfrisss, Lay's of Taksi",
+   "size": "pak 1,5 liter",
+   "deal": "2 PAKKEN DISCOUNTPRIJS",
+   "price": 1.22,
+   "normalPrice": null,
+   "note": "alle varianten"
+  },
+  {
+   "product": "Crystal Clear",
+   "size": null,
+   "deal": "3 FLESSSEN",
+   "price": 2.99,
+   "normalPrice": null,
+   "note": "alle varianten fles/doos"
+  },
+  {
+   "product": "Lay's Max",
+   "size": null,
+   "deal": "PER ZAK",
+   "price": 0.99,
+   "normalPrice": null,
+   "note": "naturel of paprika of ander smaak op-op!"
+  },
+  {
+   "product": "gwoon® notenmenges en notenmixen",
+   "size": "zak 150-250 gram",
+   "deal": "KIES & MIX! 3 ZAKKEN",
+   "price": 5,
+   "normalPrice": null,
+   "note": "alle varianten"
+  },
+  {
+   "product": "Pampers alle varianten",
+   "size": "baby-dry",
+   "deal": null,
+   "price": 12.99,
+   "normalPrice": null,
+   "note": "2 PAKKEN"
+  },
+  {
+   "product": "Dreft",
+   "size": "3 in 1 power XL",
+   "deal": null,
+   "price": 7.99,
+   "normalPrice": null,
+   "note": "2 STUKS"
+  },
+  {
+   "product": "Sense bewust leven alle varianten",
+   "size": "stip 575 gram",
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": null,
+   "note": "PER KUIP"
+  },
+  {
+   "product": "Sense of Felix",
+   "size": null,
+   "deal": null,
+   "price": 3.49,
+   "normalPrice": null,
+   "note": "3 STUKS"
+  },
+  {
+   "product": "Andes chardonnay sauvignon blanc",
+   "size": "fles 750 ml",
+   "deal": "2 FLESSSEN",
+   "price": 6,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Andes syrah rosé",
+   "size": "fles 750 ml",
+   "deal": "2 FLESSSEN",
+   "price": 6,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Andes merlot",
+   "size": "fles 750 ml",
+   "deal": "2 FLESSSEN",
+   "price": 6,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Stoney Creek chardonnay sauvignon",
+   "size": "fles 750 ml",
+   "deal": "2 FLESSSEN",
+   "price": 7,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Stoney Creek pinot grigio",
+   "size": "fles 750 ml",
+   "deal": "2 FLESSSEN",
+   "price": 7,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Stoney Creek shiraz",
+   "size": "fles 750 ml",
+   "deal": "2 FLESSSEN",
+   "price": 7,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Etoile de mer",
+   "size": "fles 750 ml",
+   "deal": null,
+   "price": 6,
+   "normalPrice": null,
+   "note": "PER FLES"
+  },
+  {
+   "product": "Ultimo piano primitivo",
+   "size": "fles 750 ml",
+   "deal": "2 FLESSSEN",
+   "price": 8,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "gwoon® Dressing salade",
+   "size": "450 ml",
+   "deal": null,
+   "price": 0.99,
+   "normalPrice": null,
+   "note": "PER FLES"
+  },
+  {
+   "product": "gwoon® Padstemmer zakken 23 liter",
+   "size": "50 stuks",
+   "deal": null,
+   "price": 0.99,
+   "normalPrice": null,
+   "note": "PER ROL"
+  },
+  {
+   "product": "gwoon® Havermout rijp",
+   "size": "500 gram",
+   "deal": null,
+   "price": 0.59,
+   "normalPrice": null,
+   "note": "PER PAK"
+  },
+  {
+   "product": "gwoon® Gelderse rookwurst",
+   "size": "2x100 gram",
+   "deal": null,
+   "price": 1.69,
+   "normalPrice": null,
+   "note": "PER STUK"
+  },
+  {
+   "product": "gwoon® Worstjes of Braadworsten",
+   "size": "pak 4 stuks",
+   "deal": null,
+   "price": 1.39,
+   "normalPrice": null,
+   "note": "PER PAK"
+  },
+  {
+   "product": "gwoon® Gehaktbrood",
+   "size": null,
+   "deal": null,
+   "price": 1.39,
+   "normalPrice": null,
+   "note": "PER PAK"
+  },
+  {
+   "product": "gwoon® Pattasemmer decor",
+   "size": "pak 3 rollen",
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": null,
+   "note": "PER PAK"
+  },
+  {
+   "product": "gwoon® Frituursolie",
+   "size": "3 liter",
+   "deal": null,
+   "price": 4.99,
+   "normalPrice": null,
+   "note": "XL FLES"
+  },
+  {
+   "product": "Coca-Cola alle varianten pak 4 flessen à 1.5 liter",
+   "size": "4 x 1.5L",
+   "deal": null,
+   "price": 5.99,
+   "normalPrice": null,
+   "note": "DISCOUNTPRIJS! PER 4-PACK, EXTRA LANG LAAGI"
+  },
+  {
+   "product": "Garnier loving blends shampoo of conditioner alle varianten",
+   "size": null,
+   "deal": "2 STUKS",
+   "price": 5,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Ariel waspoeders pods 10/11 wasbeurten",
+   "size": null,
+   "deal": "2 STUKS",
+   "price": 7,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Axe deo deodorant alle varianten, 150/200ml",
+   "size": null,
+   "deal": "2 STUKS",
+   "price": 5,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Andrélon shampoo of conditioner alle varianten",
+   "size": null,
+   "deal": "2 STUKS",
+   "price": 5,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Tena incontinentieartikel",
+   "size": null,
+   "deal": "2 PAKKEN",
+   "price": 7,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Roos wasmiddel color of wit, fles 850 ml",
+   "size": null,
+   "deal": "2 FLESSEN",
+   "price": 7,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Lenas groutbusher pot 700 gram of voordeelverpakking",
+   "size": null,
+   "deal": "2 STUKS",
+   "price": 8,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Sanicar bad & douche gel original of sensitive, liters",
+   "size": null,
+   "deal": "2 LESSEN",
+   "price": 4,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Omo vloebaar wasmiddel color of wit, fles 550/900 ml",
+   "size": null,
+   "deal": "2 LESSEN",
+   "price": 6,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Fleuril vloebaar wasmiddel Rioan 1500 ml",
+   "size": null,
+   "deal": "2 STUKS",
+   "price": 13,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Lenes pods alle varianten",
+   "size": null,
+   "deal": "2 HAKKEN",
+   "price": 9,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Robijn wasmiddel disinfect pods of skin & cruelty 15-19 wasbeurten",
+   "size": null,
+   "deal": "2 STUKS",
+   "price": 12,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Always alle varianten",
+   "size": null,
+   "deal": "3 STUKS",
+   "price": 7,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Rexona deo",
+   "size": "150 ml",
+   "deal": null,
+   "price": 5,
+   "normalPrice": null,
+   "note": "2 stuks"
+  },
+  {
+   "product": "Finish powerball",
+   "size": null,
+   "deal": null,
+   "price": 9.22,
+   "normalPrice": null,
+   "note": "3 zakken"
+  },
+  {
+   "product": "Aquafresh tandpasta complete daily defense",
+   "size": "tube 75 ml",
+   "deal": null,
+   "price": 2,
+   "normalPrice": null,
+   "note": "2 tubes"
+  },
+  {
+   "product": "Libresse alle varianten",
+   "size": null,
+   "deal": null,
+   "price": 4,
+   "normalPrice": null,
+   "note": "2 stuks"
+  },
+  {
+   "product": "Dove deo deodorant",
+   "size": "alle varianten, 75 ml",
+   "deal": null,
+   "price": 5,
+   "normalPrice": null,
+   "note": "2 stuks"
+  },
+  {
+   "product": "Sun wasmiddel tablets all in 1",
+   "size": "normal of lemon, 24-31 st.",
+   "deal": null,
+   "price": 5.99,
+   "normalPrice": null,
+   "note": "3 pakken"
+  },
+  {
+   "product": "Dreft wastafeletten original all-in-one",
+   "size": "alle varianten, 90 stuks",
+   "deal": null,
+   "price": 7.22,
+   "normalPrice": null,
+   "note": "per zak"
+  },
+  {
+   "product": "Wella spray of mousse",
+   "size": "200-400 ml",
+   "deal": null,
+   "price": 5,
+   "normalPrice": null,
+   "note": "2 stuks"
+  },
+  {
+   "product": "StudioLine alle varianten, gel/tube of fris",
+   "size": "75-200 ml",
+   "deal": null,
+   "price": 5,
+   "normalPrice": null,
+   "note": "2 stuks"
+  },
+  {
+   "product": "Elsève shampoo of conditioner",
+   "size": "alle varianten, flacon 200-400 ml",
+   "deal": null,
+   "price": 7,
+   "normalPrice": null,
+   "note": "2 stuks"
+  },
+  {
+   "product": "Robijn wasverzachter",
+   "size": "alle varianten, flacon 90-780 ml",
+   "deal": null,
+   "price": 6,
+   "normalPrice": null,
+   "note": "2 stuks"
+  },
+  {
+   "product": "Ariel waspowder regular color",
+   "size": "fles à 40 wasbeurt",
+   "deal": null,
+   "price": 10,
+   "normalPrice": null,
+   "note": "xxl plus"
+  },
+  {
+   "product": "Oral-B",
+   "size": "alle varianten, tube 75 ml",
+   "deal": null,
+   "price": 6,
+   "normalPrice": null,
+   "note": "2 stuks"
+  },
+  {
+   "product": "Calvé pindakaas origineel of met stukjes pinda",
+   "size": "pot 350 gram",
+   "deal": null,
+   "price": 1.49,
+   "normalPrice": null,
+   "note": "DISCOUNTPRIJS PER POT"
+  }
+ ]
+}
