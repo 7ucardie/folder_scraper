@@ -1,0 +1,964 @@
+{
+ "name": "Aldi",
+ "ok": true,
+ "source": "https://www.aldi.nl/aanbiedingen.html",
+ "scraped": "2026-11-12",
+ "validFrom": "2026-11-09",
+ "validUntil": "2026-11-14",
+ "validUntilGuessed": false,
+ "pages": 28,
+ "offers": [
+  {
+   "product": "Peren",
+   "size": "1 kg",
+   "deal": null,
+   "price": 0.89,
+   "normalPrice": 1.79,
+   "note": null
+  },
+  {
+   "product": "Mandarijnen",
+   "size": "1 kg",
+   "deal": "-15%",
+   "price": 1.69,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Frambozen",
+   "size": "250 g",
+   "deal": "OP=OP",
+   "price": 2.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Avocado's",
+   "size": "350 g",
+   "deal": "-16%",
+   "price": 2.39,
+   "normalPrice": 2.79,
+   "note": null
+  },
+  {
+   "product": "Broccoli",
+   "size": "500 g",
+   "deal": null,
+   "price": 0.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Aubergine",
+   "size": "Per stuk",
+   "deal": "-21%",
+   "price": 0.59,
+   "normalPrice": 0.75,
+   "note": null
+  },
+  {
+   "product": "Avocado's",
+   "size": "700 g",
+   "deal": null,
+   "price": 2.39,
+   "normalPrice": 2.79,
+   "note": "-14%"
+  },
+  {
+   "product": "Aubergine",
+   "size": "Per stuk",
+   "deal": null,
+   "price": 0.59,
+   "normalPrice": 0.75,
+   "note": "-21%"
+  },
+  {
+   "product": "Knolselderij",
+   "size": "Per stuk",
+   "deal": null,
+   "price": 1.19,
+   "normalPrice": 1.49,
+   "note": "-20%"
+  },
+  {
+   "product": "DAYLICIOUS Beschrapte wortelen",
+   "size": "500 g",
+   "deal": null,
+   "price": 0.79,
+   "normalPrice": 1.19,
+   "note": "-33%"
+  },
+  {
+   "product": "Scharrelvlees",
+   "size": null,
+   "deal": "-28%",
+   "price": 3.49,
+   "normalPrice": 4.89,
+   "note": null
+  },
+  {
+   "product": "Biefstuk",
+   "size": "3 stuks, ca. 375g",
+   "deal": "OP=OP",
+   "price": 6.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Slavinken",
+   "size": "3 stuks, 300g",
+   "deal": "OP=OP",
+   "price": 4.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "GOLDEN SEAFOOD Pangasiusfilets",
+   "size": "2 stuks, 330g",
+   "deal": "-19%",
+   "price": 2.99,
+   "normalPrice": 3.72,
+   "note": null
+  },
+  {
+   "product": "MY YAY Vegan kipburgers",
+   "size": "2 stuks, 220g",
+   "deal": "-39%",
+   "price": 1.49,
+   "normalPrice": 2.49,
+   "note": null
+  },
+  {
+   "product": "Slavinken",
+   "size": "5 stuks, 300 g",
+   "deal": null,
+   "price": 4.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "MY VAY Vegan kipburgers",
+   "size": "2 stuks, 220 g",
+   "deal": "-30%",
+   "price": 1.49,
+   "normalPrice": 2.15,
+   "note": null
+  },
+  {
+   "product": "Gegrilde kipaardappel",
+   "size": "150 g",
+   "deal": "-27%",
+   "price": 1.79,
+   "normalPrice": 2.34,
+   "note": null
+  },
+  {
+   "product": "CUCINA Italiaanse antipasti-schotel",
+   "size": "100 g",
+   "deal": "-16%",
+   "price": 2.49,
+   "normalPrice": 2.99,
+   "note": null
+  },
+  {
+   "product": "Filet americain",
+   "size": "150 g",
+   "deal": "TDT -28%",
+   "price": 1.49,
+   "normalPrice": 2.09,
+   "note": null
+  },
+  {
+   "product": "MOLENLAND Goudse kaas oud 48+ stuk",
+   "size": "450 g",
+   "deal": "-22%",
+   "price": 3.99,
+   "normalPrice": 5.14,
+   "note": null
+  },
+  {
+   "product": "Product",
+   "size": "100 g",
+   "deal": "-16%",
+   "price": 2.49,
+   "normalPrice": 2.99,
+   "note": null
+  },
+  {
+   "product": "Product",
+   "size": "150 g",
+   "deal": null,
+   "price": 1.49,
+   "normalPrice": 2.09,
+   "note": null
+  },
+  {
+   "product": "Product",
+   "size": "450 g",
+   "deal": "-22%",
+   "price": 3.99,
+   "normalPrice": 5.14,
+   "note": null
+  },
+  {
+   "product": "MOLENLAND Borrelbloem",
+   "size": "175 g",
+   "deal": "-TOT -33%",
+   "price": 1.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "ASIA GREEN GARDEN Oosersé",
+   "size": "1 kg",
+   "deal": "OP=OP",
+   "price": 3.79,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "GOURMET Brioche sandwich",
+   "size": "500 g",
+   "deal": "OP=OP",
+   "price": 1.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "EARTHWHEAT Flatbread volkoren",
+   "size": null,
+   "deal": "2 VOOR",
+   "price": 3,
+   "normalPrice": 3.98,
+   "note": null
+  },
+  {
+   "product": "FINEST BAKERY Proteinebrodjes",
+   "size": null,
+   "deal": "-11%",
+   "price": 1.49,
+   "normalPrice": 1.69,
+   "note": null
+  },
+  {
+   "product": "Brioche sandwich",
+   "size": "500 g",
+   "deal": "OP=OP",
+   "price": 1.99,
+   "normalPrice": null,
+   "note": "GOURMET"
+  },
+  {
+   "product": "Flatbread volkoren",
+   "size": "5 stuks, 280 g",
+   "deal": "2 VOOR",
+   "price": 3,
+   "normalPrice": null,
+   "note": "EARTHWHEAT"
+  },
+  {
+   "product": "Protéinebroodjes",
+   "size": "4 stuks, 360 g",
+   "deal": "-11%",
+   "price": 1.49,
+   "normalPrice": 1.69,
+   "note": "FINEST BAKERY"
+  },
+  {
+   "product": "Margarine",
+   "size": "500 g",
+   "deal": null,
+   "price": 1.29,
+   "normalPrice": 1.99,
+   "note": "BELLASAIN"
+  },
+  {
+   "product": "Tonijn in zonnebloemolie",
+   "size": "750 g",
+   "deal": "OP=OP",
+   "price": 5.99,
+   "normalPrice": null,
+   "note": "GOLDEN SEAFARE"
+  },
+  {
+   "product": "Pasta",
+   "size": "250-500 g",
+   "deal": "TOT -17%",
+   "price": 1.39,
+   "normalPrice": 1.69,
+   "note": null
+  },
+  {
+   "product": "Satésaus",
+   "size": null,
+   "deal": null,
+   "price": 1.49,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Woksaus in zak",
+   "size": null,
+   "deal": null,
+   "price": 1.29,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Griekse olijfolie",
+   "size": "65-1 l",
+   "deal": "TOT -34%",
+   "price": 4.99,
+   "normalPrice": 7.59,
+   "note": null
+  },
+  {
+   "product": "Haverkoekjes",
+   "size": "300 g",
+   "deal": "-20%",
+   "price": 1.19,
+   "normalPrice": 1.49,
+   "note": null
+  },
+  {
+   "product": "Muesliepen 8-pack",
+   "size": "8 stuks, 280 g",
+   "deal": "-25%",
+   "price": 1.49,
+   "normalPrice": 1.99,
+   "note": null
+  },
+  {
+   "product": "Schuimstaafjes",
+   "size": "175 g",
+   "deal": null,
+   "price": 1.29,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Zure matten",
+   "size": "300 g",
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "TRADER JOE'S Dry roasted pinda's",
+   "size": "275 g",
+   "deal": "25% korting",
+   "price": 0.99,
+   "normalPrice": 1.33,
+   "note": null
+  },
+  {
+   "product": "LAY'S MAX chips",
+   "size": "185 g",
+   "deal": null,
+   "price": 1.49,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "WESTMINSTER Thee",
+   "size": "20 zakjes",
+   "deal": null,
+   "price": 1.49,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "GOLDEN POWER Energydrink",
+   "size": "24x 250 ml",
+   "deal": null,
+   "price": 11.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Bollato Nero Primitivo Salento or Martini or F-pack",
+   "size": "0.75 l",
+   "deal": null,
+   "price": 6.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "SOLO 4-laags toiletpapier",
+   "size": "18 rollen",
+   "deal": null,
+   "price": 5.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "OPTIMEL Drinkyoghurt",
+   "size": null,
+   "deal": null,
+   "price": 1.19,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "UNOX Gelderse of extra magere rookworst",
+   "size": "100 g",
+   "deal": null,
+   "price": 1.25,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "HAK Easy eats complete maaltijd",
+   "size": "400 g",
+   "deal": null,
+   "price": 1.69,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "REMIA Fritessaus XL",
+   "size": "1 L",
+   "deal": null,
+   "price": 2.49,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "AYIKO Aardappelpuree",
+   "size": "450 g",
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "REDBAND OF ROOMBOTERCAKE Stoep",
+   "size": "215-220 g",
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "DOUWE EGBERTS Kaffiebonen",
+   "size": "500 g",
+   "deal": null,
+   "price": 6.99,
+   "normalPrice": 9.99,
+   "note": null
+  },
+  {
+   "product": "NESCAFÉ Gold oploskoffie",
+   "size": null,
+   "deal": "-28%",
+   "price": 6.99,
+   "normalPrice": 9.75,
+   "note": null
+  },
+  {
+   "product": "RAAK Limonadesiroop zero",
+   "size": "875 l",
+   "deal": null,
+   "price": 1.79,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "AMSTEL Pilsener",
+   "size": "6x330 ml",
+   "deal": "-21%",
+   "price": 4.19,
+   "normalPrice": 5.49,
+   "note": null
+  },
+  {
+   "product": "MR. MUSCLE Ontstopper overreiniger",
+   "size": "300-500 ml",
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Conifeer",
+   "size": null,
+   "deal": null,
+   "price": 2.49,
+   "normalPrice": null,
+   "note": "OP=OP Per stuk"
+  },
+  {
+   "product": "Kalancho",
+   "size": null,
+   "deal": null,
+   "price": 1.49,
+   "normalPrice": null,
+   "note": "OP=OP Per stuk"
+  },
+  {
+   "product": "TOYLING Vitten voelboek",
+   "size": null,
+   "deal": null,
+   "price": 3.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "TOYLING Dierenspeelboek",
+   "size": null,
+   "deal": null,
+   "price": 3.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "TOYLING Houten figuurpuzzel",
+   "size": null,
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "TOYLING Houten speelfiguren",
+   "size": null,
+   "deal": null,
+   "price": 4.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "TOYLING Houten Montessori bord",
+   "size": null,
+   "deal": null,
+   "price": 5.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "TOYLING Houten verkoopstand",
+   "size": null,
+   "deal": null,
+   "price": 14.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "RAVENSBURGER Memory",
+   "size": null,
+   "deal": null,
+   "price": 9.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "TOYLING Sensorisch speelgoed",
+   "size": null,
+   "deal": null,
+   "price": 4.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "AMBIAND Ledtekenbord",
+   "size": null,
+   "deal": null,
+   "price": 14.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "TOYLING Digitaal schrijfbord",
+   "size": null,
+   "deal": null,
+   "price": 2.49,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "AMBIANO Ledtekenbord",
+   "size": null,
+   "deal": null,
+   "price": 14.99,
+   "normalPrice": null,
+   "note": "Per stuk"
+  },
+  {
+   "product": "TOYLING Nachtlamp",
+   "size": null,
+   "deal": null,
+   "price": 12.99,
+   "normalPrice": null,
+   "note": "Per stuk"
+  },
+  {
+   "product": "TOYLING 2-in-1 op restaurant",
+   "size": null,
+   "deal": null,
+   "price": 49.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "TOYLING Knuffelset",
+   "size": null,
+   "deal": null,
+   "price": 5.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "TOYLING Zachte knuffel",
+   "size": null,
+   "deal": null,
+   "price": 6.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "AMBIANO Heteluchtfriteuse",
+   "size": null,
+   "deal": null,
+   "price": 39.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "CROFTON Hybride koekenpan",
+   "size": null,
+   "deal": null,
+   "price": 14.99,
+   "normalPrice": null,
+   "note": "VANAF"
+  },
+  {
+   "product": "CROFTON Bradslee",
+   "size": null,
+   "deal": null,
+   "price": 9.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "CROFTON Siliconen keukengerei",
+   "size": null,
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "CROFTON Braadslee",
+   "size": null,
+   "deal": null,
+   "price": 9.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "CROFTON Glazen voorraadpotten",
+   "size": null,
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "AMBIANO Weetwaterdispenser",
+   "size": null,
+   "deal": null,
+   "price": 24.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "AMBIANO Heetwaterdispenser",
+   "size": null,
+   "deal": null,
+   "price": 24.99,
+   "normalPrice": null,
+   "note": "OPRUIMING"
+  },
+  {
+   "product": "Citroenen",
+   "size": "500 g",
+   "deal": "-40%",
+   "price": 0.89,
+   "normalPrice": 1.49,
+   "note": null
+  },
+  {
+   "product": "Gemarineerde schouderfiletlappen",
+   "size": null,
+   "deal": "-33%",
+   "price": 2.99,
+   "normalPrice": 4.49,
+   "note": null
+  },
+  {
+   "product": "Truffelsalami met Parmezaanse kaas",
+   "size": null,
+   "deal": "-23%",
+   "price": 2.29,
+   "normalPrice": 2.99,
+   "note": null
+  },
+  {
+   "product": "DAYLICIOUS Stamppotaardappelen",
+   "size": "1 kg",
+   "deal": "-36%",
+   "price": 0.95,
+   "normalPrice": 1.49,
+   "note": null
+  },
+  {
+   "product": "KNORR Airfryer",
+   "size": "30-70 g",
+   "deal": "OP=OP",
+   "price": 0.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "OLYARIT Knijpfruit banaan-kiwi-aardbei 4-pack",
+   "size": "4x180g",
+   "deal": "OP=OP",
+   "price": 3.49,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "DUO PENOTTI Hazelnoot-vanillepasta",
+   "size": "650 g",
+   "deal": "OP=OP",
+   "price": 2.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "NERDS Snoep",
+   "size": "113 g",
+   "deal": "OP=OP",
+   "price": 2.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "aardbei 4-pack",
+   "size": "400 g",
+   "deal": null,
+   "price": 3.49,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "aardbei 4-pack",
+   "size": "400 g",
+   "deal": null,
+   "price": 2.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "HARIBO Snoep",
+   "size": "1050-1350 g",
+   "deal": null,
+   "price": 6.49,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "LU 3-pack Toetjes",
+   "size": "3x100 g",
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "10-pack Capri-Sun",
+   "size": "10x200 ml",
+   "deal": null,
+   "price": 2.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "PAULANER OF KULPENER Speciaalbier",
+   "size": "0,5 l",
+   "deal": null,
+   "price": 1.39,
+   "normalPrice": null,
+   "note": "VANAF"
+  },
+  {
+   "product": "LEFFE Blond 4-pack",
+   "size": "4x330 ml",
+   "deal": null,
+   "price": 3.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "PAULANER OF GULFENER Speciaalbier",
+   "size": "6x1 l",
+   "deal": null,
+   "price": 1.39,
+   "normalPrice": null,
+   "note": "VANAF"
+  },
+  {
+   "product": "STADSHAVEN Speciaalbier",
+   "size": "6x ml",
+   "deal": null,
+   "price": 1.39,
+   "normalPrice": null,
+   "note": "VANAF"
+  },
+  {
+   "product": "FA Deodorant",
+   "size": "150 ml",
+   "deal": "2 VOOR",
+   "price": 3,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "UP2FASHION Kersttrui",
+   "size": null,
+   "deal": null,
+   "price": 8.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "UP2FASHION Kerstpyjama",
+   "size": null,
+   "deal": null,
+   "price": 8.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "UP2FASHION Kerstsokken 2-pack",
+   "size": "2-pack",
+   "deal": null,
+   "price": 2.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "UP2FASHION Pantoffels",
+   "size": "Per paar",
+   "deal": null,
+   "price": 4.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "ROMEO Hondentrui",
+   "size": "Per stuk",
+   "deal": null,
+   "price": 3.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "CACHET & ROMÉ Dierensjaaltjes",
+   "size": "Per stuk",
+   "deal": null,
+   "price": 1.49,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "HOME CREATION Sierkussens pack",
+   "size": "3-pack",
+   "deal": null,
+   "price": 3.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "Inpak-assortiment",
+   "size": null,
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "Romeo of Caesai - Dierensprookjes adventkalender",
+   "size": null,
+   "deal": null,
+   "price": 14.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "SOLAS Led gezichtsmasker",
+   "size": null,
+   "deal": null,
+   "price": 39.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "AMBIANO Haarstyler 3-in-1",
+   "size": null,
+   "deal": null,
+   "price": 19.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "UP2FASHION Badjas fleece",
+   "size": null,
+   "deal": null,
+   "price": 8.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "HOME CREATION Douchekop",
+   "size": null,
+   "deal": null,
+   "price": 5.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "HOME CREATION Wasmand",
+   "size": null,
+   "deal": null,
+   "price": 4.99,
+   "normalPrice": null,
+   "note": "VANAF"
+  },
+  {
+   "product": "LEIFHEIT Pegasus 150 solid slim droogrek",
+   "size": null,
+   "deal": null,
+   "price": 29.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "Wasmand",
+   "size": null,
+   "deal": null,
+   "price": 4.99,
+   "normalPrice": null,
+   "note": "HOME CREATION, VANAF"
+  },
+  {
+   "product": "Pegasus 150 solid slim droogrek",
+   "size": null,
+   "deal": null,
+   "price": 29.99,
+   "normalPrice": null,
+   "note": "LEITHEID, OP=OP"
+  }
+ ]
+}

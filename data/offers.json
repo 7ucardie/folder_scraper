@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-11T12:02:42.424Z",
+ "generated": "2026-11-12T13:06:29.475Z",
  "shops": {
   "hoogvliet": {
    "name": "Hoogvliet",
@@ -6138,14 +6138,14 @@
    "name": "Aldi",
    "ok": true,
    "source": "https://www.aldi.nl/aanbiedingen.html",
-   "scraped": "2026-11-10",
+   "scraped": "2026-11-12",
    "validFrom": "2026-11-09",
-   "validUntil": "2026-11-16",
-   "validUntilGuessed": true,
+   "validUntil": "2026-11-14",
+   "validUntilGuessed": false,
    "pages": 28,
    "offers": [
     {
-     "product": "Peer",
+     "product": "Peren",
      "size": "1 kg",
      "deal": null,
      "price": 0.89,
@@ -6171,7 +6171,7 @@
     {
      "product": "Avocado's",
      "size": "350 g",
-     "deal": "-14%",
+     "deal": "-16%",
      "price": 2.39,
      "normalPrice": 2.79,
      "note": null
@@ -6217,7 +6217,7 @@
      "note": "-20%"
     },
     {
-     "product": "DAYLICIOUS Beschrapte jonge wortelen",
+     "product": "DAYLICIOUS Beschrapte wortelen",
      "size": "500 g",
      "deal": null,
      "price": 0.79,
@@ -6241,36 +6241,12 @@
      "note": null
     },
     {
-     "product": "Vegan kipburgers",
-     "size": "2 stuks, 200g",
-     "deal": "-39%",
-     "price": 1.49,
-     "normalPrice": 2.49,
-     "note": null
-    },
-    {
      "product": "Slavinken",
      "size": "3 stuks, 300g",
      "deal": "OP=OP",
      "price": 4.99,
      "normalPrice": null,
      "note": null
-    },
-    {
-     "product": "Pangasiusfilets",
-     "size": "2 stuks, 330g",
-     "deal": "-19%",
-     "price": 2.99,
-     "normalPrice": 3.72,
-     "note": null
-    },
-    {
-     "product": "Slavinken",
-     "size": "5 stuks, 400g",
-     "deal": null,
-     "price": 4.99,
-     "normalPrice": null,
-     "note": "OP=OP"
     },
     {
      "product": "GOLDEN SEAFOOD Pangasiusfilets",
@@ -6281,16 +6257,32 @@
      "note": null
     },
     {
-     "product": "MY VAY Vegan kipburgers",
+     "product": "MY YAY Vegan kipburgers",
      "size": "2 stuks, 220g",
+     "deal": "-39%",
+     "price": 1.49,
+     "normalPrice": 2.49,
+     "note": null
+    },
+    {
+     "product": "Slavinken",
+     "size": "5 stuks, 300 g",
+     "deal": null,
+     "price": 4.99,
+     "normalPrice": null,
+     "note": "OP=OP"
+    },
+    {
+     "product": "MY VAY Vegan kipburgers",
+     "size": "2 stuks, 220 g",
      "deal": "-30%",
      "price": 1.49,
      "normalPrice": 2.15,
      "note": null
     },
     {
-     "product": "Gegrilde kip",
-     "size": "150g",
+     "product": "Gegrilde kipaardappel",
+     "size": "150 g",
      "deal": "-27%",
      "price": 1.79,
      "normalPrice": 2.34,
@@ -6298,7 +6290,7 @@
     },
     {
      "product": "CUCINA Italiaanse antipasti-schotel",
-     "size": "100g",
+     "size": "100 g",
      "deal": "-16%",
      "price": 2.49,
      "normalPrice": 2.99,
@@ -6306,15 +6298,15 @@
     },
     {
      "product": "Filet americain",
-     "size": "150g",
-     "deal": "-29%",
+     "size": "150 g",
+     "deal": "TDT -28%",
      "price": 1.49,
      "normalPrice": 2.09,
      "note": null
     },
     {
      "product": "MOLENLAND Goudse kaas oud 48+ stuk",
-     "size": "650g",
+     "size": "450 g",
      "deal": "-22%",
      "price": 3.99,
      "normalPrice": 5.14,
@@ -6345,15 +6337,15 @@
      "note": null
     },
     {
-     "product": "MOLENLAND Borrelblok",
+     "product": "MOLENLAND Borrelbloem",
      "size": "175 g",
-     "deal": "-TOT-33%",
+     "deal": "-TOT -33%",
      "price": 1.99,
      "normalPrice": null,
      "note": null
     },
     {
-     "product": "ASIA GREEN GARDEN Oostersesamzaad",
+     "product": "ASIA GREEN GARDEN Oosersé",
      "size": "1 kg",
      "deal": "OP=OP",
      "price": 3.79,
@@ -6373,7 +6365,7 @@
      "size": null,
      "deal": "2 VOOR",
      "price": 3,
-     "normalPrice": 3.99,
+     "normalPrice": 3.98,
      "note": null
     },
     {
@@ -6387,10 +6379,10 @@
     {
      "product": "Brioche sandwich",
      "size": "500 g",
-     "deal": null,
+     "deal": "OP=OP",
      "price": 1.99,
      "normalPrice": null,
-     "note": "OP=OP"
+     "note": "GOURMET"
     },
     {
      "product": "Flatbread volkoren",
@@ -6398,15 +6390,15 @@
      "deal": "2 VOOR",
      "price": 3,
      "normalPrice": null,
-     "note": null
+     "note": "EARTHWHEAT"
     },
     {
-     "product": "Proteïnebroodjes",
-     "size": "4 stuks, 380 g",
+     "product": "Protéinebroodjes",
+     "size": "4 stuks, 360 g",
      "deal": "-11%",
      "price": 1.49,
      "normalPrice": 1.69,
-     "note": null
+     "note": "FINEST BAKERY"
     },
     {
      "product": "Margarine",
@@ -6419,13 +6411,13 @@
     {
      "product": "Tonijn in zonnebloemolie",
      "size": "750 g",
-     "deal": null,
+     "deal": "OP=OP",
      "price": 5.99,
      "normalPrice": null,
-     "note": "OP=OP"
+     "note": "GOLDEN SEAFARE"
     },
     {
-     "product": "CUCINA Pasta",
+     "product": "Pasta",
      "size": "250-500 g",
      "deal": "TOT -17%",
      "price": 1.39,
@@ -6433,39 +6425,39 @@
      "note": null
     },
     {
-     "product": "ASIA GREEN GARDEN Satésaus",
+     "product": "Satésaus",
      "size": null,
      "deal": null,
-     "price": 1.99,
+     "price": 1.49,
      "normalPrice": null,
      "note": null
     },
     {
-     "product": "ASIA GREEN GARDEN Woksaus in zak",
+     "product": "Woksaus in zak",
      "size": null,
      "deal": null,
-     "price": 1.99,
+     "price": 1.29,
      "normalPrice": null,
      "note": null
     },
     {
-     "product": "LYTTOS OF BERRY Griekse olijfolie",
-     "size": "6.5 l",
+     "product": "Griekse olijfolie",
+     "size": "65-1 l",
      "deal": "TOT -34%",
      "price": 4.99,
      "normalPrice": 7.59,
      "note": null
     },
     {
-     "product": "BISCOTTO Haverkoekjes",
-     "size": "200 g",
+     "product": "Haverkoekjes",
+     "size": "300 g",
      "deal": "-20%",
      "price": 1.19,
      "normalPrice": 1.49,
      "note": null
     },
     {
-     "product": "GOLDEN BRIDGE Muesli repen 8-pack",
+     "product": "Muesliepen 8-pack",
      "size": "8 stuks, 280 g",
      "deal": "-25%",
      "price": 1.49,
@@ -6481,7 +6473,7 @@
      "note": null
     },
     {
-     "product": "Zure matjes",
+     "product": "Zure matten",
      "size": "300 g",
      "deal": null,
      "price": 1.99,
@@ -6513,48 +6505,24 @@
      "note": null
     },
     {
-     "product": "TRADER JOE'S Dry roasted pinda's",
-     "size": "225 g",
-     "deal": "-25%",
-     "price": 0.99,
-     "normalPrice": 1.33,
-     "note": null
-    },
-    {
-     "product": "LAY'S MAX chips",
-     "size": "185 g",
-     "deal": "0P=0P",
-     "price": 1.49,
-     "normalPrice": null,
-     "note": null
-    },
-    {
-     "product": "WESTMINSTER Thee",
-     "size": "20 zakjes",
-     "deal": "0P=0P",
-     "price": 1.49,
-     "normalPrice": null,
-     "note": null
-    },
-    {
      "product": "GOLDEN POWER Energydrink",
      "size": "24x 250 ml",
-     "deal": "0P=0P",
+     "deal": null,
      "price": 11.99,
      "normalPrice": null,
      "note": null
     },
     {
-     "product": "Bollato Nero Primitivo of Santini of 6-pack",
+     "product": "Bollato Nero Primitivo Salento or Martini or F-pack",
      "size": "0.75 l",
-     "deal": "0P=0P",
+     "deal": null,
      "price": 6.99,
      "normalPrice": null,
      "note": null
     },
     {
      "product": "SOLO 4-laags toiletpapier",
-     "size": "16 rollen",
+     "size": "18 rollen",
      "deal": null,
      "price": 5.99,
      "normalPrice": null,
@@ -6594,14 +6562,14 @@
     },
     {
      "product": "AYIKO Aardappelpuree",
-     "size": "430 g",
+     "size": "450 g",
      "deal": null,
      "price": 1.99,
      "normalPrice": null,
      "note": "OP=OP"
     },
     {
-     "product": "REDBAND OF VERBAUDET Snoep",
+     "product": "REDBAND OF ROOMBOTERCAKE Stoep",
      "size": "215-220 g",
      "deal": null,
      "price": 1.99,
@@ -6619,14 +6587,14 @@
     {
      "product": "NESCAFÉ Gold oploskoffie",
      "size": null,
-     "deal": "-25%",
+     "deal": "-28%",
      "price": 6.99,
      "normalPrice": 9.75,
      "note": null
     },
     {
      "product": "RAAK Limonadesiroop zero",
-     "size": "750 ml",
+     "size": "875 l",
      "deal": null,
      "price": 1.79,
      "normalPrice": null,
@@ -6651,21 +6619,21 @@
     {
      "product": "Conifeer",
      "size": null,
-     "deal": "OP=OP",
+     "deal": null,
      "price": 2.49,
      "normalPrice": null,
-     "note": "Per stuk"
+     "note": "OP=OP Per stuk"
     },
     {
      "product": "Kalancho",
      "size": null,
-     "deal": "OP=OP",
+     "deal": null,
      "price": 1.49,
      "normalPrice": null,
-     "note": "Per stuk"
+     "note": "OP=OP Per stuk"
     },
     {
-     "product": "Vitten voor baby's",
+     "product": "TOYLING Vitten voelboek",
      "size": null,
      "deal": null,
      "price": 3.99,
@@ -6673,7 +6641,7 @@
      "note": "OP=OP"
     },
     {
-     "product": "Doeboek",
+     "product": "TOYLING Dierenspeelboek",
      "size": null,
      "deal": null,
      "price": 3.99,
@@ -6713,7 +6681,7 @@
      "note": null
     },
     {
-     "product": "RAVENSBURGER Memorys",
+     "product": "RAVENSBURGER Memory",
      "size": null,
      "deal": null,
      "price": 9.99,
@@ -6785,7 +6753,7 @@
      "note": "OP=OP"
     },
     {
-     "product": "AMBIANO Hetelu-pan",
+     "product": "AMBIANO Heteluchtfriteuse",
      "size": null,
      "deal": null,
      "price": 39.99,
@@ -6801,7 +6769,7 @@
      "note": "VANAF"
     },
     {
-     "product": "CROFTON Braadslee",
+     "product": "CROFTON Bradslee",
      "size": null,
      "deal": null,
      "price": 9.99,
@@ -6817,10 +6785,26 @@
      "note": "OP=OP"
     },
     {
-     "product": "CROFTON Glazen voorraadbakjes",
+     "product": "CROFTON Braadslee",
+     "size": null,
+     "deal": null,
+     "price": 9.99,
+     "normalPrice": null,
+     "note": "OP=OP"
+    },
+    {
+     "product": "CROFTON Glazen voorraadpotten",
      "size": null,
      "deal": null,
      "price": 1.99,
+     "normalPrice": null,
+     "note": "OP=OP"
+    },
+    {
+     "product": "AMBIANO Weetwaterdispenser",
+     "size": null,
+     "deal": null,
+     "price": 24.99,
      "normalPrice": null,
      "note": "OP=OP"
     },
@@ -6830,7 +6814,7 @@
      "deal": null,
      "price": 24.99,
      "normalPrice": null,
-     "note": "OP=OP"
+     "note": "OPRUIMING"
     },
     {
      "product": "Citroenen",
@@ -6873,8 +6857,8 @@
      "note": null
     },
     {
-     "product": "OIKARIT Knijpfruit banaan-kiwi-aardbei 4-pack",
-     "size": "4x180 g",
+     "product": "OLYARIT Knijpfruit banaan-kiwi-aardbei 4-pack",
+     "size": "4x180g",
      "deal": "OP=OP",
      "price": 3.49,
      "normalPrice": null,
@@ -6882,7 +6866,7 @@
     },
     {
      "product": "DUO PENOTTI Hazelnoot-vanillepasta",
-     "size": "400 g",
+     "size": "650 g",
      "deal": "OP=OP",
      "price": 2.99,
      "normalPrice": null,
@@ -6898,7 +6882,7 @@
     },
     {
      "product": "aardbei 4-pack",
-     "size": "4x150 g",
+     "size": "400 g",
      "deal": null,
      "price": 3.49,
      "normalPrice": null,
@@ -6921,7 +6905,7 @@
      "note": "OP=OP"
     },
     {
-     "product": "LU 3-pack To",
+     "product": "LU 3-pack Toetjes",
      "size": "3x100 g",
      "deal": null,
      "price": 1.99,
@@ -6938,7 +6922,7 @@
     },
     {
      "product": "PAULANER OF KULPENER Speciaalbier",
-     "size": "0.5 l",
+     "size": "0,5 l",
      "deal": null,
      "price": 1.39,
      "normalPrice": null,
@@ -6953,8 +6937,8 @@
      "note": "OP=OP"
     },
     {
-     "product": "PAULANER OF GULFPENER Speciaalbier",
-     "size": "0.5 l",
+     "product": "PAULANER OF GULFENER Speciaalbier",
+     "size": "6x1 l",
      "deal": null,
      "price": 1.39,
      "normalPrice": null,
@@ -6962,7 +6946,7 @@
     },
     {
      "product": "STADSHAVEN Speciaalbier",
-     "size": "330 ml",
+     "size": "6x ml",
      "deal": null,
      "price": 1.39,
      "normalPrice": null,
@@ -7017,15 +7001,7 @@
      "note": null
     },
     {
-     "product": "UP2FASHION Pantoffels",
-     "size": null,
-     "deal": "Per paar",
-     "price": 4.99,
-     "normalPrice": null,
-     "note": "OP=OP"
-    },
-    {
-     "product": "CACHET & ROMEK Dierensjaals",
+     "product": "CACHET & ROMÉ Dierensjaaltjes",
      "size": "Per stuk",
      "deal": null,
      "price": 1.49,
@@ -7033,7 +7009,7 @@
      "note": "OP=OP"
     },
     {
-     "product": "HOME CREATION Sierkussen pack",
+     "product": "HOME CREATION Sierkussens pack",
      "size": "3-pack",
      "deal": null,
      "price": 3.99,
@@ -7049,7 +7025,7 @@
      "note": "OP=OP"
     },
     {
-     "product": "ROMEO OF CAPULET Dierenspaarvarken adventkalender",
+     "product": "Romeo of Caesai - Dierensprookjes adventkalender",
      "size": null,
      "deal": null,
      "price": 14.99,
@@ -7059,34 +7035,34 @@
     {
      "product": "SOLAS Led gezichtsmasker",
      "size": null,
-     "deal": "OP=OP",
+     "deal": null,
      "price": 39.99,
      "normalPrice": null,
-     "note": "Per stuk"
+     "note": "OP=OP"
     },
     {
      "product": "AMBIANO Haarstyler 3-in-1",
      "size": null,
-     "deal": "OP=OP",
+     "deal": null,
      "price": 19.99,
      "normalPrice": null,
-     "note": "Per stuk"
+     "note": "OP=OP"
     },
     {
      "product": "UP2FASHION Badjas fleece",
      "size": null,
-     "deal": "OP=OP",
+     "deal": null,
      "price": 8.99,
      "normalPrice": null,
-     "note": "Per stuk"
+     "note": "OP=OP"
     },
     {
-     "product": "HOME CREATION Douchekowel",
+     "product": "HOME CREATION Douchekop",
      "size": null,
-     "deal": "OP=OP",
+     "deal": null,
      "price": 5.99,
      "normalPrice": null,
-     "note": "Per set"
+     "note": "OP=OP"
     },
     {
      "product": "HOME CREATION Wasmand",
@@ -7094,15 +7070,15 @@
      "deal": null,
      "price": 4.99,
      "normalPrice": null,
-     "note": "VANAF, Per stuk"
+     "note": "VANAF"
     },
     {
      "product": "LEIFHEIT Pegasus 150 solid slim droogrek",
      "size": null,
-     "deal": "OP=OP",
+     "deal": null,
      "price": 29.99,
      "normalPrice": null,
-     "note": "Per stuk"
+     "note": "OP=OP"
     },
     {
      "product": "Wasmand",
@@ -7118,7 +7094,7 @@
      "deal": null,
      "price": 29.99,
      "normalPrice": null,
-     "note": "LEITHEID, OP-OP"
+     "note": "LEITHEID, OP=OP"
     }
    ]
   },
