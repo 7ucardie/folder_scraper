@@ -1,0 +1,1052 @@
+{
+ "name": "Aldi",
+ "ok": true,
+ "source": "https://www.aldi.nl/aanbiedingen.html",
+ "scraped": "2026-11-16",
+ "validFrom": "2026-11-16",
+ "validUntil": "2026-11-22",
+ "validUntilGuessed": false,
+ "pages": 31,
+ "offers": [
+  {
+   "product": "Big American's Texas",
+   "size": null,
+   "deal": null,
+   "price": 1.89,
+   "normalPrice": 4.65,
+   "note": null
+  },
+  {
+   "product": "Spruiten",
+   "size": "750 g",
+   "deal": "-47%",
+   "price": 0.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Gegrilde",
+   "size": "200 g",
+   "deal": "31%",
+   "price": 1.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "SUN SNACKS Xtra ribbel chips",
+   "size": "150 g",
+   "deal": "-20%",
+   "price": 1.19,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "NESCAFÉ Dolce Gusto koffiecups",
+   "size": "8-16 cups",
+   "deal": "-5%",
+   "price": 3.29,
+   "normalPrice": 6.59,
+   "note": null
+  },
+  {
+   "product": "HERTOG JAN Bier",
+   "size": "6x330 ml",
+   "deal": null,
+   "price": 4.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "NESCAFÉ Dolce Gusto koffiecups",
+   "size": "3-16 cups",
+   "deal": "-49%",
+   "price": 3.29,
+   "normalPrice": 6.49,
+   "note": null
+  },
+  {
+   "product": "HERTOS JAN Bier",
+   "size": "6x330 ml",
+   "deal": null,
+   "price": 4.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "PEDIGREE Jumbone",
+   "size": "14 stuks",
+   "deal": "OPSOP",
+   "price": 1.29,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "PINK LADY Appels",
+   "size": "6 stuks",
+   "deal": "-16%",
+   "price": 2.49,
+   "normalPrice": 2.99,
+   "note": null
+  },
+  {
+   "product": "Eetrijpe avocado's",
+   "size": "2 pack",
+   "deal": "-28%",
+   "price": 1.99,
+   "normalPrice": 2.79,
+   "note": null
+  },
+  {
+   "product": "Spitskool",
+   "size": "Per stuk",
+   "deal": "-13%",
+   "price": 1.29,
+   "normalPrice": 1.49,
+   "note": null
+  },
+  {
+   "product": "Extra grote kruimige aardappelen",
+   "size": "3 kg",
+   "deal": "-28%",
+   "price": 2.49,
+   "normalPrice": 3.49,
+   "note": null
+  },
+  {
+   "product": "DAYLICIOUS Fruitsalade",
+   "size": "500 g",
+   "deal": "OP=OP",
+   "price": 2.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "DAYLICIOUS Fruitsalade",
+   "size": "500 g",
+   "deal": "0P=0P",
+   "price": 2.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "DAYLICIOUS Mini krieltjes",
+   "size": "500 g",
+   "deal": "-23%",
+   "price": 0.99,
+   "normalPrice": 1.29,
+   "note": "kg = 1.41"
+  },
+  {
+   "product": "Verse worsten",
+   "size": "300 g",
+   "deal": "0P=0P",
+   "price": 3.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "CURRYSTAR Curryworsten",
+   "size": "5 stuks, 500 g",
+   "deal": "0P=0P",
+   "price": 4.99,
+   "normalPrice": null,
+   "note": "kg = 5.52"
+  },
+  {
+   "product": "Gemengd gehakt gekruid",
+   "size": "500 g",
+   "deal": "-34%",
+   "price": 2.99,
+   "normalPrice": 4.59,
+   "note": null
+  },
+  {
+   "product": "Gourmet Herten-nek",
+   "size": "300 g",
+   "deal": null,
+   "price": 7.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "Kipcroquetten gemarine",
+   "size": "500 g",
+   "deal": null,
+   "price": 2.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "MOLENLAND Goudse kaasplakken 48+",
+   "size": "250 g",
+   "deal": "TOT -39%",
+   "price": 1.89,
+   "normalPrice": 3.14,
+   "note": null
+  },
+  {
+   "product": "Gbrader",
+   "size": "150 g",
+   "deal": "-24%",
+   "price": 1.19,
+   "normalPrice": 1.57,
+   "note": null
+  },
+  {
+   "product": "MILSANI Optifit drinkyoghurt",
+   "size": "1 L",
+   "deal": "-30%",
+   "price": 0.89,
+   "normalPrice": 1.29,
+   "note": null
+  },
+  {
+   "product": "Volkoren sesambrood",
+   "size": "300 g",
+   "deal": "OP=OP",
+   "price": 1.49,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "BÄKKERI KARA FIRIN Mini Turks brood",
+   "size": "2 stuks, 200 g",
+   "deal": "OP=OP",
+   "price": 1.29,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "1",
+   "size": null,
+   "deal": "-30%",
+   "price": 0.89,
+   "normalPrice": 1.29,
+   "note": null
+  },
+  {
+   "product": "500 g",
+   "size": null,
+   "deal": null,
+   "price": 1.49,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "2 stuks, 480 g",
+   "size": null,
+   "deal": "OP=OP",
+   "price": 1.29,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "GOLDEN BRIDE Ontbijtgranen",
+   "size": "250 g",
+   "deal": "OP=OP",
+   "price": 2.49,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "SPEISE ZEIT Duitse goulash",
+   "size": "800 g",
+   "deal": "OP=OP",
+   "price": 2.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "CUCINA Olijfolie extra vierge",
+   "size": "500 ml",
+   "deal": "OP=OP",
+   "price": 4.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "LE GUSTO Curry ketchup",
+   "size": "475 ml",
+   "deal": "-17%",
+   "price": 1.79,
+   "normalPrice": 2.19,
+   "note": null
+  },
+  {
+   "product": "ALL SEASONS Ananastukjes 3-pack",
+   "size": "3 x 1 dl g",
+   "deal": "OP=OP",
+   "price": 2.69,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "CUCINA Olijfolie extra vierge",
+   "size": "500 ml",
+   "deal": null,
+   "price": 4.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "ALL SEASONS Ananasstuikjes 3-pack",
+   "size": "3x140 g",
+   "deal": null,
+   "price": 2.69,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "MOSER ROTH Chocolade",
+   "size": "150 g",
+   "deal": null,
+   "price": 2.29,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "BARISSIMO Instant cappuccino",
+   "size": null,
+   "deal": null,
+   "price": 3.29,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "WESTMINSTER Groene thee",
+   "size": null,
+   "deal": null,
+   "price": 0.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "BARISSIMO Kaffiebonen Milano crema of Siciliano",
+   "size": "1 kg",
+   "deal": null,
+   "price": 9.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "LIL ROSE Hot wild berries",
+   "size": "0.75 l",
+   "deal": null,
+   "price": 2.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "POWER FORCE Toiletblokken power 5-pack",
+   "size": "5x44 g",
+   "deal": null,
+   "price": 3.29,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "PRÉSIDENT Brie",
+   "size": "200 g",
+   "deal": "-33%",
+   "price": 1.99,
+   "normalPrice": 2.99,
+   "note": null
+  },
+  {
+   "product": "EHRMANN High protein skyr",
+   "size": null,
+   "deal": "2 VOOR",
+   "price": 2.5,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "ALMHOF Choco met slagroom",
+   "size": null,
+   "deal": "OP=OP",
+   "price": 0.79,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "EHRMANN Milk twist",
+   "size": null,
+   "deal": "OP=OP",
+   "price": 0.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "ALMHOF Choco met slagroom",
+   "size": "180 g",
+   "deal": null,
+   "price": 0.79,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "EHRMANN Milk twist",
+   "size": "400 ml",
+   "deal": null,
+   "price": 0.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "UNOX Rookworst",
+   "size": null,
+   "deal": null,
+   "price": 2.49,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "HEINZ Sandwich Spread",
+   "size": "150 g",
+   "deal": null,
+   "price": 1.69,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "BECEL ProActiv of vloeibaar original",
+   "size": "250 g/300 ml",
+   "deal": null,
+   "price": 1.69,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "HARIBO Snoep",
+   "size": "180-185 g",
+   "deal": null,
+   "price": 1.19,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "Wasgel of shampoo",
+   "size": "400 ml",
+   "deal": null,
+   "price": 3.39,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "Atwassmiddel",
+   "size": "340 ml",
+   "deal": null,
+   "price": 1.25,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "SWIFFER Starterspakket megapak",
+   "size": null,
+   "deal": null,
+   "price": 9.99,
+   "normalPrice": null,
+   "note": "DP=OP"
+  },
+  {
+   "product": "Strooisnack",
+   "size": "300g",
+   "deal": "-16%",
+   "price": 2.49,
+   "normalPrice": 2.99,
+   "note": null
+  },
+  {
+   "product": "Choco-sintfiguren",
+   "size": null,
+   "deal": "-15%",
+   "price": null,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Choco-sintfiguren",
+   "size": "120 g",
+   "deal": "15% korting",
+   "price": 1.99,
+   "normalPrice": 2.35,
+   "note": null
+  },
+  {
+   "product": "Cyclaam",
+   "size": null,
+   "deal": null,
+   "price": 2.39,
+   "normalPrice": null,
+   "note": "Op=Op"
+  },
+  {
+   "product": "Poinsettia",
+   "size": null,
+   "deal": null,
+   "price": 2.79,
+   "normalPrice": null,
+   "note": "Op=Op"
+  },
+  {
+   "product": "Rvs kook- en afwasteil",
+   "size": null,
+   "deal": null,
+   "price": 14.99,
+   "normalPrice": null,
+   "note": "Per stuk"
+  },
+  {
+   "product": "2-delige multifunctionele...",
+   "size": null,
+   "deal": null,
+   "price": 4.99,
+   "normalPrice": null,
+   "note": "Per set"
+  },
+  {
+   "product": "Tafelkleed of -loper",
+   "size": null,
+   "deal": null,
+   "price": 3.99,
+   "normalPrice": null,
+   "note": "Per stuk"
+  },
+  {
+   "product": "Mozzarella Officiel...",
+   "size": null,
+   "deal": null,
+   "price": 4.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "Product",
+   "size": null,
+   "deal": null,
+   "price": 3.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "Sweatshirt",
+   "size": null,
+   "deal": null,
+   "price": 17.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "Sokken 1...",
+   "size": null,
+   "deal": null,
+   "price": 9.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "UP2FASHION Fluffy trui",
+   "size": null,
+   "deal": null,
+   "price": 8.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "MEXX Pyjama",
+   "size": null,
+   "deal": null,
+   "price": 19.99,
+   "normalPrice": null,
+   "note": "Per set"
+  },
+  {
+   "product": "UP2FASHION Kerstsokken 2-pack",
+   "size": "2-pack",
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "HOME CREATION Ledkaars",
+   "size": null,
+   "deal": null,
+   "price": 2.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "HOME CREATION Led kerststereel",
+   "size": null,
+   "deal": null,
+   "price": 9.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "HOME CREATION Ledkerststiguur",
+   "size": null,
+   "deal": null,
+   "price": 3.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "HOME CREATION 3D-lichster",
+   "size": null,
+   "deal": null,
+   "price": 6.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "CASALUX Ledwandlamp",
+   "size": "2-pack",
+   "deal": null,
+   "price": 7.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "HOME CREATION Kerstboom",
+   "size": null,
+   "deal": null,
+   "price": 2.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "HOME CREATION Sneeuwbol met kerstfiguur",
+   "size": null,
+   "deal": null,
+   "price": 0.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "HOME CREATION Kersthanger huis",
+   "size": null,
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "Product",
+   "size": null,
+   "deal": null,
+   "price": 0.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "Product",
+   "size": null,
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "IJsbergsla",
+   "size": null,
+   "deal": "-23%",
+   "price": 0.65,
+   "normalPrice": 0.95,
+   "note": null
+  },
+  {
+   "product": "XXL varkens- of kipschnitzel",
+   "size": "250 g",
+   "deal": "-21%",
+   "price": 2.49,
+   "normalPrice": 3.19,
+   "note": null
+  },
+  {
+   "product": "Hummus naturel",
+   "size": "200 g",
+   "deal": "-38%",
+   "price": 0.89,
+   "normalPrice": 1.29,
+   "note": null
+  },
+  {
+   "product": "Tapas roomkaasrolletjes",
+   "size": "100 g",
+   "deal": "-20%",
+   "price": 1.59,
+   "normalPrice": 1.99,
+   "note": null
+  },
+  {
+   "product": "Product",
+   "size": "250 g",
+   "deal": "21% korting",
+   "price": 2.49,
+   "normalPrice": 3.19,
+   "note": null
+  },
+  {
+   "product": "Product",
+   "size": "200 g",
+   "deal": null,
+   "price": 0.89,
+   "normalPrice": 1.29,
+   "note": "kg = 4.45"
+  },
+  {
+   "product": "Product",
+   "size": "100 g",
+   "deal": null,
+   "price": 1.59,
+   "normalPrice": 1.99,
+   "note": null
+  },
+  {
+   "product": "Knaks",
+   "size": null,
+   "deal": "OP=OP",
+   "price": 1.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Rijstbuild",
+   "size": "241/25 g",
+   "deal": "2 VOOR",
+   "price": 2,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Product",
+   "size": "312-344 g",
+   "deal": "OP=OP",
+   "price": 4.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Product",
+   "size": "150 g",
+   "deal": "OP=OP",
+   "price": 1.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "KELLOGG'S Frosties of coco pops repen",
+   "size": "6 stuks, 126-15g",
+   "deal": null,
+   "price": 1.59,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "FISHERMAN'S Pastilles",
+   "size": "3x25 g",
+   "deal": null,
+   "price": 1.79,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "DUBBELFRISSS Boost",
+   "size": "1 l",
+   "deal": null,
+   "price": 0.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "COCA-COLA Creamy vanilla regular of 0%",
+   "size": "1.5 l",
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "GROLSCH OF LEEFFE Speciaalbier 4-6-pack",
+   "size": "6x0.5 l (of33 ml)",
+   "deal": null,
+   "price": 5.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "1.5 L",
+   "size": "1.5 L",
+   "deal": null,
+   "price": 0.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "1.5 L",
+   "size": "1.5 L",
+   "deal": "OP=OP",
+   "price": 1.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "6ML51/60320 ml",
+   "size": "ml",
+   "deal": null,
+   "price": 5.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "LA CHOUFFE Speciaalbier",
+   "size": "4X330 ml",
+   "deal": "VANAF",
+   "price": 6.59,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "DETTOL Reiniger",
+   "size": "0.5 L",
+   "deal": "OP=OP",
+   "price": 1.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "CROFTON Siliconen",
+   "size": null,
+   "deal": null,
+   "price": 1.49,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "CROFTON Etagère",
+   "size": null,
+   "deal": null,
+   "price": 6.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "HD-led projector 4K",
+   "size": null,
+   "deal": null,
+   "price": 49.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "CASALUX Staande lamp",
+   "size": null,
+   "deal": null,
+   "price": 14.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "CASALUX Plafondlamp",
+   "size": null,
+   "deal": null,
+   "price": 9.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "AMBIANO Luchtontvochter",
+   "size": null,
+   "deal": null,
+   "price": 89.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "AMBIANO Pluizentoller",
+   "size": null,
+   "deal": null,
+   "price": 3.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "Tochtstrip",
+   "size": null,
+   "deal": "OP=OP",
+   "price": 1.99,
+   "normalPrice": null,
+   "note": "Per stuk"
+  },
+  {
+   "product": "Bureaukalender",
+   "size": null,
+   "deal": "OP=OP",
+   "price": null,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Wandkalender",
+   "size": null,
+   "deal": "OP=OP",
+   "price": null,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "Aanmaak",
+   "size": "32 stuks",
+   "deal": "OP=OP",
+   "price": 2.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "UP2FASHION Huispak",
+   "size": null,
+   "deal": "OP=OP",
+   "price": 12.99,
+   "normalPrice": null,
+   "note": "Per set"
+  },
+  {
+   "product": "LILY & DAN Pyjama",
+   "size": null,
+   "deal": null,
+   "price": 4.99,
+   "normalPrice": null,
+   "note": "Per set"
+  },
+  {
+   "product": "STITCH/SPIDERMAN Pyjama",
+   "size": null,
+   "deal": null,
+   "price": 5.99,
+   "normalPrice": null,
+   "note": "Per set"
+  },
+  {
+   "product": "LILY & DAN Pyjama",
+   "size": null,
+   "deal": "OP=OP",
+   "price": 4.99,
+   "normalPrice": null,
+   "note": "Per set"
+  },
+  {
+   "product": "UP2FASHION Velours pyjama",
+   "size": null,
+   "deal": "OP=OP",
+   "price": 6.99,
+   "normalPrice": null,
+   "note": "Per set"
+  },
+  {
+   "product": "STITCH/SPIDERMAN Fleece huispak",
+   "size": null,
+   "deal": null,
+   "price": 7.99,
+   "normalPrice": null,
+   "note": "V.A. ZA. 21.11. Per stuk"
+  },
+  {
+   "product": "UP2FASHION Enkel schoenen",
+   "size": null,
+   "deal": "OP=OP",
+   "price": 14.99,
+   "normalPrice": null,
+   "note": "Per paar"
+  },
+  {
+   "product": "LILY & DAN Laarzen",
+   "size": null,
+   "deal": "OP=OP",
+   "price": 9.99,
+   "normalPrice": null,
+   "note": "Per paar"
+  },
+  {
+   "product": "UP2FASHION Gevoerde boots",
+   "size": null,
+   "deal": null,
+   "price": 16.99,
+   "normalPrice": null,
+   "note": "DF=OP Per paar"
+  },
+  {
+   "product": "UP2FASHION Enkel schoenen",
+   "size": null,
+   "deal": null,
+   "price": 14.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "LILY & DAN Laarzen",
+   "size": null,
+   "deal": null,
+   "price": 9.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "UP2FASHION Corduroy",
+   "size": null,
+   "deal": null,
+   "price": 5.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "UP2FASHION Vilten pantoffels",
+   "size": null,
+   "deal": null,
+   "price": 5.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "UP2FASHION Huissokken 2-pack",
+   "size": "2-pack",
+   "deal": null,
+   "price": 2.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "PAW PATROL/SPIDERMAN Sokken 2-pack",
+   "size": "2-pack",
+   "deal": null,
+   "price": 1.99,
+   "normalPrice": null,
+   "note": null
+  },
+  {
+   "product": "LILY & DAN Fluffy anti-slip sokken 2-pack",
+   "size": "2-pack",
+   "deal": null,
+   "price": 2.49,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "KPop Demi",
+   "size": null,
+   "deal": null,
+   "price": 12.99,
+   "normalPrice": null,
+   "note": "OP=OP"
+  },
+  {
+   "product": "DISNEY Doorables knuffel",
+   "size": "per stuk",
+   "deal": null,
+   "price": 9.99,
+   "normalPrice": null,
+   "note": null
+  }
+ ]
+}
