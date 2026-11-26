@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-25T14:49:06.884Z",
+ "generated": "2026-11-26T14:14:34.876Z",
  "shops": {
   "hoogvliet": {
    "name": "Hoogvliet",
@@ -5028,7 +5028,7 @@
     }
    ],
    "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.jumbo.com/aanbiedingen\", waiting until \"domcontentloaded\"\n",
-   "failedOn": "2026-11-25"
+   "failedOn": "2026-11-26"
   },
   "ah": {
    "name": "Albert Heijn",
